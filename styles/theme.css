@@ -32,9 +32,20 @@ div#authors {
     padding-bottom: 10px;
 }
 
-section#articles {
+section#articles, section#content-block {
     padding-top: 150px;
     padding-bottom: 80px;
+}
+
+#content-block {
+    box-shadow: 14px 14px 0px #000;
+    background-color: #999 !important;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+#content-block * {
+    font-family: 'Arvo', serif;
 }
 
 a.menu-button {
@@ -79,7 +90,7 @@ p.authors a {
     text-decoration: underline;
 }
 
-.content {
+section.main-section {
     background-image: url(/images/80s_pattern.png);
 }
 
@@ -98,6 +109,11 @@ section#articles {
 
 footer {
     background-color: #222 !important;
+    color: #eee !important;
+}
+
+.episode-info {
+    margin-bottom: 10px;
 }
 
 
