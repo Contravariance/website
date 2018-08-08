@@ -17,7 +17,7 @@
     	<itunes:category text="Tech News" />
     </itunes:category>
     <itunes:owner>
-    	<itunes:email>bas@basbroek.nl</itunes:email>
+    	<itunes:email>bas@contravariance.rocks</itunes:email>
     	<itunes:name>Bas Broek</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
