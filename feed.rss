@@ -11,7 +11,7 @@
     </itunes:summary>
     <itunes:subtitle>An experimental podcast about Apple, Swift and other programming topics</itunes:subtitle>
     <itunes:author>Benedikt Terhechte and Bas Broek</itunes:author>
-    <itunes:image href="https://contravariance.rocks/images/logo_3000.png" />
+    <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
     <language>en-us</language>
     <itunes:category text="Technology">
     	<itunes:category text="Tech News" />
