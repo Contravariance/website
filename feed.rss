@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd">
+  <channel>
+    <title>Contravariance</title>
+    <link>https://contravariance.rocks</link>
+    <description>
+      An experimental podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.
+    </description>
+    <itunes:summary>
+      An experimental podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.
+    </itunes:summary>
+    <itunes:subtitle>An experimental podcast about Apple, Swift and other programming topics</itunes:subtitle>
+    <itunes:author>Benedikt Terhechte and Bas Broek</itunes:author>
+    <itunes:image href="https://contravariance.rocks/images/logo_3000.png" />
+    <language>en-us</language>
+    <itunes:category text="Technology">
+    	<itunes:category text="Tech News" />
+    </itunes:category>
+    <itunes:owner>
+    	<itunes:email>bas@basbroek.nl</itunes:email>
+    	<itunes:name>Bas Broek</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <copyright>Copyright 2018 Contravariance</copyright>
+
+    <item>
+      <guid>s1e1-applicationDidFinishLaunching:</guid>
+      <itunes:title>applicationDidFinishLaunching:</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>
+        We discuss keyboards, 8 years of Swift and conferences we'll be speaking at in September 2018.
+      </description>
+      <content:encoded>
+        <p> <h3>Contact information</h3> <ul> <li><a href="https://contravariance.rocks">Contravariance's website</a></li><li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li><li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li><li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li></ul> <ul> <li><a href="https://appventure.me">Benedikt's blog</a></li><li><a href="https://basthomas.github.io">Bas' blog</a></li></ul></p><p> <h3>Keyboards</h3> <ul> <li><a href="https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001">Sculpt Ergonomic Keyboard</a></li><li><a href="https://www.amazon.com/dp/B01EHSLFAY/ref=cm_sw_r_cp_api_i_WRXABbA045104">MoKo Universal Foldable Keyboard</a></li></ul></p><p> <h3>8 years of Swift</h3> <ul> <li><a href="https://twitter.com/slava_pestov/status/1021627717228220417">Tweet by Slava Pestov</a></li><li><a href="https://github.com/rust-lang/rust">Rust</a></li><li><a href="https://github.com/JetBrains/kotlin">Kotlin</a></li></ul></p><p> <h3>Conferences</h3> <ul> <li><a href="https://www.tryswift.co/events/2018/nyc">try! Swift NYC 2018</a></li><ul> <li><a href="https://www.tryswift.co/events/2018/nyc/#tickets">Tickets</a></li></ul> <li><a href="https://nsspain.com">NSSpain</a></li><ul> <li><a href="https://ti.to/nsspain/2018-edition">Tickets</a></li></ul> </ul></p>
+      </content:encoded>
+      <itunes:author>Benedikt Terhechte and Bas Broek</itunes:author>
+      <itunes:duration>33:11</itunes:duration>
+      <pubDate>Thu, 09 Aug 2018 19:00:00 GMT</pubDate>
+      <enclose url="https://contravariance.rocks/episodes/101_ applicationDidFinishLaunching.mp3" length="37215449" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
