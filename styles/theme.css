@@ -32,7 +32,7 @@ div#authors {
     padding-bottom: 10px;
 }
 
-section#articles, section#content-block {
+section#articles, section#content-block, section.main-section {
     padding-top: 150px;
     padding-bottom: 80px;
 }
@@ -93,10 +93,13 @@ p.authors a {
 section.main-section {
     background-image: url(/images/80s_pattern.png);
 }
-
 section#articles h1 {
     padding: 0px !important;
     margin: 0px;
+}
+section#articles h1 a{
+    color: white !important;
+    border-bottom: 1px dashed white;
 }
 section#articles div.column {
     padding-top: 0px;
