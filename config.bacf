@@ -1,0 +1,5 @@
+- templateFolder: .
+- podcastEntriesFolder: entries/
+- podcastTargetFolder: episodes/
+- podcastTitle: Contravariance Podcast
+- entriesTemplate: _entry.html
