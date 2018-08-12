@@ -1,7 +1,12 @@
 #!/usr/bin/swift
 
-// MASSE
-// Most Awful Static Site Engine
+/// MASSE
+/// Most Awful Static Site Engine
+/// 
+/// This is a single-file pure-swift static site engine
+/// specifically build for the `Contravariance` podcast.
+/// It was build on two train rides and offers a lot of
+/// opportunities for improvements.
 
 import Foundation
 
