@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://www.rssboard.org/media-rss">
+  <channel>
+    <title>Contravariance. A Swift Podcast</title>
+    <link>https://contravariance.rocks</link>
+    <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en</language>
+    <pubDate>Sun, 12 Aug 2018 19:13:36 CEST</pubDate>
+    <lastBuildDate>Sun, 12 Aug 2018 19:13:36 CEST</lastBuildDate>
+    <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
+    <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+    <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
+    <itunes:keywords>apple, swift, mac, iphone, ipad, macos, mojave, rust</itunes:keywords>
+    <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Bas Broek</itunes:name>
+      <itunes:email>bas@contravariance.rocks</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <copyright>Copyright 2018 Contravariance</copyright>
+
+    <!-- Latest -->
+    <item>
+      <title>101: applicationDidFinishLaunching:</title>
+      <link>https://contravariance.rocks/episodes/101_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/101_show_notes.html</guid>
+      <pubDate>Sat, 11 Aug 2018 17:18:00 CEST</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/101_applicationDidFinishLaunching.mp3" length="39850623"/>
+      <itunes:duration>00:33:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Where Bas and Benedikt discuss MacBook Keyboards, Swift's eigth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.</description>
+      <itunes:summary>Where Bas and Benedikt discuss MacBook Keyboards, Swift's eigth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Keyboards</h3>
+
+  <ul>
+    <li><a href="https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001">Sculpt Ergonomic Keyboard</a></li>
+    <li><a href="https://www.amazon.com/dp/B01EHSLFAY/ref=cm_sw_r_cp_api_i_WRXABbA045104">MoKo Universal Foldable Keyboard</a></li>
+    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard1.jpg">MacBook Pro with Foldable Keyboard on top [1]</a></li>
+    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard2.jpg">MacBook Pro with Foldable Keyboard on top [2]</a></li>
+    <li><img src="/episodes/101/macbook_pro_ergonomic_keyboard3.png" /></li>
+  </ul>
+</p>
+<p>
+  <h3>8 years of Swift</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/slava_pestov/status/1021627717228220417">Tweet by Slava Pestov</a></li>
+    <li><a href="https://github.com/rust-lang/rust">Rust</a></li>
+    <li><a href="https://github.com/JetBrains/kotlin">Kotlin</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Conferences</h3>
+
+  <ul>
+    <li><a href="https://www.tryswift.co/events/2018/nyc">try! Swift NYC 2018</a></li>
+    <ul>
+      <li><a href="https://www.tryswift.co/events/2018/nyc/#tickets">Tickets</a></li>
+    </ul>
+    <li><a href="https://nsspain.com">NSSpain</a></li>
+    <ul>
+      <li><a href="https://ti.to/nsspain/2018-edition">Tickets</a></li>
+    </ul>
+  </ul>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+
+  </channel>
+</rss>
