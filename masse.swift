@@ -4,18 +4,18 @@
 /// Most Awful Static Site Engine
 /// 
 /// This is a single-file pure-swift static site engine
-/// specifically build for the `Contravariance` podcast.
-/// It was build on two train rides and offers a lot of
+/// specifically built for the `Contravariance` podcast.
+/// It was built on two train rides and offers a lot of
 /// opportunities for improvements.
 
 import Foundation
 
 enum Keys {
-    enum ConfigurationKeys: String, CaseIterable {
+    enum Configuration: String, CaseIterable {
         case templateFolder, podcastEntriesFolder, podcastTargetFolder, podcastTitle, entriesTemplate, podcastLink, podcastDescription, podcastKeywords, iTunesOwner, iTunesEmail, linkiTunes, linkOvercast, linkTwitter, linkPocketCasts, podcastAuthor
 
     }
-    enum PodcastEntryKeys: String, CaseIterable {
+    enum PodcastEntry: String, CaseIterable {
         case nr, title, date, file, duration, length, author, description, notes
     }
 }
@@ -66,7 +66,7 @@ struct TemplateBlockParser {
     private let endMarkerStart = "{{END}}"
     private let contents: String
     
-    private var currentName: String? = nil
+    private var currentName: String?
     private var currentLines: [String] = []
     
     private var cleanedContents: [String] = []
@@ -259,7 +259,7 @@ struct ConfigEntryParser {
     
     func retrieve() -> [String: String] {
         var hasReachedSeperator = false
-        var result = [String: String]()
+        var result: [String: String] = []
         var notesLines = ""
         for line in contents.components(separatedBy: .newlines) {
             if hasReachedSeperator {
@@ -331,7 +331,7 @@ struct PodcastEntry {
     init(meta: [String: String], filename: String) {
         self.meta = meta
         self.filename = filename
-        let dateString = meta[Keys.PodcastEntryKeys.date.rawValue].expect("Need \(Keys.PodcastEntryKeys.date.rawValue) entry in podcast entry \(filename)")
+        let dateString = meta[Keys.PodcastEntry.date.rawValue].expect("Need \(Keys.PodcastEntry.date.rawValue) entry in podcast entry \(filename)")
         date = PodcastEntry.dateFormatter.date(from: dateString).expect("Invalid formatted date \(dateString) in post \(filename)")
         // insert the podcast-format date into the meta
         self.meta["podcastDate"] = PodcastEntry.podcastDateFormatter.string(from: date)
@@ -340,23 +340,21 @@ struct PodcastEntry {
 
 struct Configuration {
     /// The folder that houses the _ templates
-    var templateFolder: String = ""
+    var templateFolder = ""
     /// The folder where all the posts are
-    var podcastEntriesFolder: String = ""
-    /// The folder whre the posts are written to
-    var podcastTargetFolder: String = ""
+    var podcastEntriesFolder = ""
+    /// The folder where the posts are written to
+    var podcastTargetFolder = ""
     /// The title of the podcast
-    var podcastTitle: String = ""
+    var podcastTitle = ""
     /// The template to use for each entry
-    var entriesTemplate: String = ""
-    /// The remaining meta.
+    var entriesTemplate = ""
+    /// The remaining meta
     var meta: [String: String] = [:]
     
-    init() {}
-    
     init(path: URL) throws {
-        let parsed = try ConfigEntryParser(url: path, keys: Keys.ConfigurationKeys.allCases.map { $0.rawValue }).retrieve()
-        let entries: [(WritableKeyPath<Configuration, String>, Keys.ConfigurationKeys)] = [
+        let parsed = try ConfigEntryParser(url: path, keys: Keys.Configuration.allCases.map { $0.rawValue }).retrieve()
+        let entries: [(WritableKeyPath<Configuration, String>, Keys.Configuration)] = [
             (\Configuration.templateFolder, .templateFolder),
             (\Configuration.podcastEntriesFolder, .podcastEntriesFolder),
             (\Configuration.podcastTargetFolder, .podcastTargetFolder),
@@ -396,7 +394,7 @@ struct Site {
         for file in try FileManager.default.contentsOfDirectory(atPath: configuration.podcastEntriesFolder) {
             let url = URL(fileURLWithPath: "\(configuration.podcastEntriesFolder)/\(file)")
             guard url.pathExtension == "bacf" else { continue }
-            let parsed = try ConfigEntryParser(url: url, keys: Keys.PodcastEntryKeys.allCases.map { $0.rawValue }, overflowKey: Keys.PodcastEntryKeys.notes.rawValue)
+            let parsed = try ConfigEntryParser(url: url, keys: Keys.PodcastEntry.allCases.map { $0.rawValue }, overflowKey: Keys.PodcastEntry.notes.rawValue)
             let entry = PodcastEntry(meta: parsed.retrieve(), filename: file)
             entries.append(entry)
         }
@@ -424,15 +422,15 @@ struct Site {
     
     private mutating func makeRenderState() {
         for page in templates {
-            sections.merge(page.sections) { (a, b) -> String in
+            sections.merge(page.sections) { a, _ -> String in
                 fatalError("Duplicate section named \(a) in \(page.path)")
             }
         }
-        context["entries"] = entries.sorted(by: { (post1, post2) -> Bool in
+        context["entries"] = entries.sorted(by: { post1, post2 -> Bool in
             return post1.date > post2.date
         }).map { $0.meta }
-        variables.merge(configuration.meta) { (key1, key2) -> String in
-            fatalError("Duplicate variables key \(key1)")
+        variables.merge(configuration.meta) { a, _ -> String in
+            fatalError("Duplicate variables key \(a)")
         }
         variables["buildDate"] = PodcastEntry.podcastDateFormatter.string(from: Date())
     }
@@ -447,8 +445,8 @@ struct Site {
         let template = entriesTemplate.expect("Entries Template file \(configuration.entriesTemplate) not found")
         for entry in entries {
             var customVariables = variables
-            customVariables.merge(entry.meta) { (key1, key2) -> String in
-                fatalError("variables key \(key1) also exists in entry \(entry.filename)")
+            customVariables.merge(entry.meta) { a, _ -> String in
+                fatalError("variables key \(a) also exists in entry \(entry.filename)")
             }
             let outFile = URL(fileURLWithPath: configuration.podcastTargetFolder)
                 .appendingPathComponent(entry.filename)
