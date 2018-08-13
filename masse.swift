@@ -259,7 +259,7 @@ struct ConfigEntryParser {
     
     func retrieve() -> [String: String] {
         var hasReachedSeperator = false
-        var result: [String: String] = []
+        var result: [String: String] = [:]
         var notesLines = ""
         for line in contents.components(separatedBy: .newlines) {
             if hasReachedSeperator {

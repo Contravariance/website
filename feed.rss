@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Sun, 12 Aug 2018 19:13:36 CEST</pubDate>
-    <lastBuildDate>Sun, 12 Aug 2018 19:13:36 CEST</lastBuildDate>
+    <pubDate>Mon, 13 Aug 2018 14:37:32 CEST</pubDate>
+    <lastBuildDate>Mon, 13 Aug 2018 14:37:32 CEST</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -28,7 +28,7 @@
       <title>101: applicationDidFinishLaunching:</title>
       <link>https://contravariance.rocks/episodes/101_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/101_show_notes.html</guid>
-      <pubDate>Sat, 11 Aug 2018 17:18:00 CEST</pubDate>
+      <pubDate>Mon, 13 Aug 2018 17:00:00 CEST</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/101_applicationDidFinishLaunching.mp3" length="39850623"/>
       <itunes:duration>00:33:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
