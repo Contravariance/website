@@ -1,22 +1,23 @@
+{{BEGIN name="head"}}
 <!DOCTYPE html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage" >
 
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="canonical" href="https://contravariance.rocks"/>
-        <meta property="og:site_name" content="Contravariance. A Swift Podcast"/>
+        <link rel="canonical" href="#{podcastLink}#"/>
+        <meta property="og:site_name" content="#{podcastTitle}#"/>
         <meta property="og:title" content="Episodes"/>
-        <meta property="og:url" content="https://contravariance.rocks"/>
+        <meta property="og:url" content="#{podcastLink}#"/>
         <meta property="og:type" content="website"/>
         <meta itemprop="name" content="Episodes"/>
-        <meta itemprop="url" content="https://contravariance.rocks"/>
+        <meta itemprop="url" content="#{podcastLink}#"/>
         <meta name="twitter:title" content="Episodes"/>
-        <meta name="twitter:url" content="https://contravariance.rocks"/>
+        <meta name="twitter:url" content="#{podcastLink}#"/>
         <meta name="twitter:card" content="summary"/>
-        <meta name="description" content="A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek." />
-        <meta name="keywords" content="apple, swift, mac, iphone, ipad, macos, mojave, rust" />
-        <title>Contravariance. A Swift Podcast</title>
+        <meta name="description" content="#{podcastDescription}#" />
+        <meta name="keywords" content="#{podcastKeywords}#" />
+        <title>#{podcastTitle}#</title>
         <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:900|Arvo" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css" />
         <link href="/styles/theme.css" rel="stylesheet">
@@ -29,10 +30,10 @@
                 <a href="/about.html" class="button menu-button menu-button-1">ABOUT</a>
                 <!-- <a href="/shownotes.html" class="button menu-button menu-button-2">SHOWNOTES</a> -->
                 <a href="/feed.rss" class="button menu-button menu-button-3">FEED</a>
-                <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323" class="button menu-button menu-button-4">iTUNES</a>
-                <a href="https://overcast.fm/itunes1423771323/contravariance-a-swift-podcast" class="button menu-button menu-button-5">OVERCAST</a>
-                <a href="https://pca.st/QjR1" class="button menu-button menu-button-6">POCKET CASTS</a>
-                <a href="https://twitter.com/_contravariance" class="button menu-button menu-button-7">TWITTER</a>
+                <a href="#{linkiTunes}#" class="button menu-button menu-button-4">iTUNES</a>
+                <a href="#{linkOvercast}#" class="button menu-button menu-button-5">OVERCAST</a>
+                <a href="#{linkPocketCasts}#" class="button menu-button menu-button-6">POCKET CASTS</a>
+                <a href="#{linkTwitter}#" class="button menu-button menu-button-7">TWITTER</a>
             </div>
             <section class="section header">
                 <div class="columns">
@@ -48,10 +49,10 @@
                     </div>
                     <div class="column is-one-fifths">
                         <ol class="head-menu text-right is-pulled-right is-hidden-touch">
-                            <li><a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323" class="button menu-button menu-button-4">iTUNES</a></li>
-                            <li><a href="https://overcast.fm/itunes1423771323/contravariance-a-swift-podcast" class="button menu-button menu-button-5">OVERCAST</a></li>
-                            <li><a href="https://pca.st/QjR1" class="button menu-button menu-button-6">POCKET CASTS</a></li>
-                            <li><a href="https://twitter.com/_contravariance" class="button menu-button menu-button-7">TWITTER</a></li>
+                            <li><a href="#{linkiTunes}#" class="button menu-button menu-button-4">iTUNES</a></li>
+                            <li><a href="#{linkOvercast}#" class="button menu-button menu-button-5">OVERCAST</a></li>
+                            <li><a href="#{linkPocketCasts}#" class="button menu-button menu-button-6">POCKET CASTS</a></li>
+                            <li><a href="#{linkTwitter}#" class="button menu-button menu-button-7">TWITTER</a></li>
                         </ol>
                     </div>
                 </div>
@@ -66,34 +67,37 @@
                     </div>
                 </div>
             </section>
+{{END}}
 
+{{LOOP from="entries" to="entry" limit="10"}}
             <section class="main-section content" id="articles">
                 <div class="columns">
                     <div class="column is-three-fifths is-offset-one-fifth">
                         <div class="columns article is-multiline">
                             <div class="column is-1">
                                 <h1 class="has-text-warning">
-                                    101
+                                    #{entry.nr}#
                                 </h1>
                             </div>
                             <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/101_show_notes.html">applicationDidFinishLaunching:</a></h1>
+                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/#{entry.nr}#_show_notes.html">#{entry.title}#</a></h1>
                             </div>
                             <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Bas and Benedikt discuss MacBook Keyboards, Swift's eigth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.</p>
+                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">#{entry.description}#</p>
                             </div>
                             <div class="column is-9 is-offset-1">
-                                <a href="/episodes/101_show_notes.html" class="button is-danger is-outlined is-small">11.08.18, 17:18</a>
-                                <a href="/episodes/101_applicationDidFinishLaunching.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/101_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/101_applicationDidFinishLaunching.mp3" class="button is-primary is-outlined is-small">Listen</a>
+                                <a href="/episodes/#{entry.nr}#_show_notes.html" class="button is-danger is-outlined is-small">#{entry.date}#</a>
+                                <a href="/episodes/#{entry.file}#" class="button is-danger is-outlined is-small">GET</a>
+                                <a href="/episodes/#{entry.nr}#_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
+                                <a href="/episodes/#{entry.file}#" class="button is-primary is-outlined is-small">Listen</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
+{{ENDLOOP}}
 
-
+{{BEGIN name="footer"}}
             <footer class="footer">
                 <div class="has-text-centered">
                     <p>
@@ -108,3 +112,4 @@
     </body>
 
 </html>
+{{END}}

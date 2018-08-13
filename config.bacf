@@ -1,0 +1,15 @@
+- templateFolder: .
+- podcastEntriesFolder: entries/
+- podcastTargetFolder: episodes/
+- podcastTitle: Contravariance. A Swift Podcast
+- entriesTemplate: _entry.html
+- podcastAuthor: Bas Broek / Benedikt Terhechte
+- podcastLink: https://contravariance.rocks
+- podcastDescription: A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.
+- podcastKeywords: apple, swift, mac, iphone, ipad, macos, mojave, rust
+- iTunesOwner: Bas Broek
+- iTunesEmail: bas@contravariance.rocks
+- linkiTunes: https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323
+- linkOvercast: https://overcast.fm/itunes1423771323/contravariance-a-swift-podcast
+- linkTwitter: https://twitter.com/_contravariance
+- linkPocketCasts: https://pca.st/QjR1
