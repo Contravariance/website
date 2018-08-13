@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Mon, 13 Aug 2018 17:16:48 CEST</pubDate>
-    <lastBuildDate>Mon, 13 Aug 2018 17:16:48 CEST</lastBuildDate>
+    <pubDate>Mon, 13 Aug 2018 18:58:32 CEST</pubDate>
+    <lastBuildDate>Mon, 13 Aug 2018 18:58:32 CEST</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -59,8 +59,8 @@
   <ul>
     <li><a href="https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001">Sculpt Ergonomic Keyboard</a></li>
     <li><a href="https://www.amazon.com/dp/B01EHSLFAY/ref=cm_sw_r_cp_api_i_WRXABbA045104">MoKo Universal Foldable Keyboard</a></li>
-    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard1.jpg">MacBook Pro with Foldable Keyboard on top [1]</a></li>
-    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard2.jpg">MacBook Pro with Foldable Keyboard on top [2]</a></li>
+    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard1.jpeg">MacBook Pro with Foldable Keyboard on top [1]</a></li>
+    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard2.jpeg">MacBook Pro with Foldable Keyboard on top [2]</a></li>
     <li><img src="/episodes/101/macbook_pro_ergonomic_keyboard3.png" /></li>
   </ul>
 </p>
