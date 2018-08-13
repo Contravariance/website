@@ -132,7 +132,7 @@ only screen and (min-resolution: 2dppx) {
         background-position: center;
         height: 470px;
     }
-    .content {
+    .section.main-section {
         background-image: url(/images/80s_pattern@2x.png);
     }
 }
