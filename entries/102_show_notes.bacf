@@ -1,0 +1,60 @@
+- nr: 102
+- title: The most awful static site engine
+- date: 23.08.18, 20:00
+- file: 102_the_most_awful_static_site_engine.mp3
+- duration: 00:34:41
+- length: 31404344
+- author: Bas Broek / Benedikt Terhechte
+- description: Where Bas and Benedikt discuss iPad, our awful static site engine, Swift scripting, Strings in Swift and Zelda.
+---
+<div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>iPad</h3>
+
+  <ul>
+    <li><a href="https://www.cultofmac.com/438203/ios-10-brings-3d-touch-gestures-to-ipad-pro/">iPad Pencil force touch</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Masse & Swift scripting</h3>
+
+  <ul>
+    <li><a href="https://github.com/contravariance/masse">Most Awful Static Site Engine</a></li>
+    <li><a href="https://github.com/JohnSundell/Marathon">Marathon by John Sundell</a></li>
+    <li><a href="https://twitter.com/terhechte/status/1031909956025548803">Benedikt's tweet</a></li>
+    <li><a href="https://github.com/Contravariance/masse/blob/master/Sources/Masse/String%2BParsing.swift">String convenience extension</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Strings in Swift</h3>
+
+  <ul>
+    <li><a href="https://github.com/apple/swift/blob/master/docs/StringManifesto.md">String Manifesto</a></li>
+    <li><a href="https://developer.apple.com/videos/play/wwdc2018/223/">Embracing Algorithms</a></li>
+    <li><a href="https://www.jessesquires.com/blog/measuring-compile-times-xcode9/">-warn-long-function-bodies</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Zelda</h3>
+
+  <ul>
+    <li><a href="https://alttpr.com">Zelda: A Link To The Past Randomizer</a></li>
+    <li><a href="https://www.youtube.com/watch?v=a1HUq6uwDS0">Angry Chickens</a></li>
+  </ul>
+</p>
+</div>
