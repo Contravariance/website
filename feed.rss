@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Wed, 05 Sep 2018 20:21:07 CEST</pubDate>
-    <lastBuildDate>Wed, 05 Sep 2018 20:21:07 CEST</lastBuildDate>
+    <pubDate>Wed, 03 Oct 2018 17:50:59 CEST</pubDate>
+    <lastBuildDate>Wed, 03 Oct 2018 17:50:59 CEST</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,53 @@
     <copyright>Copyright 2018 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>104: Conferences</title>
+      <link>https://contravariance.rocks/episodes/104_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/104_show_notes.html</guid>
+      <pubDate>Thu, 04 Oct 2018 20:00:00 CEST</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/104_conferences.mp3" length="30342501"/>
+      <itunes:duration>00::31:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>A general discussion around iOS conferences: Why you should go there, what you should do there, and what to do if you want to give a talk. Also a short report on two conferences we just attended: NSSpain and Try Swift.</description>
+      <itunes:summary>A general discussion around iOS conferences: Why you should go there, what you should do there, and what to do if you want to give a talk. Also a short report on two conferences we just attended: NSSpain and Try Swift.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Conferences</h3>
+
+  <ul>
+    <li><a href="https://www.tryswift.co/events/2018/nyc/">Try Swift Conference</a></li>
+    <li><a href="https://2018.nsspain.com/">NSSpain Conference</a></li>
+    <li><a href="https://theswiftalps.com/">Swift Alps Conference</a></li>
+    <li><a href="http://swiftaveiro.xyz/">Swift Aveiro Conference</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>103: A Philosophical Treatise on the Definition of Pro</title>
       <link>https://contravariance.rocks/episodes/103_show_notes.html</link>
