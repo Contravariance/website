@@ -27,7 +27,12 @@
   <h3>Conferences</h3>
 
   <ul>
+    <li><a href="https://macoun.de">Macoun</a></li>
+    <li><a href="https://do-ios.com">DO iOS</a></li>
+    <li><a href="https://developer.apple.com/wwdc/">WWDC</a></li>
+    <li><a href="http://www.swiftandfika.com">Swift & Fika</a></li>
     <li><a href="https://www.tryswift.co/events/2018/nyc/">Try Swift Conference</a></li>
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform?c=0&w=1">Try Swift Call for Papers</a></li>
     <li><a href="https://2018.nsspain.com/">NSSpain Conference</a></li>
     <li><a href="https://theswiftalps.com/">Swift Alps Conference</a></li>
     <li><a href="http://swiftaveiro.xyz/">Swift Aveiro Conference</a></li>
