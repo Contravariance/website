@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Wed, 03 Oct 2018 17:50:59 CEST</pubDate>
-    <lastBuildDate>Wed, 03 Oct 2018 17:50:59 CEST</lastBuildDate>
+    <pubDate>Thu, 04 Oct 2018 16:23:21 CEST</pubDate>
+    <lastBuildDate>Thu, 04 Oct 2018 16:23:21 CEST</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -29,7 +29,7 @@
       <link>https://contravariance.rocks/episodes/104_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/104_show_notes.html</guid>
       <pubDate>Thu, 04 Oct 2018 20:00:00 CEST</pubDate>
-      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/104_conferences.mp3" length="30342501"/>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/104_conferences.mp3" length="32053987"/>
       <itunes:duration>00::31:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
@@ -58,7 +58,12 @@
   <h3>Conferences</h3>
 
   <ul>
+    <li><a href="https://macoun.de">Macoun</a></li>
+    <li><a href="https://do-ios.com">DO iOS</a></li>
+    <li><a href="https://developer.apple.com/wwdc/">WWDC</a></li>
+    <li><a href="http://www.swiftandfika.com">Swift & Fika</a></li>
     <li><a href="https://www.tryswift.co/events/2018/nyc/">Try Swift Conference</a></li>
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform?c=0&w=1">Try Swift Call for Papers</a></li>
     <li><a href="https://2018.nsspain.com/">NSSpain Conference</a></li>
     <li><a href="https://theswiftalps.com/">Swift Alps Conference</a></li>
     <li><a href="http://swiftaveiro.xyz/">Swift Aveiro Conference</a></li>
