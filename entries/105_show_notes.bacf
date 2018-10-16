@@ -1,0 +1,41 @@
+- nr: 105
+- title: Paul "John Sundell" Hudson
+- date: 18.10.18, 20:00
+- file: 105_paul_john_sundell_hudson.mp3
+- duration: 00:26:37
+- length: PLEASE-DO-NOT-FORGET
+- author: Bas Broek / Benedikt Terhechte / Paul Hudson
+- description: An interview with Paul Hudson about his career, talking about journalism, books, Venn diagrams, conference speaking and diversity.
+---
+<div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Interview</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/twostraws">Paul Hudson on Twitter</a></li>
+    <li><a href="https://twitter.com/johnsundell">John Sundell on Twitter</a></li>
+    <li><a href="https://linuxformat.com">Linux Format</a></li>
+    <li><a href="http://www.rubymotion.com">RubyMotion</a></li>
+    <li><a href="https://www.hackingwithswift.com">Hacking with Swift</a></li>
+    <li><a href="https://vimeo.com/291590798">Teaching Swift at Scale @ NSSpain 2018</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0192-non-exhaustive-enums.md">SE-0192: Handling Future Enum Cases</a></li>
+    <li><a href="https://forwardswift.com">Forward Swift</a></li>
+    <li><a href="https://www.tryswift.co">try! Swift</a></li>
+  </ul>
+</p>
+</div>
