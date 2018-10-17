@@ -8,7 +8,7 @@
 # Contravariance
 ### https://contravariance.rocks
 
-Contravariance is a podcast by [Benedikt Terhechte](https://twitter.com/terhechte) and [Bas Broek](https://twitter.com/BasThomas).
+Contravariance is a podcast by [Benedikt Terhechte](https://twitter.com/terhechte) and [Bas Broek](https://twitter.com/BasThomas) about Apple, Swift and other programming topics.
 
 The podcast's website, feed and artwork material can be found in this repository.
 
