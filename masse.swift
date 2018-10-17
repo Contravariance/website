@@ -21,6 +21,11 @@ enum Keys {
 }
 
 extension Optional {
+
+    /// Throws a `fatalError` with the provided String in case the value is `nil`.
+    ///
+    /// - Parameter error: The error message for the `fatalError`.
+    /// - Returns: The wrapped value iff it was not `nil`.
     func expect(_ error: String) -> Wrapped {
         guard let contents = self else {
             fatalError(error)
@@ -30,6 +35,12 @@ extension Optional {
 }
 
 extension String {
+
+    /// Gets a String between a prefix and suffix String.
+    ///
+    /// - Parameter beginString: The prefix to check for.
+    /// - Parameter endString: The suffix to check for.
+    /// - Returns: The String between `beginString` and `endString`, if any.
     func between(beginString: String, endString: String) -> String? {
         // why is it still such a pain to grab a range out of string in swift...
         // I know I could use `NSRange` and then convert it, but that feels like cheating
@@ -40,8 +51,16 @@ extension String {
         let endPosition = self.index(self.endIndex, offsetBy: -endString.count).encodedOffset
         return between(beginPosition: beginPosition, endPosition: endPosition)
     }
-    
+
+    /// Gets a String between two indices.
+    ///
+    /// - Precondition: The `beginPosition` must be smaller than the `endPosition`.
+    ///
+    /// - Parameter beginPosition: The beginning position's index.
+    /// - Parameter endPosition: The end position's index.
+    /// - Returns: The String between `beginPosition` and `endPosition`.
     func between(beginPosition: Int, endPosition: Int) -> String {
+        precondition(beginPosition < endPosition, "The beginning position must be smaller than the end position.")
         let beginIndex = self.index(self.startIndex, offsetBy: beginPosition)
         let endIndex = self.index(self.startIndex, offsetBy: endPosition)
         return String(self[beginIndex..<endIndex])
