@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Tue, 16 Oct 2018 21:59:57 CEST</pubDate>
-    <lastBuildDate>Tue, 16 Oct 2018 21:59:57 CEST</lastBuildDate>
+    <pubDate>Tue, 16 Oct 2018 22:08:39 CEST</pubDate>
+    <lastBuildDate>Tue, 16 Oct 2018 22:08:39 CEST</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,58 @@
     <copyright>Copyright 2018 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>105: Paul "John Sundell" Hudson</title>
+      <link>https://contravariance.rocks/episodes/105_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/105_show_notes.html</guid>
+      <pubDate>Thu, 18 Oct 2018 20:00:00 CEST</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/105_paul_john_sundell_hudson.mp3" length="PLEASE-DO-NOT-FORGET"/>
+      <itunes:duration>00:26:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte / Paul Hudson</itunes:author>
+      <description>An interview with Paul Hudson about his career, talking about journalism, books, Venn diagrams, conference speaking and diversity.</description>
+      <itunes:summary>An interview with Paul Hudson about his career, talking about journalism, books, Venn diagrams, conference speaking and diversity.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Interview</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/twostraws">Paul Hudson on Twitter</a></li>
+    <li><a href="https://twitter.com/johnsundell">John Sundell on Twitter</a></li>
+    <li><a href="https://linuxformat.com">Linux Format</a></li>
+    <li><a href="http://www.rubymotion.com">RubyMotion</a></li>
+    <li><a href="https://www.hackingwithswift.com">Hacking with Swift</a></li>
+    <li><a href="https://vimeo.com/291590798">Teaching Swift at Scale @ NSSpain 2018</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0192-non-exhaustive-enums.md">SE-0192: Handling Future Enum Cases</a></li>
+    <li><a href="https://forwardswift.com">Forward Swift</a></li>
+    <li><a href="https://www.tryswift.co">try! Swift</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>104: Conferences</title>
       <link>https://contravariance.rocks/episodes/104_show_notes.html</link>
