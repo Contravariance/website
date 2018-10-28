@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Sat, 27 Oct 2018 14:28:50 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Oct 2018 14:28:50 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Oct 2018 10:14:05 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Oct 2018 10:14:05 +0000</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,62 @@
     <copyright>Copyright 2018 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>106: Refactoring across a large code base</title>
+      <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/106_show_notes.html</guid>
+      <pubDate>Thu, 01 Nov 2018 20:00:00 +0000</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/106_refactoring_across_a_large_code_base.mp3" length="16682468"/>
+      <itunes:duration>00:31:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>A discussion on how we recently refactored our networking stack at XING, from planning to implementation. And emoji.</description>
+      <itunes:summary>A discussion on how we recently refactored our networking stack at XING, from planning to implementation. And emoji.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Refactoring</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/documentation/foundation/nsurlconnection">NSURLConnection</a></li>
+    <li><a href="http://blog.cocoafrog.de">Joachim Kurz on Twitter</a></li>
+    <li><a href="https://developer.apple.com/documentation/foundation/jsonserialization">JSONSerialization</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Emoji</h3>
+
+  <ul>
+    <li><a href="https://blog.emojipedia.org/apple-fixes-bagel-emoji/">Apple fixes bagel emoji</a></li>
+    <li><a href="https://twitter.com/viticci/status/1052198004415967232">The pizza emoji is broken</a></li>
+    <li><a href="https://emojipedia.org/pencil/">Pencil emoji</a></li>
+    <li><a href="http://curlicuecal.tumblr.com/post/175362924100/an-entomologist-rates-ant-emojis">Comparing ant emoji</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>105: Paul "John Sundell" Hudson</title>
       <link>https://contravariance.rocks/episodes/105_show_notes.html</link>
