@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Sun, 28 Oct 2018 10:14:05 +0000</pubDate>
-    <lastBuildDate>Sun, 28 Oct 2018 10:14:05 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Nov 2018 19:45:42 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Nov 2018 19:45:42 +0000</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -28,7 +28,7 @@
       <title>106: Refactoring across a large code base</title>
       <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/106_show_notes.html</guid>
-      <pubDate>Thu, 01 Nov 2018 20:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Nov 2018 20:00:00 +0000</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/106_refactoring_across_a_large_code_base.mp3" length="16682468"/>
       <itunes:duration>00:31:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
