@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 08 Nov 2018 19:45:42 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Nov 2018 19:45:42 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Jan 2019 22:51:27 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Jan 2019 22:51:27 +0000</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,96 @@
     <copyright>Copyright 2018 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>107: Xcode 10.2 beta 1 & the Swift Community Podcast</title>
+      <link>https://contravariance.rocks/episodes/107_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/107_show_notes.html</guid>
+      <pubDate>Thu, 31 Jan 2019 20:00:00 +0000</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/107_xcode_10.2_and_more.mp3" length="38201238"/>
+      <itunes:duration>00:39:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Starting fresh into the new year with a discussion on Xcode 10.2 beta 1, the Swift Community Podcast, and more</description>
+      <itunes:summary>Starting fresh into the new year with a discussion on Xcode 10.2 beta 1, the Swift Community Podcast, and more</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Xcode 10.2 beta 1</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes">Xcode 10.2 beta 1 Release Notes</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Result in Swift 5</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#primary-focus-abi-stability">Application Binary Interface (ABI) stability</a></li>
+    <li><a href="https://help.apple.com/xcode/mac/current/#/devbbdc5ce4f">App Thinning</a></li>
+    <li><a href="https://twitter.com/twostraws/status/1088507816841789440">Playgrounds "might not execute"</a></li>
+    <li><a href="https://twitter.com/nerdonica/status/1088459155264995328">Veronica Ray's Xcode tips and tricks Twitter thread</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLuoeXyslFTuYQ9Hoh42Bw8sPYMlTOV0V7">Paul Hudson's "Xcode in 20 seconds" video series</a></li>
+    <li><a href="https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/MenuCommands/MenuCommands014.html">Xcode Keyboard Shortcuts (⌃+⌘+R and - ⌘+⇧+J)</a></li>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes/swift_5_release_notes_for_xcode_10_2_beta">Exclusive Memory Access at Runtime</a></li>
+    <li><a href="https://twitter.com/steipete/status/1088821790024105984">LLDB debugger's "v" (frame variable)</a></li>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes/swift_5_release_notes_for_xcode_10_2_beta">Swift 3 support dropped</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ePuOrCbIW-o">"Taken for Granted", Bas' talk at try! Swift NYC 2018</a></li>
+    <li><a href="https://twitter.com/bzamayo/status/1088766602814869504">Xcode Dark Mode</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#primary-focus-abi-stability">Memory Ownership Model</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#other-improvements">Async/Await</a></li>
+    <li><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782">Swift Concurrency Manifesto</a></li>
+  </ul>
+</p>
+<p>
+  <h3>The Swift Community Podcast</h3>
+
+  <ul>
+    <li><a href="https://www.swiftcommunitypodcast.org">The Swift Community Podcast website</a></li>
+    <li><a href="https://github.com/SwiftCommunityPodcast/podcast">The Swift Community Podcast on GitHub</a></li>
+    <li><a href="https://twitter.com/theswiftpodcast">The Swift Community Podcast on Twitter</a></li>
+    <li><a href="https://twitter.com/garricn">Garric Nahapetian</a></li>
+    <li><a href="https://twitter.com/johnsundell">John Sundell</a></li>
+    <li><a href="https://twitter.com/clattner_llvm">Chris Lattner</a></li>
+    <li><a href="https://swiftweekly.github.io">Swift Weekly Brief</a></li>
+    <li><a href="TBA">The Swift Community Podcast: Scaling A Codeless Open Source Swift Community with Bas Broek</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Gitsi</h3>
+
+  <ul>
+    <li><a href="https://github.com/terhechte/gitsi">Gitsi on GitHub</a></li>
+    <li><a href="http://www.terhech.de/2019/01/24/interactive-git-status-written-in-c/">Blog Post</a></li>
+    <li><a href="https://www.youtube.com/watch?v=pAxquqis56I">Demo video</a></li>
+    <li><a href="https://ish.app">ISH.app</a></li>
+  </ul>
+</p>
+<p>
+  <h3>DroidKaigi 2019</h3>
+
+  <ul>
+    <li><a href="- https://droidkaigi.jp/2019/">DroidKaigi 2019</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>106: Refactoring across a large code base</title>
       <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
