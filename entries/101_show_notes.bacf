@@ -2,8 +2,6 @@
 - title: applicationDidFinishLaunching:
 - date: 13.08.18, 17:00
 - file: 101_applicationDidFinishLaunching.mp3
-- duration: 00:33:02
-- length: 39850623
 - author: Bas Broek / Benedikt Terhechte
 - description: Where Bas and Benedikt discuss MacBook Keyboards, Swift's eigth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.
 ---
