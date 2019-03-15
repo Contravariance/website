@@ -1,0 +1,81 @@
+- nr: 202
+- title: Putting Pieces in Place
+- date: 07.03.19, 20:00
+- file: 202_putting_pieces_in_place.mp3
+- author: Bas Broek / Benedikt Terhechte
+- description: Solving puzzles, algorithms, macros, and Swift 5.
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Puzzle Solving</h3>
+
+  <ul>
+    <li><a href="https://www.iosconfbudapest.com">iOS Conf Budapest</a></li>
+    <li><a href="https://twitter.com/iosconfbudapest/status/1100673454922186752">cancellation</a></li>
+    <li><a href="https://github.com/BasThomas/Fif">Fif</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/15_puzzle">15 puzzle</a></li>
+    <li><a href="https://www.youtube.com/watch?v=5zr1jjSOklo">Video on branch-and-bound</a></li>
+    <li><a href="https://www.youtube.com/watch?v=gGQ-vAmdAOI">Video on branch-and-bound (2)</a></li>
+    <li><a href=" https://basthomas.github.io/conforming-to-sequence">conforming to Collection post</a></li>
+    <li><a href="http://khanlou.com">Soroush Khanlou</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0220-count-where.md">count(where:)</a></li>
+    <li><a href="https://twitter.com/AirspeedSwift/status/1102658789545697281">... not in Swift 5</a></li>
+    <li><a href="https://developer.apple.com/documentation/gameplaykit">gameplaykit algorithms</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Macros in Swift</h3>
+
+  <ul>
+    <li><a href="https://github.com/apple/sourcekit-lsp">sourcekit-lsp</a></li>
+    <li><a href="https://github.com/krzysztofzablocki/Sourcery">Sourcery</a></li>
+    <li><a href="https://github.com/apple/swift/blob/2c7b0b22831159396fe0e98e5944e64a483c356e/www/FAQ.rst#do-you-plan-to-rewrite-the-swift-compiler-in-swift">Bootstrapping the Swift compiler</a></li>
+    <li><a href="https://www.swiftbysundell.com/podcast/42">John Sundell & Ted Kremenek talk about Swfit 5</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Macro_(computer_science)">Macros</a></li>
+  </ul>
+</p>
+<p>
+  <h3>How do you prepare for Swift 5?</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/CBeloch/status/1100476043541004288">Chris Beloch</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0212-compiler-version-directive.md">Swift compiler directive proposal</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Shim_(computing)">Shimming</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Result</a></li>
+    <li><a href="https://github.com/CocoaPods/CocoaPods/issues/8458">Xcode   10.2 simulator format change</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/optonaut/ActiveLabel.swift">ActiveLabel</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://github.com/Subito-it/Bariloche">Bariloche</a></li>
+    <li><a href="https://github.com/mxcl/swift-sh">swift sh</a></li>
+  </ul>
+</p>
+</div>
