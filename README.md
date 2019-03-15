@@ -17,3 +17,17 @@ The podcast's website, feed and artwork material can be found in this repository
 ```
 ./masse.swift ./config.bacf
 ```
+
+# Adding a new episode
+
+This uses [Satokoda](https://github.com/terhechte/Satokoda) to write 
+the `ID3` tags into the mp3. To simplify things, it has been added
+to the repository as a binary.
+
+1. Place mp3 file in `episodes`
+2. Go into the `material` folder (in terminal)
+3. Run `satokoda` as follows (example filename)
+
+``` bash
+./satokoda -f ../episodes/203_documentation.mp3 -t "203: Documentation" -c ./config.toml
+```
