@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Fri, 22 Feb 2019 12:49:31 CET</pubDate>
-    <lastBuildDate>Fri, 22 Feb 2019 12:49:31 CET</lastBuildDate>
+    <pubDate>Thu, 21 Feb 2019 21:07:27 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Feb 2019 21:07:27 +0000</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -28,7 +28,7 @@
       <title>201: application(_:willContinueUserActivityWithType:)</title>
       <link>https://contravariance.rocks/episodes/201_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/201_show_notes.html</guid>
-      <pubDate>Thu, 21 Feb 2019 21:00:00 CET</pubDate>
+      <pubDate>Thu, 21 Feb 2019 21:00:00 +0000</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/201_application_willContinueUserActivityWithType.mp3" length="24911710"/>
       <itunes:duration>00:25:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -119,7 +119,7 @@
       <title>107: Xcode 10.2 beta 1 and the Swift Community Podcast</title>
       <link>https://contravariance.rocks/episodes/107_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/107_show_notes.html</guid>
-      <pubDate>Thu, 31 Jan 2019 20:00:00 CET</pubDate>
+      <pubDate>Thu, 31 Jan 2019 20:00:00 +0000</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/107_xcode_10.2_and_more.mp3" length="38201238"/>
       <itunes:duration>00:39:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -210,8 +210,8 @@
       <title>106: Refactoring across a large code base</title>
       <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/106_show_notes.html</guid>
-      <pubDate>Thu, 08 Nov 2018 20:00:00 CET</pubDate>
-      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/106_refactoring_across_a_large_code_base.mp3" length="18398314"/>
+      <pubDate>Thu, 08 Nov 2018 20:00:00 +0000</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/106_refactoring_across_a_large_code_base.mp3" length="16682468"/>
       <itunes:duration>00:31:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
@@ -266,7 +266,7 @@
       <title>105: Paul "John Sundell" Hudson</title>
       <link>https://contravariance.rocks/episodes/105_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/105_show_notes.html</guid>
-      <pubDate>Thu, 18 Oct 2018 20:00:00 CEST</pubDate>
+      <pubDate>Thu, 18 Oct 2018 20:00:00 +0000</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/105_paul_john_sundell_hudson.mp3" length="13215275"/>
       <itunes:duration>00:26:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -318,7 +318,7 @@
       <title>104: Conferences</title>
       <link>https://contravariance.rocks/episodes/104_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/104_show_notes.html</guid>
-      <pubDate>Thu, 04 Oct 2018 20:00:00 CEST</pubDate>
+      <pubDate>Thu, 04 Oct 2018 20:00:00 +0000</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/104_conferences.mp3" length="32053987"/>
       <itunes:duration>00:31:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -370,7 +370,7 @@
       <title>103: A Philosophical Treatise on the Definition of Pro</title>
       <link>https://contravariance.rocks/episodes/103_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/103_show_notes.html</guid>
-      <pubDate>Thu, 06 Sep 2018 20:00:00 CEST</pubDate>
+      <pubDate>Thu, 06 Sep 2018 20:00:00 +0000</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/103_a_philosophical_treatise_on_the_definition_of_pro.mp3" length="21562824"/>
       <itunes:duration>00:32:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -422,7 +422,7 @@
       <title>102: The most awful static site engine</title>
       <link>https://contravariance.rocks/episodes/102_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/102_show_notes.html</guid>
-      <pubDate>Thu, 23 Aug 2018 20:00:00 CEST</pubDate>
+      <pubDate>Thu, 23 Aug 2018 20:00:00 +0000</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/102_the_most_awful_static_site_engine.mp3" length="31404344"/>
       <itunes:duration>00:34:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -493,7 +493,7 @@
       <title>101: applicationDidFinishLaunching:</title>
       <link>https://contravariance.rocks/episodes/101_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/101_show_notes.html</guid>
-      <pubDate>Mon, 13 Aug 2018 17:00:00 CEST</pubDate>
+      <pubDate>Mon, 13 Aug 2018 17:00:00 +0000</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/101_applicationDidFinishLaunching.mp3" length="39850623"/>
       <itunes:duration>00:33:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
