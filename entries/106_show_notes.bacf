@@ -1,10 +1,8 @@
 - nr: 106
 - title: Refactoring across a large code base
 - date: 08.11.18, 20:00
-- file: 106_refactoring_across_a_large_code_base.mp3
-- duration: 00:31:02
-- length: 16682468
 - author: Bas Broek / Benedikt Terhechte
+- file: 106_refactoring_across_a_large_code_base.mp3
 - description: A discussion on how we recently refactored our networking stack at XING, from planning to implementation. And emoji.
 ---
 <div>

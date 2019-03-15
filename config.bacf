@@ -1,6 +1,7 @@
 - templateFolder: .
 - podcastEntriesFolder: entries/
 - podcastTargetFolder: episodes/
+- mp3FilesFolder: episodes/
 - podcastTitle: Contravariance. A Swift Podcast
 - entriesTemplate: _entry.html
 - podcastAuthor: Bas Broek / Benedikt Terhechte
