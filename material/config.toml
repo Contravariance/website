@@ -1,0 +1,13 @@
+# This is a `satokoda` configuration
+# for writing episodes
+# The cover image for the mp3
+image_path = "./logo_big.jpg"
+
+# The year of podcast production
+year = 2019
+
+# The album for the podcast
+album = "ContraVariance Podcast with Bas Broek and Benedikt Terhechte"
+
+# The artist for the podcast
+artist = "ContraVariance Podcast with Bas Broek and Benedikt Terhechte"
