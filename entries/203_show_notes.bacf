@@ -1,9 +1,9 @@
-- nr: 202
-- title: Putting Pieces in Place
-- date: 07.03.19, 20:00
-- file: 202_putting_pieces_in_place.mp3
+- nr: 203
+- title: Technical Writing
+- date: 21.03.19, 20:00
+- file: 203_technical_writing.mp3
 - author: Bas Broek / Benedikt Terhechte
-- description: Solving puzzles, algorithms, macros, and Swift 5.
+- description: On technical writing and editing, finding unused code, and more.
 ---
 <div>
 <p>
@@ -29,53 +29,41 @@
   </ul>
 </p>
 <p>
-  <h3>Puzzle Solving</h3>
+  <h3>Technical Documentation</h3>
 
   <ul>
-    <li><a href="https://www.iosconfbudapest.com">iOS Conf Budapest</a></li>
-    <li><a href="https://twitter.com/iosconfbudapest/status/1100673454922186752">cancellation</a></li>
-    <li><a href="https://github.com/BasThomas/Fif">Fif</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/15_puzzle">15 puzzle</a></li>
-    <li><a href="https://www.youtube.com/watch?v=5zr1jjSOklo">Video on branch-and-bound</a></li>
-    <li><a href="https://www.youtube.com/watch?v=gGQ-vAmdAOI">Video on branch-and-bound (2)</a></li>
-    <li><a href=" https://basthomas.github.io/conforming-to-sequence">conforming to Collection post</a></li>
-    <li><a href="http://khanlou.com">Soroush Khanlou</a></li>
-    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0220-count-where.md">count(where:)</a></li>
-    <li><a href="https://twitter.com/AirspeedSwift/status/1102658789545697281">... not in Swift 5</a></li>
+    <li><a href="TODO">Shakespeare</a></li>
+    <li><a href="https://github.com/lhartikk/ArnoldC">ArnoldC</a></li>
+    <li><a href="https://twitter.com/deutschbitte">Natalye</a></li>
+    <li><a href="https://www.objc.io">objc.io</a></li>
+    <li><a href="https://pspdfkit.com">PSPDFKit</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Dictionary_(software)">Dictionary.app on macOS</a></li>
+    <li><a href="https://www.imore.com/look-replaces-define-ios-10-heres-how-use-it">Dictionary on iOS</a></li>
+    <li><a href="https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf">The Elements of Style</a></li>
+    <li><a href="https://developers.google.com/season-of-docs/">Season of Docs</a></li>
+    <li><a href="https://forums.swift.org/t/swift-to-participate-in-gsoc-2019/20937">Swift in the Google Summer of Code</a></li>
     <li><a href="https://developer.apple.com/documentation/gameplaykit">gameplaykit algorithms</a></li>
   </ul>
 </p>
 <p>
-  <h3>Macros in Swift</h3>
+  <h3>Unused Code</h3>
 
   <ul>
-    <li><a href="https://github.com/apple/sourcekit-lsp">sourcekit-lsp</a></li>
-    <li><a href="https://github.com/krzysztofzablocki/Sourcery">Sourcery</a></li>
-    <li><a href="https://github.com/apple/swift/blob/2c7b0b22831159396fe0e98e5944e64a483c356e/www/FAQ.rst#do-you-plan-to-rewrite-the-swift-compiler-in-swift">Bootstrapping the Swift compiler</a></li>
-    <li><a href="https://www.swiftbysundell.com/podcast/42">John Sundell & Ted Kremenek talk about Swfit 5</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Macro_(computer_science)">Macros</a></li>
-  </ul>
-</p>
-<p>
-  <h3>How do you prepare for Swift 5?</h3>
-
-  <ul>
-    <li><a href="https://twitter.com/CBeloch/status/1100476043541004288">Chris Beloch</a></li>
-    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0212-compiler-version-directive.md">Swift compiler directive proposal</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Shim_(computing)">Shimming</a></li>
-    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Result</a></li>
-    <li><a href="https://github.com/CocoaPods/CocoaPods/issues/8458">Xcode   10.2 simulator format change</a></li>
+    <li><a href="https://twitter.com/chris5s/status/1105166612536193024">Christian Scheer</a></li>
+    <li><a href="https://twitter.com/LouisDebaere/status/1105183381443276802">Louis Debaere</a></li>
+    <li><a href="https://twitter.com/tomqueue/status/1105231038953992197">Tom</a></li>
+    <li><a href="https://twitter.com/vaishnaviknaidu/status/1105289043359592450">Vaishnavi Naidu</a></li>
+    <li><a href="https://twitter.com/vvendra/status/1105598646077325312">Vinicius Vendramini</a></li>
   </ul>
 </p>
 <p>
   <h3>Project of the week...ish</h3>
 
   <ul>
-    <li><a href="https://github.com/optonaut/ActiveLabel.swift">ActiveLabel</a></li>
+    <li><a href="https://github.com/emilbaehr/automatic-app-landing-page">Automatic App Landing Page</a></li>
   </ul>
   <ul>
-    <li><a href="https://github.com/Subito-it/Bariloche">Bariloche</a></li>
-    <li><a href="https://github.com/mxcl/swift-sh">swift sh</a></li>
+    <li><a href="https://github.com/zagahr/Conferences.digital">Conferences.digital</a></li>
   </ul>
 </p>
 </div>
