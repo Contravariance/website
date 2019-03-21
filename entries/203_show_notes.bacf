@@ -1,0 +1,69 @@
+- nr: 203
+- title: Technical Writing
+- date: 21.03.19, 20:00
+- file: 203_technical_writing.mp3
+- author: Bas Broek / Benedikt Terhechte
+- description: On technical writing and editing, finding unused code, and more.
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Technical Documentation</h3>
+
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Shakespeare_Programming_Language">Shakespeare</a></li>
+    <li><a href="https://github.com/lhartikk/ArnoldC">ArnoldC</a></li>
+    <li><a href="https://twitter.com/deutschbitte">Natalye</a></li>
+    <li><a href="https://www.objc.io">objc.io</a></li>
+    <li><a href="https://pspdfkit.com">PSPDFKit</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Dictionary_(software)">Dictionary.app on macOS</a></li>
+    <li><a href="https://www.imore.com/look-replaces-define-ios-10-heres-how-use-it">Dictionary on iOS</a></li>
+    <li><a href="https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf">The Elements of Style</a></li>
+    <li><a href="https://developers.google.com/season-of-docs/">Season of Docs</a></li>
+    <li><a href="https://forums.swift.org/t/swift-to-participate-in-gsoc-2019/20937">Swift in the Google Summer of Code</a></li>
+    <li><a href="https://developer.apple.com/documentation/gameplaykit">gameplaykit algorithms</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Unused Code</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/chris5s/status/1105166612536193024">Christian Scheer</a></li>
+    <li><a href="https://twitter.com/LouisDebaere/status/1105183381443276802">Louis Debaere</a></li>
+    <li><a href="https://twitter.com/tomqueue/status/1105231038953992197">Tom</a></li>
+    <li><a href="https://twitter.com/vaishnaviknaidu/status/1105289043359592450">Vaishnavi Naidu</a></li>
+    <li><a href="https://twitter.com/vvendra/status/1105598646077325312">Vinicius Vendramini</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/emilbaehr/automatic-app-landing-page">Automatic App Landing Page</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://github.com/zagahr/Conferences.digital">Conferences.digital</a></li>
+  </ul>
+</p>
+</div>
