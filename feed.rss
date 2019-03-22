@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Sat, 16 Mar 2019 16:46:00 CET</pubDate>
-    <lastBuildDate>Sat, 16 Mar 2019 16:46:00 CET</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2019 07:25:53 CET</pubDate>
+    <lastBuildDate>Fri, 22 Mar 2019 07:25:53 CET</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -29,8 +29,8 @@
       <link>https://contravariance.rocks/episodes/203_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/203_show_notes.html</guid>
       <pubDate>Thu, 21 Mar 2019 20:00:00 CET</pubDate>
-      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/203_technical_writing.mp3" length="#{entry.length}#"/>
-      <itunes:duration>#{entry.duration}#</itunes:duration>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/203_documentation.mp3" length="29735361"/>
+      <itunes:duration>00:28:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
       <description>On technical writing and editing, finding unused code, and more.</description>
