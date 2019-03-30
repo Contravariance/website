@@ -9,7 +9,8 @@ absolute_address = "https://contravariance.rocks/"
 
 def validate_path(path):
     replaced = path.replace(absolute_address, "")
-    return os.path.exists(replaced)
+    # If file doesn't exist or is empty, return false
+    return os.path.getsize(replaced) != 0
 
 def fail(message):
     print message
