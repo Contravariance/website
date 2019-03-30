@@ -8,4 +8,4 @@ install:
 script:
 - "./run_tests.py"
 after_success:
-- curl http://206.189.230.143:8834/hook/${WEBHOOK_CODE}
+- curl -X POST http://206.189.230.143:8834/hook/${WEBHOOK_CODE}

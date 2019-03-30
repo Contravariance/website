@@ -16,6 +16,7 @@ def fail(message):
     sys.exit(1)
 
 for entry in feed.entries:
+    print "Validating", entry.title
     if not validate_path(entry["image"]["href"]):
         fail("Could not find image %s" % (entry["image"]))
     for enclosure in entry.enclosures:
@@ -32,4 +33,4 @@ for entry in feed.entries:
         fail("Missing summary for %s" % (entry.title,))
     if len(entry["content"]) == 0:
         fail("Missing content for %s" % (entry.title,))
-
+print "Finished Validation"
