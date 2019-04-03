@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Wed, 03 Apr 2019 22:14:44 CEST</pubDate>
-    <lastBuildDate>Wed, 03 Apr 2019 22:14:44 CEST</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2019 22:53:38 CEST</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2019 22:53:38 CEST</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -62,42 +62,43 @@
   </ul>
 </p>
 <p>
-  <h3>Technical Documentation</h3>
+  <h3>try! Swift Tokyo 2019</h3>
 
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Shakespeare_Programming_Language">Shakespeare</a></li>
-    <li><a href="https://github.com/lhartikk/ArnoldC">ArnoldC</a></li>
-    <li><a href="https://twitter.com/deutschbitte">Natalye</a></li>
-    <li><a href="https://www.objc.io">objc.io</a></li>
-    <li><a href="https://pspdfkit.com">PSPDFKit</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Dictionary_(software)">Dictionary.app on macOS</a></li>
-    <li><a href="https://www.imore.com/look-replaces-define-ios-10-heres-how-use-it">Dictionary on iOS</a></li>
-    <li><a href="https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf">The Elements of Style</a></li>
-    <li><a href="https://developers.google.com/season-of-docs/">Season of Docs</a></li>
-    <li><a href="https://forums.swift.org/t/swift-to-participate-in-gsoc-2019/20937">Swift in the Google Summer of Code</a></li>
-    <li><a href="https://developer.apple.com/documentation/gameplaykit">gameplaykit algorithms</a></li>
+    <li><a href="https://www.tryswift.co/events/2019/tokyo/en/#">try! Swift</a></li>
   </ul>
 </p>
 <p>
-  <h3>Unused Code</h3>
+  <h3>Swift 5</h3>
+  <ul>
+    <li><a href="https://twitter.com/_contravariance/status/1111205285434191873">Stickers</a></li>
+    <li><a href="https://twitter.com/BasThomas/status/1111935577312641024">Swift 4.2 and 5 migration</a></li>
+    <li><a href="https://github.com/Contravariance/masse">Masse</a></li>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes/swift_5_release_notes_for_xcode_10_2">Swift 5 release notes</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#primary-focus-abi-stability">Swift 6</a></li>
+    <li><a href="https://github.com/onmyway133/RoughSwift">Ownership Manifesto</a></li>
+    <li><a href="https://swift.org/blog/utf8-string/">UTF-8 String blog post</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Apple Event March 2019</h3>
 
   <ul>
-    <li><a href="https://twitter.com/chris5s/status/1105166612536193024">Christian Scheer</a></li>
-    <li><a href="https://twitter.com/LouisDebaere/status/1105183381443276802">Louis Debaere</a></li>
-    <li><a href="https://twitter.com/tomqueue/status/1105231038953992197">Tom</a></li>
-    <li><a href="https://twitter.com/vaishnaviknaidu/status/1105289043359592450">Vaishnavi Naidu</a></li>
-    <li><a href="https://twitter.com/vvendra/status/1105598646077325312">Vinicius Vendramini</a></li>
+    <li><a href="https://www.apple.com/apple-events/march-2019/">Event Video</a></li>
+    <li><a href="https://twitter.com/terhechte/status/1110514462321106944">Developer Subscription</a></li>
+    <li><a href="https://twitter.com/lmihai/status/1111278251073257477">Mihai Leonte</a></li>
+    <li><a href="https://twitter.com/twostraws/status/1111329482437201920">Paul Hudson</a></li>
+    <li><a href="https://twitter.com/LouisDebaere/status/1112002631566835713">Louis Debaere</a></li>
   </ul>
 </p>
 <p>
   <h3>Project of the week...ish</h3>
 
   <ul>
-    <li><a href="https://github.com/emilbaehr/automatic-app-landing-page">Automatic App Landing Page</a></li>
-    <li><a href="http://launchkit.io">LaunchKit</a></li>
+    <li><a href="https://github.com/jarun/nnn">nnn</a></li>
   </ul>
   <ul>
-    <li><a href="https://github.com/zagahr/Conferences.digital">Conferences.digital</a></li>
+    <li><a href="https://github.com/onmyway133/RoughSwift">RoughSwift</a></li>
   </ul>
 </p>
 </div>
