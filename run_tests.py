@@ -25,8 +25,8 @@ for entry in feed.entries:
             fail("Invalid length for item '%s'" % (entry.title,))
         if not validate_path(enclosure["href"]):
             fail("Could not find mp3 '%s' for '%s'" % (enclosure["href"], entry.title,))
-    (_, minutes, _) = entry["itunes_duration"].split(":")
-    if int(minutes) == 0:
+    (hours, minutes, _) = entry["itunes_duration"].split(":")
+    if int(minutes) == 0 and int(hours) == 0:
         fail("Invalid duration parameter")
     if not validate_path(entry.link):
         fail("Missing document '%s'" % (entry.link,))
@@ -34,4 +34,4 @@ for entry in feed.entries:
         fail("Missing summary for %s" % (entry.title,))
     if len(entry["content"]) == 0:
         fail("Missing content for %s" % (entry.title,))
-print "Finished Validation"
+print "Validation Successful"
