@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Wed, 03 Apr 2019 22:53:38 CEST</pubDate>
-    <lastBuildDate>Wed, 03 Apr 2019 22:53:38 CEST</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2019 22:53:48 CEST</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2019 22:53:48 CEST</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -28,7 +28,7 @@
       <title>204: let substring = string[string.index(string.startIndex, offsetBy: 5) ..&lt; string.index(string.startIndex, offsetBy: 15)]</title>
       <link>https://contravariance.rocks/episodes/204_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/204_show_notes.html</guid>
-      <pubDate>Thu, 04 Apr 2019 20:00:00 CEST</pubDate>
+      <pubDate>Thu, 04 Apr 2019 20:00:01 CEST</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/204_substrings.mp3" length="32902441"/>
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
