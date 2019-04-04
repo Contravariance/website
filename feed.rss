@@ -25,7 +25,7 @@
 
     <!-- Latest -->
     <item>
-      <title>204: let substring = string[string.index(string.startIndex, offsetBy: 5) ..< string.index(string.startIndex, offsetBy: 15)]</title>
+      <title>204: let substring = string[string.index(string.startIndex, offsetBy: 5) ..&lt; string.index(string.startIndex, offsetBy: 15)]</title>
       <link>https://contravariance.rocks/episodes/204_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/204_show_notes.html</guid>
       <pubDate>Thu, 04 Apr 2019 20:00:00 CEST</pubDate>
