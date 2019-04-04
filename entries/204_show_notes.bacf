@@ -1,0 +1,71 @@
+- nr: 204
+- title: let substring = string[string.index(string.startIndex, offsetBy: 5) ..< string.index(string.startIndex, offsetBy: 15)]
+- date: 04.04.19, 20:00
+- file: 204_substrings.mp3
+- author: Bas Broek / Benedikt Terhechte
+- description: try! Swift Tokyo, Swift 5, Strings in Swift, Apple Subscriptions, and picks of the week
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>try! Swift Tokyo 2019</h3>
+
+  <ul>
+    <li><a href="https://www.tryswift.co/events/2019/tokyo/en/#">try! Swift</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Swift 5</h3>
+  <ul>
+    <li><a href="https://twitter.com/_contravariance/status/1111205285434191873">Stickers</a></li>
+    <li><a href="https://twitter.com/BasThomas/status/1111935577312641024">Swift 4.2 and 5 migration</a></li>
+    <li><a href="https://github.com/Contravariance/masse">Masse</a></li>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes/swift_5_release_notes_for_xcode_10_2">Swift 5 release notes</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#primary-focus-abi-stability">Swift 6</a></li>
+    <li><a href="https://github.com/onmyway133/RoughSwift">Ownership Manifesto</a></li>
+    <li><a href="https://swift.org/blog/utf8-string/">UTF-8 String blog post</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Apple Event March 2019</h3>
+
+  <ul>
+    <li><a href="https://www.apple.com/apple-events/march-2019/">Event Video</a></li>
+    <li><a href="https://twitter.com/terhechte/status/1110514462321106944">Developer Subscription</a></li>
+    <li><a href="https://twitter.com/lmihai/status/1111278251073257477">Mihai Leonte</a></li>
+    <li><a href="https://twitter.com/twostraws/status/1111329482437201920">Paul Hudson</a></li>
+    <li><a href="https://twitter.com/LouisDebaere/status/1112002631566835713">Louis Debaere</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/jarun/nnn">nnn</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://github.com/onmyway133/RoughSwift">RoughSwift</a></li>
+  </ul>
+</p>
+</div>
