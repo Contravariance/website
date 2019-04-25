@@ -818,6 +818,7 @@ struct PodcastEntry {
     static let podcastDateFormatter: DateFormatter = {
         let formatter = DateFormatter()
         // Wed, 08 Aug 2018 19:00:00 GMT
+        formatter.locale = Locale(identifier: "en_US_POSIX")
         formatter.dateFormat = "EEE, dd LLL yyyy HH:mm:ss z"
         return formatter
     }()
