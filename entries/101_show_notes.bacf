@@ -5,52 +5,31 @@
 - author: Bas Broek / Benedikt Terhechte
 - description: Where Bas and Benedikt discuss MacBook Keyboards, Swift's eigth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.
 ---
-<div>
-  <h3>Contact information</h3>
+# Contact information
+- Contravariance's website: https://contravariance.rocks
+- GitHub repository: https://github.com/Contravariance/website
+- Contravariance's Twitter: https://twitter.com/_contravariance
+- Benedikt's Twitter: https://twitter.com/terhechte
+- Bas' Twitter: https://twitter.com/basthomas
 
-  <ul>
-    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
-    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
-    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
-    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
-  </ul>
+- Benedikt's blog: https://appventure.me
+- Bas' blog: https://basthomas.github.io
 
-  <ul>
-    <li><a href="https://appventure.me">Benedikt's blog</a></li>
-    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
-  </ul>
-</p>
-<p>
-  <h3>Keyboards</h3>
+# Keyboards
+- Sculpt Ergonomic Keyboard: https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001
+- MoKo Universal Foldable Keyboard: https://www.amazon.com/dp/B01EHSLFAY/ref=cm_sw_r_cp_api_i_WRXABbA045104
+- MacBook Pro with Foldable Keyboard on top [1]: /episodes/101/macbook_pro_ergonomic_keyboard1.jpeg
+- MacBook Pro with Foldable Keyboard on top [2]: /episodes/101/macbook_pro_ergonomic_keyboard2.jpeg
+- MacBook Pro with Foldable Keyboard on top [3]: /episodes/101/macbook_pro_ergonomic_keyboard3.png
 
-  <ul>
-    <li><a href="https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001">Sculpt Ergonomic Keyboard</a></li>
-    <li><a href="https://www.amazon.com/dp/B01EHSLFAY/ref=cm_sw_r_cp_api_i_WRXABbA045104">MoKo Universal Foldable Keyboard</a></li>
-    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard1.jpeg">MacBook Pro with Foldable Keyboard on top [1]</a></li>
-    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard2.jpeg">MacBook Pro with Foldable Keyboard on top [2]</a></li>
-    <li><img src="/episodes/101/macbook_pro_ergonomic_keyboard3.png" /></li>
-  </ul>
-</p>
-<p>
-  <h3>8 years of Swift</h3>
+# 8 years of Swift
+- Tweet by Slava Pestov: https://twitter.com/slava_pestov/status/1021627717228220417
+- Rust: https://github.com/rust-lang/rust
+- Kotlin: https://github.com/JetBrains/kotlin
 
-  <ul>
-    <li><a href="https://twitter.com/slava_pestov/status/1021627717228220417">Tweet by Slava Pestov</a></li>
-    <li><a href="https://github.com/rust-lang/rust">Rust</a></li>
-    <li><a href="https://github.com/JetBrains/kotlin">Kotlin</a></li>
-  </ul>
-</p>
-<p>
-  <h3>Conferences</h3>
+# Conferences
+- try! Swift NYC 2018: https://www.tryswift.co/events/2018/nyc
+- Tickets: https://www.tryswift.co/events/2018/nyc/#tickets
 
-  <ul>
-    <li><a href="https://www.tryswift.co/events/2018/nyc">try! Swift NYC 2018</a></li>
-    <ul>
-      <li><a href="https://www.tryswift.co/events/2018/nyc/#tickets">Tickets</a></li>
-    </ul>
-    <li><a href="https://nsspain.com">NSSpain</a></li>
-    <ul>
-      <li><a href="https://ti.to/nsspain/2018-edition">Tickets</a></li>
-    </ul>
-  </ul>
-</div>
+- NSSpain: https://nsspain.com
+- Tickets: https://ti.to/nsspain/2018-edition

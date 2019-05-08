@@ -315,8 +315,8 @@ struct Template {
 
 struct ConfigEntryParser {
     private let metaPrefix = "- "
-    private let metaSeperator = ": "
-    private let seperator = "---"
+    private let metaSeparator = ": "
+    private let separator = "---"
     private let contents: String
     private let keys: [String]
     private let overflowKey: String?
@@ -333,26 +333,79 @@ struct ConfigEntryParser {
     }
     
     func retrieve() -> [String: String] {
-        var hasReachedSeperator = false
+        var hasReachedSeparator = false
         var result: [String: String] = [:]
-        var notesLines = ""
+        var noteLines: [String] = []
         for line in contents.components(separatedBy: .newlines) {
-            if hasReachedSeperator {
-                notesLines.append("\(line)\n")
+            if hasReachedSeparator {
+                noteLines.append(line)
             } else {
                 for key in keys {
-                    let start = "\(metaPrefix)\(key)\(metaSeperator)"
+                    let start = "\(metaPrefix)\(key)\(metaSeparator)"
                     if line.starts(with: start),
-                        let range = line.range(of: metaSeperator) {
+                        let range = line.range(of: metaSeparator) {
                         result[key] = String(line[range.upperBound..<line.endIndex])
                     }
                 }
-                if line == seperator && overflowKey != nil {
-                    hasReachedSeperator = true
+                if line == separator && overflowKey != nil {
+                    hasReachedSeparator = true
+                    print("Begin parsing show notes")
                 }
             }
         }
-        overflowKey.map { result[$0] = notesLines }
+        overflowKey.map { result[$0] = parsedNotes(noteLines).reduce("") { $0 + "\($1)\n" } }
+        return result
+    }
+
+    func parsedNotes(_ noteLines: [String]) -> [String] {
+        let titleKey = "# "
+        let entryKey = "- "
+        let entrySeparator = ": "
+        var result = ["<div>"]
+
+        func listEntry(forLine line: String) -> String {
+            guard let urlStart = line.range(of: entrySeparator)?.upperBound else { fatalError() }
+            let url = String(line[urlStart..<line.endIndex])
+            let name = line.between(beginString: metaPrefix, endString: "\(entrySeparator)\(url)")!
+            return "<li><a href=\"\(url)\">\(name)</a></li>"
+        }
+
+        func title(forLine line: String) -> String {
+            precondition(line.starts(with: titleKey))
+            return "<h3>\(line.dropFirst(2))</h3>"
+        }
+
+        var wasPreviousLineTopic = false
+        var wasPreviousLineEntry = false
+
+        noteLines.forEach {
+            if $0.starts(with: entryKey) { // li entry
+                if wasPreviousLineTopic == false && wasPreviousLineEntry == false {
+                    result.append("    <ul>")
+                }
+                result.append("      \(listEntry(forLine: $0))")
+                wasPreviousLineEntry = true
+            } else if wasPreviousLineEntry {
+                result.append("    </ul>")
+                wasPreviousLineEntry = false
+            }
+            if $0.starts(with: titleKey) {
+                if let lastLine = result.last, lastLine.isEmpty, let popped = result.popLast() {
+                    result.append("  </p>")
+                    result.append(popped)
+                }
+                result.append("  <p>")
+                result.append("    \(title(forLine: $0))")
+                result.append("    <ul>")
+                wasPreviousLineTopic = true
+            } else {
+                wasPreviousLineTopic = false
+            }
+            if $0.isEmpty { result.append("") }
+        }
+        result.append("    </ul>")
+        result.append("  </p>")
+        result.append("</div>")
         return result
     }
 }
@@ -373,7 +426,7 @@ enum InputStreamError: Error {
 }
 
 extension InputStream {
-    /// Read `length` into a buffer. Throw an `InputStreamError` on failure
+    /// Read `length` into a buffer. Throw a `InputStreamError` on failure
     func readInto(buffer: UnsafeMutablePointer<UInt8>, length: Int) throws {
         switch self.read(buffer, maxLength: length) {
         case 0: throw InputStreamError.endOfBuffer
@@ -386,7 +439,6 @@ extension InputStream {
 /// Various errors that can happen during MP3 decoding
 /// Especially for invalid MP3 files
 enum MP3DurationError: Error {
-    case streamNotOpen
     case invalidFile(URL)
     case forbiddenVersion(UInt32)
     case forbiddenLayer
@@ -399,10 +451,14 @@ enum MP3DurationError: Error {
 
 /// Lightweight wrapper around the seconds and nanoseconds
 /// that are encoded in an MP3 file
-public struct Duration {
-    public private(set) var seconds: Double
+struct Duration {
+    private var seconds: Double
     
-    public var minutes: Double {
+    var asSeconds: Double {
+        return seconds
+    }
+    
+    var asMinutes: Double {
         return seconds / 60.0
     }
     
@@ -426,7 +482,7 @@ public struct Duration {
 }
 
 extension Duration: CustomStringConvertible {
-    public var description: String {
+    var description: String {
         // NSDateComponentsFormatter could also be used
         let minutes: Double = seconds / 60.0
         let remainingSeconds = seconds.truncatingRemainder(dividingBy: 60.0)
@@ -438,8 +494,7 @@ extension Duration: CustomStringConvertible {
 
 /// Calculate the duration of an MP3 file
 /// Can be initialized with a `URL` or a `NSInputStream`. Note that the inputStream has to be opened!
-/// https://www.mp3-tech.org/programmer/frame_header.html
-public struct MP3DurationCalculator {
+struct MP3DurationCalculator {
     
     private let inputStream: InputStream
     
@@ -450,12 +505,7 @@ public struct MP3DurationCalculator {
         case mpeg1, mpeg2, mpeg25
         
         static func fromHeader(_ header: UInt32) throws -> Version {
-            // Shift by 19 to reach the two bits at position 19, 20
-            // then and with 0b11000000 so that only position 19/20 stay
-            // and then convert them (00, 01, 10, 11) to a number
-            // its is the same for the code below
             let number = (header >> 19) & 0b11
-
             switch number {
             case 0: return .mpeg25
             case 2: return .mpeg2
@@ -573,7 +623,7 @@ public struct MP3DurationCalculator {
     
     /// Lightweight wrapper around a `UnsafeMutablePointer` in order to read unneeded
     /// data from a inputStream into something. This will resize the buffer according
-    /// to the size requirements.
+    // to the size requirements.
     private struct Dump {
         private var buffer: UnsafeMutablePointer<UInt8>
         private var size = 16 * 1024
@@ -592,30 +642,23 @@ public struct MP3DurationCalculator {
         }
     }
     
-    /// Initialize the Calculator with a `URL` to an mp3 file
-    public init(url: URL) throws {
+    /// Initialize the Calculator with an `URL` to an mp3 file
+    init(url: URL) throws {
         guard let inputStream = InputStream(url: url) else {
             throw MP3DurationError.invalidFile(url)
         }
         inputStream.open()
-        try self.init(inputStream: inputStream)
+        self.init(inputStream: inputStream)
     }
     
     /// Initialize the Calculator with an `openend` `NSInputStream`. This is particularly
     /// useful as `NSInputStream`s can also be contructed from `NSData`
-    /// throws if the stream is not open
-    public init(inputStream: InputStream) throws {
-        guard inputStream.streamStatus == .open else {
-            throw MP3DurationError.streamNotOpen
-        }
+    init(inputStream: InputStream) {
         self.inputStream = inputStream
     }
     
     /// Calculate the duration of an MP3 file by parsing headers
-    public func calculateDuration() throws -> Duration {
-        defer {
-            inputStream.close()
-        }
+    func calculateDuration() throws -> Duration {
         let headerBufferLength = 4
         let headerBuffer = UnsafeMutablePointer<UInt8>.allocate(capacity: headerBufferLength)
         headerBuffer.initialize(repeating: 0, count: headerBufferLength)
@@ -837,23 +880,20 @@ struct PodcastEntry {
         self.meta["podcastDate"] = PodcastEntry.podcastDateFormatter.string(from: date)
         
         // calculate the duration
-        guard let mp3Filename = meta[Keys.PodcastEntry.file.rawValue] else {
-            return
-        }
-        let url = URL(fileURLWithPath: "\(folder)/\(mp3Filename)")
-        guard let data = try? Data(contentsOf: url) else {
-            print("Could not read mp3 file `\(url)`")
-            return
-        }
-        self.meta[Keys.PodcastEntry.length.rawValue] = "\(data.count)"
-        let stream = InputStream(data: data)
-        do {
-            stream.open()
-            let calculator = try MP3DurationCalculator(inputStream: stream)
-            let duration = try calculator.calculateDuration()
-            self.meta[Keys.PodcastEntry.duration.rawValue] = duration.description
-        } catch let error {
-            print("Could not caculate duration of MP3: \(mp3Filename)\n\t\(error)")
+        if let mp3Filename = meta[Keys.PodcastEntry.file.rawValue] {
+            let url = URL(fileURLWithPath: "\(folder)/\(mp3Filename)")
+            if let data = try? Data(contentsOf: url) {
+                self.meta[Keys.PodcastEntry.length.rawValue] = "\(data.count)"
+                let stream = InputStream(data: data)
+                do {
+                    stream.open()
+                    let calculator = MP3DurationCalculator(inputStream: stream)
+                    let duration = try calculator.calculateDuration()
+                    self.meta[Keys.PodcastEntry.duration.rawValue] = "\(duration)"
+                } catch let error {
+                    print("Could not caculate duration of MP3: \(mp3Filename)\n\t\(error)")
+                }
+            }
         }
     }
 }
