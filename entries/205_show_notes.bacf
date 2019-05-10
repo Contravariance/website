@@ -1,9 +1,9 @@
 - nr: 205
 - title: WWDC Tips and Rumors
-- date: 04.04.19, 20:00
+- date: 10.05.19, 07:00
 - file: 205_wwdc.mp3
 - author: Bas Broek / Benedikt Terhechte
-- description: ???
+- description: Benedikt and Bas talk about the upcoming WWDC, how to make the most out of the conference, and what to expect. Also, career changes!
 ---
 <div>
 <p>
@@ -29,43 +29,40 @@
   </ul>
 </p>
 <p>
-  <h3>try! Swift Tokyo 2019</h3>
+  <h3>Stickers</h3>
 
   <ul>
-    <li><a href="https://www.tryswift.co/events/2019/tokyo/en/#">try! Swift</a></li>
+    <li><a href="https://twitter.com/_contravariance/status/1111205285434191873">Contravariance stickers</a></li>
+    <li><a href="https://twitter.com/twostraws/status/1121954611961782272">Unwrap stickers</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://twitter.com/BasThomas/status/1121102492958433281">Offering time to talk to people</a></li>
   </ul>
 </p>
 <p>
-  <h3>Swift 5</h3>
+  <h3>WWDC Tips and Rumors</h3>
   <ul>
-    <li><a href="https://twitter.com/_contravariance/status/1111205285434191873">Stickers</a></li>
-    <li><a href="https://twitter.com/BasThomas/status/1111935577312641024">Swift 4.2 and 5 migration</a></li>
-    <li><a href="https://github.com/Contravariance/masse">Masse</a></li>
-    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes/swift_5_release_notes_for_xcode_10_2">Swift 5 release notes</a></li>
-    <li><a href="https://github.com/apple/swift-evolution#primary-focus-abi-stability">Swift 6</a></li>
-    <li><a href="https://github.com/onmyway133/RoughSwift">Ownership Manifesto</a></li>
-    <li><a href="https://swift.org/blog/utf8-string/">UTF-8 String blog post</a></li>
+    <li><a href="https://developer.apple.com/wwdc19/">WWDC</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://9to5mac.com/2019/04/15/ios-13-features-dark-mode/">Panels</a></li>
+    <li><a href="https://9to5mac.com/2019/05/05/ipad-mouse-support/">Mouse Support</a></li>
+    <li><a href="https://9to5mac.com/2019/04/22/wwdc-developers-siri-marzipan/">Marzipan</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://9to5mac.com/2019/04/17/stacktrace-podcast-032/">Stacktrace 032</a></li>
+    <li><a href="https://9to5mac.com/2019/04/24/stacktrace-podcast-033-face-id-by-proxy/">Stacktrace 033</a></li>
   </ul>
 </p>
 <p>
-  <h3>Apple Event March 2019</h3>
+  <h3>Career Changes</h3>
 
   <ul>
-    <li><a href="https://www.apple.com/apple-events/march-2019/">Event Video</a></li>
-    <li><a href="https://twitter.com/terhechte/status/1110514462321106944">Developer Subscription</a></li>
-    <li><a href="https://twitter.com/lmihai/status/1111278251073257477">Mihai Leonte</a></li>
-    <li><a href="https://twitter.com/twostraws/status/1111329482437201920">Paul Hudson</a></li>
-    <li><a href="https://twitter.com/LouisDebaere/status/1112002631566835713">Louis Debaere</a></li>
-  </ul>
-</p>
-<p>
-  <h3>Project of the week...ish</h3>
-
-  <ul>
-    <li><a href="https://github.com/jarun/nnn">nnn</a></li>
-  </ul>
-  <ul>
-    <li><a href="https://github.com/onmyway133/RoughSwift">RoughSwift</a></li>
+    <li><a href="https://twitter.com/wayni208/status/1116351278160859138">Wayne Nihart</a></li>
+    <li><a href="https://twitter.com/leonte_dev/status/1116312606313275393">Mihai Leonte</a></li>
+    <li><a href="https://twitter.com/chris5s/status/1116321101439741952">Christian Scheer</a></li>
+    <li><a href="https://twitter.com/twannl/status/1116333750160326656">Antoine van der Lee</a></li>
+    <li><a href="https://twitter.com/fassko/status/1119275760211116032">Kristaps Grinbergs</a></li>
   </ul>
 </p>
 </div>
