@@ -1,9 +1,9 @@
 - nr: 206
 - title: Not Work
-- date: 10.05.19, 07:00
+- date: 24.05.19, 20:00
 - file: 206_not_work.mp3
 - author: Bas Broek / Benedikt Terhechte
-- description: ???
+- description: We talk about our interests outside of work, like watchmaking, electronic music, coffee and chocolate.
 ---
 <div>
 <p>
@@ -29,40 +29,38 @@
   </ul>
 </p>
 <p>
-  <h3>Stickers</h3>
+  <h3>Projects of the week...ish</h3>
 
   <ul>
-    <li><a href="https://twitter.com/_contravariance/status/1111205285434191873">Contravariance stickers</a></li>
-    <li><a href="https://twitter.com/twostraws/status/1121954611961782272">Unwrap stickers</a></li>
+    <li><a href="https://twitter.com/catehstn">Cate Huston</a></li>
+    <li><a href="https://cate.blog">cate.blog</a></li>
   </ul>
   <ul>
-    <li><a href="https://twitter.com/BasThomas/status/1121102492958433281">Offering time to talk to people</a></li>
+    <li><a href="https://swiftwasm.org">SwiftWASM</a></li>
+    <li><a href="https://github.com/apple/swift/pull/24684">Pull Request</a></li>
   </ul>
 </p>
 <p>
-  <h3>WWDC Tips and Rumors</h3>
+  <h3>Watchmaking</h3>
   <ul>
-    <li><a href="https://developer.apple.com/wwdc19/">WWDC</a></li>
-  </ul>
-  <ul>
-    <li><a href="https://9to5mac.com/2019/04/15/ios-13-features-dark-mode/">Panels</a></li>
-    <li><a href="https://9to5mac.com/2019/05/05/ipad-mouse-support/">Mouse Support</a></li>
-    <li><a href="https://9to5mac.com/2019/04/22/wwdc-developers-siri-marzipan/">Marzipan</a></li>
-  </ul>
-  <ul>
-    <li><a href="https://9to5mac.com/2019/04/17/stacktrace-podcast-032/">Stacktrace 032</a></li>
-    <li><a href="https://9to5mac.com/2019/04/24/stacktrace-podcast-033-face-id-by-proxy/">Stacktrace 033</a></li>
+    <li><a href="https://de.mondaine.com/collections/stop2go">Mondaine stop2go</a></li>
+    <li><a href="https://www.hodinkee.com">HODINKEE</a></li>
+    <li><a href="https://www.goodreads.com/book/show/1363341.Watchmaking">George Daniels' Watchmaking</a></li>
   </ul>
 </p>
 <p>
-  <h3>Career Changes</h3>
-
+  <h3>Electronic Music</h3>
   <ul>
-    <li><a href="https://twitter.com/wayni208/status/1116351278160859138">Wayne Nihart</a></li>
-    <li><a href="https://twitter.com/leonte_dev/status/1116312606313275393">Mihai Leonte</a></li>
-    <li><a href="https://twitter.com/chris5s/status/1116321101439741952">Christian Scheer</a></li>
-    <li><a href="https://twitter.com/twannl/status/1116333750160326656">Antoine van der Lee</a></li>
-    <li><a href="https://twitter.com/fassko/status/1119275760211116032">Kristaps Grinbergs</a></li>
+    <li><a href="https://new.steinberg.net/cubase/">Cubase</a></li>
+    <li><a href="https://www.apple.com/logic-pro/">Logic Audio</a></li>
+    <li><a href="https://soundcloud.com/sarbatka">Sarbatka</a></li>
+    <li><a href="http://ocremix.org">OverClocked ReMix</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Coffee</h3>
+  <ul>
+    <li><a href="https://mokcoffee.be">Mok Coffee (worldwide shipping!)</a></li>
   </ul>
 </p>
 </div>
