@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Fri, 10 May 2019 07:33:16 GMT+2</pubDate>
-    <lastBuildDate>Fri, 10 May 2019 07:33:16 GMT+2</lastBuildDate>
+    <pubDate>Thu, 23 May 2019 13:32:13 GMT+2</pubDate>
+    <lastBuildDate>Thu, 23 May 2019 13:32:13 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -26,6 +26,8 @@
     <!-- Latest -->
     <item>
       <title>205: WWDC Tips and Rumors</title>
+      <itunes:title>WWDC Tips and Rumors</itunes:title>
+      <itunes:episode>205</itunes:episode>
       <link>https://contravariance.rocks/episodes/205_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/205_show_notes.html</guid>
       <pubDate>Fri, 10 May 2019 07:00:00 GMT+2</pubDate>
@@ -107,6 +109,8 @@
 
     <item>
       <title>204: let substring = string[string.index(string.startIndex, offsetBy: 5) ..&lt; string.index(string.startIndex, offsetBy: 15)]</title>
+      <itunes:title>let substring = string[string.index(string.startIndex, offsetBy: 5) ..&lt; string.index(string.startIndex, offsetBy: 15)]</itunes:title>
+      <itunes:episode>204</itunes:episode>
       <link>https://contravariance.rocks/episodes/204_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/204_show_notes.html</guid>
       <pubDate>Thu, 04 Apr 2019 20:00:00 GMT+2</pubDate>
@@ -191,6 +195,8 @@
 
     <item>
       <title>203: Technical Writing</title>
+      <itunes:title>Technical Writing</itunes:title>
+      <itunes:episode>203</itunes:episode>
       <link>https://contravariance.rocks/episodes/203_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/203_show_notes.html</guid>
       <pubDate>Thu, 21 Mar 2019 20:00:00 GMT+1</pubDate>
@@ -274,6 +280,8 @@
 
     <item>
       <title>202: Putting Pieces in Place</title>
+      <itunes:title>Putting Pieces in Place</itunes:title>
+      <itunes:episode>202</itunes:episode>
       <link>https://contravariance.rocks/episodes/202_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/202_show_notes.html</guid>
       <pubDate>Thu, 07 Mar 2019 20:00:00 GMT+1</pubDate>
@@ -368,6 +376,8 @@
 
     <item>
       <title>201: application(_:willContinueUserActivityWithType:)</title>
+      <itunes:title>application(_:willContinueUserActivityWithType:)</itunes:title>
+      <itunes:episode>201</itunes:episode>
       <link>https://contravariance.rocks/episodes/201_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/201_show_notes.html</guid>
       <pubDate>Thu, 21 Feb 2019 21:00:00 GMT+1</pubDate>
@@ -459,6 +469,8 @@
 
     <item>
       <title>107: Xcode 10.2 beta 1 and the Swift Community Podcast</title>
+      <itunes:title>Xcode 10.2 beta 1 and the Swift Community Podcast</itunes:title>
+      <itunes:episode>107</itunes:episode>
       <link>https://contravariance.rocks/episodes/107_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/107_show_notes.html</guid>
       <pubDate>Thu, 31 Jan 2019 20:00:00 GMT+1</pubDate>
@@ -550,6 +562,8 @@
 
     <item>
       <title>106: Refactoring across a large code base</title>
+      <itunes:title>Refactoring across a large code base</itunes:title>
+      <itunes:episode>106</itunes:episode>
       <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/106_show_notes.html</guid>
       <pubDate>Thu, 08 Nov 2018 20:00:00 GMT+1</pubDate>
@@ -606,6 +620,8 @@
 
     <item>
       <title>105: Paul "John Sundell" Hudson</title>
+      <itunes:title>Paul "John Sundell" Hudson</itunes:title>
+      <itunes:episode>105</itunes:episode>
       <link>https://contravariance.rocks/episodes/105_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/105_show_notes.html</guid>
       <pubDate>Thu, 18 Oct 2018 20:00:00 GMT+2</pubDate>
@@ -658,6 +674,8 @@
 
     <item>
       <title>104: Conferences</title>
+      <itunes:title>Conferences</itunes:title>
+      <itunes:episode>104</itunes:episode>
       <link>https://contravariance.rocks/episodes/104_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/104_show_notes.html</guid>
       <pubDate>Thu, 04 Oct 2018 20:00:00 GMT+2</pubDate>
@@ -710,6 +728,8 @@
 
     <item>
       <title>103: A Philosophical Treatise on the Definition of Pro</title>
+      <itunes:title>A Philosophical Treatise on the Definition of Pro</itunes:title>
+      <itunes:episode>103</itunes:episode>
       <link>https://contravariance.rocks/episodes/103_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/103_show_notes.html</guid>
       <pubDate>Thu, 06 Sep 2018 20:00:00 GMT+2</pubDate>
@@ -762,6 +782,8 @@
 
     <item>
       <title>102: The most awful static site engine</title>
+      <itunes:title>The most awful static site engine</itunes:title>
+      <itunes:episode>102</itunes:episode>
       <link>https://contravariance.rocks/episodes/102_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/102_show_notes.html</guid>
       <pubDate>Thu, 23 Aug 2018 20:00:00 GMT+2</pubDate>
@@ -833,6 +855,8 @@
 
     <item>
       <title>101: applicationDidFinishLaunching:</title>
+      <itunes:title>applicationDidFinishLaunching:</itunes:title>
+      <itunes:episode>101</itunes:episode>
       <link>https://contravariance.rocks/episodes/101_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/101_show_notes.html</guid>
       <pubDate>Mon, 13 Aug 2018 17:00:00 GMT+2</pubDate>

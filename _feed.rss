@@ -27,6 +27,8 @@
 {{LOOP from="entries" to="entry"}}
     <item>
       <title>#{entry.nr}#: #{entry.title}#</title>
+      <itunes:title>#{entry.title}#</itunes:title>
+      <itunes:episode>#{entry.nr}#</itunes:episode>
       <link>#{podcastLink}#/episodes/#{entry.nr}#_show_notes.html</link>
       <guid>#{podcastLink}#/episodes/#{entry.nr}#_show_notes.html</guid>
       <pubDate>#{entry.podcastDate}#</pubDate>
