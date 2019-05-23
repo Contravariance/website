@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://www.rssboard.org/media-rss">
+  <channel>
+    <title>Contravariance. A Swift Podcast</title>
+    <link>https://contravariance.rocks</link>
+    <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en</language>
+    <pubDate>Thu, 23 May 2019 13:33:30 GMT+2</pubDate>
+    <lastBuildDate>Thu, 23 May 2019 13:33:30 GMT+2</lastBuildDate>
+    <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
+    <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+    <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
+    <itunes:keywords>apple, swift, mac, iphone, ipad, macos, mojave, rust</itunes:keywords>
+    <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Bas Broek</itunes:name>
+      <itunes:email>bas@contravariance.rocks</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <copyright>Copyright 2018-2019 Contravariance</copyright>
+
+    <!-- Latest -->
+    <item>
+      <title>206: Not Work</title>
+      <itunes:title>Not Work</itunes:title>
+      <itunes:episode>206</itunes:episode>
+      <link>https://contravariance.rocks/episodes/206_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/206_show_notes.html</guid>
+      <pubDate>Fri, 24 May 2019 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/206_not_work.mp3" length="43199309"/>
+      <itunes:duration>00:40:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>We talk about our interests outside of work, like watchmaking, electronic music, coffee and chocolate.</description>
+      <itunes:summary>We talk about our interests outside of work, like watchmaking, electronic music, coffee and chocolate.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Projects of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/catehstn">Cate Huston</a></li>
+    <li><a href="https://cate.blog">cate.blog</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://swiftwasm.org">SwiftWASM</a></li>
+    <li><a href="https://github.com/apple/swift/pull/24684">Pull Request</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Watchmaking</h3>
+  <ul>
+    <li><a href="https://de.mondaine.com/collections/stop2go">Mondaine stop2go</a></li>
+    <li><a href="https://www.hodinkee.com">HODINKEE</a></li>
+    <li><a href="https://www.goodreads.com/book/show/1363341.Watchmaking">George Daniels' Watchmaking</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Electronic Music</h3>
+  <ul>
+    <li><a href="https://new.steinberg.net/cubase/">Cubase</a></li>
+    <li><a href="https://www.apple.com/logic-pro/">Logic Audio</a></li>
+    <li><a href="https://soundcloud.com/sarbatka">Sarbatka</a></li>
+    <li><a href="http://ocremix.org">OverClocked ReMix</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Coffee</h3>
+  <ul>
+    <li><a href="https://mokcoffee.be">Mok Coffee (worldwide shipping!)</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>205: WWDC Tips and Rumors</title>
+      <itunes:title>WWDC Tips and Rumors</itunes:title>
+      <itunes:episode>205</itunes:episode>
+      <link>https://contravariance.rocks/episodes/205_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/205_show_notes.html</guid>
+      <pubDate>Fri, 10 May 2019 07:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/205_wwdc.mp3" length="46396187"/>
+      <itunes:duration>00:43:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Benedikt and Bas talk about the upcoming WWDC, how to make the most out of the conference, and what to expect. Also, career changes!</description>
+      <itunes:summary>Benedikt and Bas talk about the upcoming WWDC, how to make the most out of the conference, and what to expect. Also, career changes!</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Stickers</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/_contravariance/status/1111205285434191873">Contravariance stickers</a></li>
+    <li><a href="https://twitter.com/twostraws/status/1121954611961782272">Unwrap stickers</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://twitter.com/BasThomas/status/1121102492958433281">Offering time to talk to people</a></li>
+  </ul>
+</p>
+<p>
+  <h3>WWDC Tips and Rumors</h3>
+  <ul>
+    <li><a href="https://developer.apple.com/wwdc19/">WWDC</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://9to5mac.com/2019/04/15/ios-13-features-dark-mode/">Panels</a></li>
+    <li><a href="https://9to5mac.com/2019/05/05/ipad-mouse-support/">Mouse Support</a></li>
+    <li><a href="https://9to5mac.com/2019/04/22/wwdc-developers-siri-marzipan/">Marzipan</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://9to5mac.com/2019/04/17/stacktrace-podcast-032/">Stacktrace 032</a></li>
+    <li><a href="https://9to5mac.com/2019/04/24/stacktrace-podcast-033-face-id-by-proxy/">Stacktrace 033</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Career Changes</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/wayni208/status/1116351278160859138">Wayne Nihart</a></li>
+    <li><a href="https://twitter.com/leonte_dev/status/1116312606313275393">Mihai Leonte</a></li>
+    <li><a href="https://twitter.com/chris5s/status/1116321101439741952">Christian Scheer</a></li>
+    <li><a href="https://twitter.com/twannl/status/1116333750160326656">Antoine van der Lee</a></li>
+    <li><a href="https://twitter.com/fassko/status/1119275760211116032">Kristaps Grinbergs</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>204: let substring = string[string.index(string.startIndex, offsetBy: 5) ..&lt; string.index(string.startIndex, offsetBy: 15)]</title>
+      <itunes:title>let substring = string[string.index(string.startIndex, offsetBy: 5) ..&lt; string.index(string.startIndex, offsetBy: 15)]</itunes:title>
+      <itunes:episode>204</itunes:episode>
+      <link>https://contravariance.rocks/episodes/204_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/204_show_notes.html</guid>
+      <pubDate>Thu, 04 Apr 2019 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/204_substrings.mp3" length="32902441"/>
+      <itunes:duration>00:31:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>try! Swift Tokyo, Swift 5, Strings in Swift, Apple Subscriptions, and picks of the week</description>
+      <itunes:summary>try! Swift Tokyo, Swift 5, Strings in Swift, Apple Subscriptions, and picks of the week</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>try! Swift Tokyo 2019</h3>
+
+  <ul>
+    <li><a href="https://www.tryswift.co/events/2019/tokyo/en/#">try! Swift</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Swift 5</h3>
+  <ul>
+    <li><a href="https://twitter.com/_contravariance/status/1111205285434191873">Stickers</a></li>
+    <li><a href="https://twitter.com/BasThomas/status/1111935577312641024">Swift 4.2 and 5 migration</a></li>
+    <li><a href="https://github.com/Contravariance/masse">Masse</a></li>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes/swift_5_release_notes_for_xcode_10_2">Swift 5 release notes</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#primary-focus-abi-stability">Swift 6</a></li>
+    <li><a href="https://github.com/onmyway133/RoughSwift">Ownership Manifesto</a></li>
+    <li><a href="https://swift.org/blog/utf8-string/">UTF-8 String blog post</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Apple Event March 2019</h3>
+
+  <ul>
+    <li><a href="https://www.apple.com/apple-events/march-2019/">Event Video</a></li>
+    <li><a href="https://twitter.com/terhechte/status/1110514462321106944">Developer Subscription</a></li>
+    <li><a href="https://twitter.com/lmihai/status/1111278251073257477">Mihai Leonte</a></li>
+    <li><a href="https://twitter.com/twostraws/status/1111329482437201920">Paul Hudson</a></li>
+    <li><a href="https://twitter.com/LouisDebaere/status/1112002631566835713">Louis Debaere</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/jarun/nnn">nnn</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://github.com/onmyway133/RoughSwift">RoughSwift</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>203: Technical Writing</title>
+      <itunes:title>Technical Writing</itunes:title>
+      <itunes:episode>203</itunes:episode>
+      <link>https://contravariance.rocks/episodes/203_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/203_show_notes.html</guid>
+      <pubDate>Thu, 21 Mar 2019 20:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/203_documentation.mp3" length="29735361"/>
+      <itunes:duration>00:28:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>On technical writing and editing, finding unused code, and more.</description>
+      <itunes:summary>On technical writing and editing, finding unused code, and more.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Technical Documentation</h3>
+
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Shakespeare_Programming_Language">Shakespeare</a></li>
+    <li><a href="https://github.com/lhartikk/ArnoldC">ArnoldC</a></li>
+    <li><a href="https://twitter.com/deutschbitte">Natalye</a></li>
+    <li><a href="https://www.objc.io">objc.io</a></li>
+    <li><a href="https://pspdfkit.com">PSPDFKit</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Dictionary_(software)">Dictionary.app on macOS</a></li>
+    <li><a href="https://www.imore.com/look-replaces-define-ios-10-heres-how-use-it">Dictionary on iOS</a></li>
+    <li><a href="https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf">The Elements of Style</a></li>
+    <li><a href="https://developers.google.com/season-of-docs/">Season of Docs</a></li>
+    <li><a href="https://forums.swift.org/t/swift-to-participate-in-gsoc-2019/20937">Swift in the Google Summer of Code</a></li>
+    <li><a href="https://developer.apple.com/documentation/gameplaykit">gameplaykit algorithms</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Unused Code</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/chris5s/status/1105166612536193024">Christian Scheer</a></li>
+    <li><a href="https://twitter.com/LouisDebaere/status/1105183381443276802">Louis Debaere</a></li>
+    <li><a href="https://twitter.com/tomqueue/status/1105231038953992197">Tom</a></li>
+    <li><a href="https://twitter.com/vaishnaviknaidu/status/1105289043359592450">Vaishnavi Naidu</a></li>
+    <li><a href="https://twitter.com/vvendra/status/1105598646077325312">Vinicius Vendramini</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/emilbaehr/automatic-app-landing-page">Automatic App Landing Page</a></li>
+    <li><a href="http://launchkit.io">LaunchKit</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://github.com/zagahr/Conferences.digital">Conferences.digital</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>202: Putting Pieces in Place</title>
+      <itunes:title>Putting Pieces in Place</itunes:title>
+      <itunes:episode>202</itunes:episode>
+      <link>https://contravariance.rocks/episodes/202_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/202_show_notes.html</guid>
+      <pubDate>Thu, 07 Mar 2019 20:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/202_putting_pieces_in_place.mp3" length="44318529"/>
+      <itunes:duration>00:35:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Solving puzzles, algorithms, macros, and Swift 5.</description>
+      <itunes:summary>Solving puzzles, algorithms, macros, and Swift 5.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Puzzle Solving</h3>
+
+  <ul>
+    <li><a href="https://www.iosconfbudapest.com">iOS Conf Budapest</a></li>
+    <li><a href="https://twitter.com/iosconfbudapest/status/1100673454922186752">cancellation</a></li>
+    <li><a href="https://github.com/BasThomas/Fif">Fif</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/15_puzzle">15 puzzle</a></li>
+    <li><a href="https://www.youtube.com/watch?v=5zr1jjSOklo">Video on branch-and-bound</a></li>
+    <li><a href="https://www.youtube.com/watch?v=gGQ-vAmdAOI">Video on branch-and-bound (2)</a></li>
+    <li><a href="https://basthomas.github.io/conforming-to-sequence">conforming to Collection post</a></li>
+    <li><a href="http://khanlou.com">Soroush Khanlou</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0220-count-where.md">count(where:)</a></li>
+    <li><a href="https://twitter.com/AirspeedSwift/status/1102658789545697281">... not in Swift 5</a></li>
+    <li><a href="https://developer.apple.com/documentation/gameplaykit">gameplaykit algorithms</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Macros in Swift</h3>
+
+  <ul>
+    <li><a href="https://github.com/apple/sourcekit-lsp">sourcekit-lsp</a></li>
+    <li><a href="https://github.com/krzysztofzablocki/Sourcery">Sourcery</a></li>
+    <li><a href="https://github.com/apple/swift/blob/2c7b0b22831159396fe0e98e5944e64a483c356e/www/FAQ.rst#do-you-plan-to-rewrite-the-swift-compiler-in-swift">Bootstrapping the Swift compiler</a></li>
+    <li><a href="https://www.swiftbysundell.com/podcast/42">John Sundell & Ted Kremenek talk about Swfit 5</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Macro_(computer_science)">Macros</a></li>
+  </ul>
+</p>
+<p>
+  <h3>How do you prepare for Swift 5?</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/CBeloch/status/1100476043541004288">Chris Beloch</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0212-compiler-version-directive.md">Swift compiler directive proposal</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Shim_(computing)">Shimming</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Result</a></li>
+    <li><a href="https://github.com/CocoaPods/CocoaPods/issues/8458">Xcode   10.2 simulator format change</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/optonaut/ActiveLabel.swift">ActiveLabel</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://github.com/Subito-it/Bariloche">Bariloche</a></li>
+    <li><a href="https://github.com/mxcl/swift-sh">swift sh</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>201: application(_:willContinueUserActivityWithType:)</title>
+      <itunes:title>application(_:willContinueUserActivityWithType:)</itunes:title>
+      <itunes:episode>201</itunes:episode>
+      <link>https://contravariance.rocks/episodes/201_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/201_show_notes.html</guid>
+      <pubDate>Thu, 21 Feb 2019 21:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/201_application_willContinueUserActivityWithType.mp3" length="24911710"/>
+      <itunes:duration>00:25:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Talking about more conferences (because of course), iPad, and cool projects we've seen on the web.</description>
+      <itunes:summary>Talking about more conferences (because of course), iPad, and cool projects we've seen on the web.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Japan</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/terhechte/status/1094590791379382272">Benedikt's Sweets</a></li>
+    <li><a href="https://droidkaigi.jp/2019/">DroidKaigi 2019</a></li>
+  </ul>
+</p>
+<p>
+  <h3>try! Swift Tokyo 2019</h3>
+
+  <ul>
+    <li><a href="https://www.tryswift.co/events/2019/tokyo/en/">try! Swift Tokyo 2019</a></li>
+    <li><a href="https://www.hackingwithswift.com/articles/57/how-swift-keypaths-let-us-write-more-natural-code">How Swift keypaths let us write more natural code</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Swift Island</h3>
+
+  <ul>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://theswiftalps.com">Swift Alps</a></li>
+    <li><a href="https://www.texelse.com">De Texelse golf course</a></li>
+    <li><a href="https://developer.apple.com/wwdc/">WWDC</a></li>
+  </ul>
+</p>
+<p>
+  <h3>iPad</h3>
+
+  <ul>
+    <li><a href="https://ish.app">ISH.app</a></li>
+    <li><a href="https://www.apple.com/shop/product/MPTL2LL/A/smart-keyboard-for-105%E2%80%91inch-ipad-pro-us-english">iPad Pro 10.5" Smart Keyboard</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/mxcl/swift-sh">swift sh</a></li>
+    <li><a href="https://github.com/JohnSundell/Marathon">Marathon</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://github.com/objcio/swift-talk-backend">Swift Talk backend</a></li>
+    <li><a href="https://www.objc.io">objc.io</a></li>
+    <li><a href="https://github.com/pointfreeco/pointfreeco">PointFree backend</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>107: Xcode 10.2 beta 1 and the Swift Community Podcast</title>
+      <itunes:title>Xcode 10.2 beta 1 and the Swift Community Podcast</itunes:title>
+      <itunes:episode>107</itunes:episode>
+      <link>https://contravariance.rocks/episodes/107_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/107_show_notes.html</guid>
+      <pubDate>Thu, 31 Jan 2019 20:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/107_xcode_10.2_and_more.mp3" length="38201238"/>
+      <itunes:duration>00:39:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Starting fresh into the new year with a discussion on Xcode 10.2 beta 1, the Swift Community Podcast, and more</description>
+      <itunes:summary>Starting fresh into the new year with a discussion on Xcode 10.2 beta 1, the Swift Community Podcast, and more</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Xcode 10.2 beta 1</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes">Xcode 10.2 beta 1 Release Notes</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Result in Swift 5</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#primary-focus-abi-stability">Application Binary Interface (ABI) stability</a></li>
+    <li><a href="https://help.apple.com/xcode/mac/current/#/devbbdc5ce4f">App Thinning</a></li>
+    <li><a href="https://twitter.com/twostraws/status/1088507816841789440">Playgrounds "might not execute"</a></li>
+    <li><a href="https://twitter.com/nerdonica/status/1088459155264995328">Veronica Ray's Xcode tips and tricks Twitter thread</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLuoeXyslFTuYQ9Hoh42Bw8sPYMlTOV0V7">Paul Hudson's "Xcode in 20 seconds" video series</a></li>
+    <li><a href="https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/MenuCommands/MenuCommands014.html">Xcode Keyboard Shortcuts (⌃+⌘+R and - ⌘+⇧+J)</a></li>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes/swift_5_release_notes_for_xcode_10_2_beta">Exclusive Memory Access at Runtime</a></li>
+    <li><a href="https://twitter.com/steipete/status/1088821790024105984">LLDB debugger's "v" (frame variable)</a></li>
+    <li><a href="https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes/swift_5_release_notes_for_xcode_10_2_beta">Swift 3 support dropped</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ePuOrCbIW-o">"Taken for Granted", Bas' talk at try! Swift NYC 2018</a></li>
+    <li><a href="https://twitter.com/bzamayo/status/1088766602814869504">Xcode Dark Mode</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#primary-focus-abi-stability">Memory Ownership Model</a></li>
+    <li><a href="https://github.com/apple/swift-evolution#other-improvements">Async/Await</a></li>
+    <li><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782">Swift Concurrency Manifesto</a></li>
+    <li><a href="https://twitter.com/terhechte/status/790297273842462721">App Binary vs Download Size</a></li>
+  </ul>
+</p>
+<p>
+  <h3>The Swift Community Podcast</h3>
+
+  <ul>
+    <li><a href="https://www.swiftcommunitypodcast.org">The Swift Community Podcast website</a></li>
+    <li><a href="https://github.com/SwiftCommunityPodcast/podcast">The Swift Community Podcast on GitHub</a></li>
+    <li><a href="https://twitter.com/theswiftpodcast">The Swift Community Podcast on Twitter</a></li>
+    <li><a href="https://twitter.com/garricn">Garric Nahapetian</a></li>
+    <li><a href="https://twitter.com/johnsundell">John Sundell</a></li>
+    <li><a href="https://twitter.com/clattner_llvm">Chris Lattner</a></li>
+    <li><a href="https://swiftweekly.github.io">Swift Weekly Brief</a></li>
+    <li><a href="https://www.swiftcommunitypodcast.org/episodes/2">The Swift Community Podcast: Scaling A Codeless Open Source Swift Community with Bas Broek</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Gitsi</h3>
+
+  <ul>
+    <li><a href="https://github.com/terhechte/gitsi">Gitsi on GitHub</a></li>
+    <li><a href="http://www.terhech.de/2019/01/24/interactive-git-status-written-in-c/">Blog Post</a></li>
+    <li><a href="https://www.youtube.com/watch?v=pAxquqis56I">Demo video</a></li>
+    <li><a href="https://ish.app">ISH.app</a></li>
+  </ul>
+</p>
+<p>
+  <h3>DroidKaigi 2019</h3>
+
+  <ul>
+    <li><a href="https://droidkaigi.jp/2019/">DroidKaigi 2019</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>106: Refactoring across a large code base</title>
+      <itunes:title>Refactoring across a large code base</itunes:title>
+      <itunes:episode>106</itunes:episode>
+      <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/106_show_notes.html</guid>
+      <pubDate>Thu, 08 Nov 2018 20:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/106_refactoring_across_a_large_code_base.mp3" length="18398314"/>
+      <itunes:duration>00:31:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>A discussion on how we recently refactored our networking stack at XING, from planning to implementation. And emoji.</description>
+      <itunes:summary>A discussion on how we recently refactored our networking stack at XING, from planning to implementation. And emoji.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Refactoring</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/documentation/foundation/nsurlconnection">NSURLConnection</a></li>
+    <li><a href="http://blog.cocoafrog.de">Joachim Kurz on Twitter</a></li>
+    <li><a href="https://developer.apple.com/documentation/foundation/jsonserialization">JSONSerialization</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Emoji</h3>
+
+  <ul>
+    <li><a href="https://blog.emojipedia.org/apple-fixes-bagel-emoji/">Apple fixes bagel emoji</a></li>
+    <li><a href="https://twitter.com/viticci/status/1052198004415967232">The pizza emoji is broken</a></li>
+    <li><a href="https://emojipedia.org/pencil/">Pencil emoji</a></li>
+    <li><a href="http://curlicuecal.tumblr.com/post/175362924100/an-entomologist-rates-ant-emojis">Comparing ant emoji</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>105: Paul "John Sundell" Hudson</title>
+      <itunes:title>Paul "John Sundell" Hudson</itunes:title>
+      <itunes:episode>105</itunes:episode>
+      <link>https://contravariance.rocks/episodes/105_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/105_show_notes.html</guid>
+      <pubDate>Thu, 18 Oct 2018 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/105_paul_john_sundell_hudson.mp3" length="13215275"/>
+      <itunes:duration>00:26:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte / Paul Hudson</itunes:author>
+      <description>An interview with Paul Hudson about his career, talking about journalism, books, Venn diagrams, conference speaking and diversity.</description>
+      <itunes:summary>An interview with Paul Hudson about his career, talking about journalism, books, Venn diagrams, conference speaking and diversity.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Interview</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/twostraws">Paul Hudson on Twitter</a></li>
+    <li><a href="https://twitter.com/johnsundell">John Sundell on Twitter</a></li>
+    <li><a href="https://linuxformat.com">Linux Format</a></li>
+    <li><a href="http://www.rubymotion.com">RubyMotion</a></li>
+    <li><a href="https://www.hackingwithswift.com">Hacking with Swift</a></li>
+    <li><a href="https://vimeo.com/291590798">Teaching Swift at Scale @ NSSpain 2018</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0192-non-exhaustive-enums.md">SE-0192: Handling Future Enum Cases</a></li>
+    <li><a href="https://forwardswift.com">Forward Swift</a></li>
+    <li><a href="https://www.tryswift.co">try! Swift</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>104: Conferences</title>
+      <itunes:title>Conferences</itunes:title>
+      <itunes:episode>104</itunes:episode>
+      <link>https://contravariance.rocks/episodes/104_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/104_show_notes.html</guid>
+      <pubDate>Thu, 04 Oct 2018 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/104_conferences.mp3" length="32053987"/>
+      <itunes:duration>00:31:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>A general discussion around iOS conferences: Why you should go there, what you should do there, and what to do if you want to give a talk. Also a short report on two conferences we just attended: NSSpain and Try Swift.</description>
+      <itunes:summary>A general discussion around iOS conferences: Why you should go there, what you should do there, and what to do if you want to give a talk. Also a short report on two conferences we just attended: NSSpain and Try Swift.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Conferences</h3>
+
+  <ul>
+    <li><a href="https://macoun.de">Macoun</a></li>
+    <li><a href="https://do-ios.com">DO iOS</a></li>
+    <li><a href="https://developer.apple.com/wwdc/">WWDC</a></li>
+    <li><a href="http://www.swiftandfika.com">Swift & Fika</a></li>
+    <li><a href="https://www.tryswift.co/events/2018/nyc/">Try Swift Conference</a></li>
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform?c=0&w=1">Try Swift Call for Papers</a></li>
+    <li><a href="https://2018.nsspain.com/">NSSpain Conference</a></li>
+    <li><a href="https://theswiftalps.com/">Swift Alps Conference</a></li>
+    <li><a href="http://swiftaveiro.xyz/">Swift Aveiro Conference</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>103: A Philosophical Treatise on the Definition of Pro</title>
+      <itunes:title>A Philosophical Treatise on the Definition of Pro</itunes:title>
+      <itunes:episode>103</itunes:episode>
+      <link>https://contravariance.rocks/episodes/103_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/103_show_notes.html</guid>
+      <pubDate>Thu, 06 Sep 2018 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/103_a_philosophical_treatise_on_the_definition_of_pro.mp3" length="21562824"/>
+      <itunes:duration>00:32:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Bas and Benedikt discuss what a "Pro" device represents at Apple, what a Mac Mini Pro could be, and why the Touchbar should not be in a Pro device.</description>
+      <itunes:summary>Bas and Benedikt discuss what a "Pro" device represents at Apple, what a Mac Mini Pro could be, and why the Touchbar should not be in a Pro device.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Pro Hardware</h3>
+
+  <ul>
+    <li><a href="https://www.bloomberg.com/news/articles/2018-08-20/apple-is-said-to-plan-revamped-low-cost-macs-to-reignite-sales">Mac Mini Pro Rumors</a></li>
+    <li><a href="https://daringfireball.net/2017/04/the_mac_pro_lives">Revamping the Mac Pro</a></li>
+    <li><a href="https://daringfireball.net/2017/09/x_man">Gruber talking about iPhone X naming</a></li>
+    <li><a href="https://9to5mac.com/2018/08/30/2018-iphone-xs-design-larger-version-gold-exclusive/">iPhone XS</a></li>
+    <li><a href="https://www.apple.com/apple-events/september-2018/">Apple Special Event</a></li>
+    <li><a href="https://www.hodinkee.com/articles/apple-watch-series-3-edition-review">Apple Watch: A Week on the Wrist</a></li>
+    <li><a href="https://9to5mac.com/2018/08/30/exclusive-apple-watch-series-4/">Apple Watch Series 4</a></li>
+    <li><a href="https://www.macrumors.com/2018/08/27/barclays-no-3d-touch-2019-iphones/">Apple might drop 3D Touch</a></li>
+    <li><a href="http://www.idownloadblog.com/2018/06/07/ios-12-iphone-keyboard-trackpad-3d-touch/">Trackpad Mode on non-3D Touch iPhones</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>102: The most awful static site engine</title>
+      <itunes:title>The most awful static site engine</itunes:title>
+      <itunes:episode>102</itunes:episode>
+      <link>https://contravariance.rocks/episodes/102_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/102_show_notes.html</guid>
+      <pubDate>Thu, 23 Aug 2018 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/102_the_most_awful_static_site_engine.mp3" length="31404344"/>
+      <itunes:duration>00:34:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Where Bas and Benedikt discuss iPad, our awful static site engine, Swift scripting, Strings in Swift and Zelda.</description>
+      <itunes:summary>Where Bas and Benedikt discuss iPad, our awful static site engine, Swift scripting, Strings in Swift and Zelda.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>iPad</h3>
+
+  <ul>
+    <li><a href="https://www.cultofmac.com/438203/ios-10-brings-3d-touch-gestures-to-ipad-pro/">iPad Pencil force touch</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Masse & Swift scripting</h3>
+
+  <ul>
+    <li><a href="https://github.com/contravariance/masse">Most Awful Static Site Engine</a></li>
+    <li><a href="https://github.com/JohnSundell/Marathon">Marathon by John Sundell</a></li>
+    <li><a href="https://twitter.com/terhechte/status/1031909956025548803">Benedikt's tweet</a></li>
+    <li><a href="https://github.com/Contravariance/masse/blob/master/Sources/Masse/String%2BParsing.swift">String convenience extension</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Strings in Swift</h3>
+
+  <ul>
+    <li><a href="https://github.com/apple/swift/blob/master/docs/StringManifesto.md">String Manifesto</a></li>
+    <li><a href="https://developer.apple.com/videos/play/wwdc2018/223/">Embracing Algorithms</a></li>
+    <li><a href="https://www.jessesquires.com/blog/measuring-compile-times-xcode9/">-warn-long-function-bodies</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Zelda</h3>
+
+  <ul>
+    <li><a href="https://alttpr.com">Zelda: A Link To The Past Randomizer</a></li>
+    <li><a href="https://www.youtube.com/watch?v=a1HUq6uwDS0">Angry Chickens</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>101: applicationDidFinishLaunching:</title>
+      <itunes:title>applicationDidFinishLaunching:</itunes:title>
+      <itunes:episode>101</itunes:episode>
+      <link>https://contravariance.rocks/episodes/101_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/101_show_notes.html</guid>
+      <pubDate>Mon, 13 Aug 2018 17:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/101_applicationDidFinishLaunching.mp3" length="39850623"/>
+      <itunes:duration>00:33:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Where Bas and Benedikt discuss MacBook Keyboards, Swift's eigth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.</description>
+      <itunes:summary>Where Bas and Benedikt discuss MacBook Keyboards, Swift's eigth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Keyboards</h3>
+
+  <ul>
+    <li><a href="https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001">Sculpt Ergonomic Keyboard</a></li>
+    <li><a href="https://www.amazon.com/dp/B01EHSLFAY/ref=cm_sw_r_cp_api_i_WRXABbA045104">MoKo Universal Foldable Keyboard</a></li>
+    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard1.jpeg">MacBook Pro with Foldable Keyboard on top [1]</a></li>
+    <li><a href="/episodes/101/macbook_pro_ergonomic_keyboard2.jpeg">MacBook Pro with Foldable Keyboard on top [2]</a></li>
+    <li><img src="/episodes/101/macbook_pro_ergonomic_keyboard3.png" /></li>
+  </ul>
+</p>
+<p>
+  <h3>8 years of Swift</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/slava_pestov/status/1021627717228220417">Tweet by Slava Pestov</a></li>
+    <li><a href="https://github.com/rust-lang/rust">Rust</a></li>
+    <li><a href="https://github.com/JetBrains/kotlin">Kotlin</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Conferences</h3>
+
+  <ul>
+    <li><a href="https://www.tryswift.co/events/2018/nyc">try! Swift NYC 2018</a></li>
+    <ul>
+      <li><a href="https://www.tryswift.co/events/2018/nyc/#tickets">Tickets</a></li>
+    </ul>
+    <li><a href="https://nsspain.com">NSSpain</a></li>
+    <ul>
+      <li><a href="https://ti.to/nsspain/2018-edition">Tickets</a></li>
+    </ul>
+  </ul>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+
+  </channel>
+</rss>
