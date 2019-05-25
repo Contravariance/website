@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 23 May 2019 13:33:30 GMT+2</pubDate>
-    <lastBuildDate>Thu, 23 May 2019 13:33:30 GMT+2</lastBuildDate>
+    <pubDate>Sat, 25 May 2019 23:13:16 GMT+2</pubDate>
+    <lastBuildDate>Sat, 25 May 2019 23:13:16 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -642,8 +642,8 @@
     </item>
 
     <item>
-      <title>106: Refactoring across a large code base</title>
-      <itunes:title>Refactoring across a large code base</itunes:title>
+      <title>106: Refactoring Across a Large Code Base</title>
+      <itunes:title>Refactoring Across a Large Code Base</itunes:title>
       <itunes:episode>106</itunes:episode>
       <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/106_show_notes.html</guid>
@@ -862,8 +862,8 @@
     </item>
 
     <item>
-      <title>102: The most awful static site engine</title>
-      <itunes:title>The most awful static site engine</itunes:title>
+      <title>102: The Most Awful Static Site Engine</title>
+      <itunes:title>The Most Awful Static Site Engine</itunes:title>
       <itunes:episode>102</itunes:episode>
       <link>https://contravariance.rocks/episodes/102_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/102_show_notes.html</guid>
