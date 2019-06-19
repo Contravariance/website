@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Sat, 25 May 2019 23:13:16 GMT+2</pubDate>
-    <lastBuildDate>Sat, 25 May 2019 23:13:16 GMT+2</lastBuildDate>
+    <pubDate>Wed, 19 Jun 2019 20:08:48 GMT+2</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2019 20:08:48 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,87 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>207: WWDC</title>
+      <itunes:title>WWDC</itunes:title>
+      <itunes:episode>207</itunes:episode>
+      <link>https://contravariance.rocks/episodes/207_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/207_show_notes.html</guid>
+      <pubDate>Thu, 20 Jun 2019 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/207_wwdc.mp3" length="43019389"/>
+      <itunes:duration>00:42:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>We start talking about WWDC announcements, notably SwiftUI and iPadOS</description>
+      <itunes:summary>We start talking about WWDC announcements, notably SwiftUI and iPadOS</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Projects of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/catehstn">Cate Huston</a></li>
+    <li><a href="https://cate.blog">cate.blog</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://swiftwasm.org">SwiftWASM</a></li>
+    <li><a href="https://github.com/apple/swift/pull/24684">Pull Request</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Watchmaking</h3>
+  <ul>
+    <li><a href="https://de.mondaine.com/collections/stop2go">Mondaine stop2go</a></li>
+    <li><a href="https://www.hodinkee.com">HODINKEE</a></li>
+    <li><a href="https://www.goodreads.com/book/show/1363341.Watchmaking">George Daniels' Watchmaking</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Electronic Music</h3>
+  <ul>
+    <li><a href="https://new.steinberg.net/cubase/">Cubase</a></li>
+    <li><a href="https://www.apple.com/logic-pro/">Logic Audio</a></li>
+    <li><a href="https://soundcloud.com/sarbatka">Sarbatka</a></li>
+    <li><a href="http://ocremix.org">OverClocked ReMix</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Coffee</h3>
+  <ul>
+    <li><a href="https://mokcoffee.be">Mok Coffee (worldwide shipping!)</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>206: Not Work</title>
       <itunes:title>Not Work</itunes:title>
