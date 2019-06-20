@@ -1,0 +1,67 @@
+- nr: 207
+- title: WWDC: Better Late Than Never
+- date: 20.06.19, 20:00
+- file: 207_wwdc.mp3
+- author: Bas Broek / Benedikt Terhechte
+- description: We start talking about WWDC announcements, notably SwiftUI and iPadOS
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Catching Up</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/videos/">WWDC Videos</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1136336070986149889">Changing the playback rate of videos</a></li>
+    <li><a href="https://twitter.com/johnsundell/status/1136336381574340610">WWDC.io app</a></li>
+    <li><a href="https://raywenderlich.com">RayWenderlich</a></li>
+    <li><a href="https://github.com/Moya/Moya">Moya</a></li>
+    <li><a href="https://twitter.com/freak4pc">Shai Mishali</a></li>
+  </ul>
+</p>
+<p>
+  <h3>iPad(OS)</h3>
+  <ul>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://photos5.appleinsider.com/gallery/31454-52634-voice-maps-l.jpg">Accessibility: Voice Control</a></li>
+    <li><a href="https://feedbackassistant.apple.com">Feedback Assistant</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1137284397617623040">WWDC was overwhelming</a></li>
+  </ul>
+</p>
+<p>
+  <h3>SwiftUI</h3>
+  <ul>
+    <li><a href="https://developer.apple.com/xcode/swiftui/">SwiftUI</a></li>
+    <li><a href="https://github.com/rjmccall/swift-evolution/blob/3e6b78c0e7ddc60f88d2c126722e1a319d3b1749/proposals/XXXX-function-builders.md">Function Builders</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0252-keypath-dynamic-member-lookup.md">Dynamic Keypaths</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md">Property Wrappers</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Unidirectional_Data_Flow_(computer_science)">Unidirectional Data Flow</a></li>
+    <li><a href="https://developer.apple.com/documentation/combine">Combine</a></li>
+    <li><a href="https://twitter.com/johnsundell/status/1138810062116413440">Serialize UI</a></li>
+    <li><a href="https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/PreservingandRestoringState.html">State Preservation</a></li>
+  </ul>
+</p>
+</div>
