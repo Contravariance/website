@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 20 Jun 2019 16:50:12 GMT+2</pubDate>
-    <lastBuildDate>Thu, 20 Jun 2019 16:50:12 GMT+2</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2019 19:08:23 GMT+2</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2019 19:08:23 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,96 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>207: The static catalyst iPad window refactoring project conference</title>
+      <itunes:title>The static catalyst iPad window refactoring project conference</itunes:title>
+      <itunes:episode>207</itunes:episode>
+      <link>https://contravariance.rocks/episodes/207_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/207_show_notes.html</guid>
+      <pubDate>Thu, 11 Jul 2019 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/208_tsciwrpc.mp3" length="32085139"/>
+      <itunes:duration>00:31:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>We talk about the Swift Island and Swift Aveiro conferences, static site generators and puzzles in our personal projects, iPadOS windowing support, Catalyst woes, refactoring tools and Swift UI guides</description>
+      <itunes:summary>We talk about the Swift Island and Swift Aveiro conferences, static site generators and puzzles in our personal projects, iPadOS windowing support, Catalyst woes, refactoring tools and Swift UI guides</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Swift Island</h3>
+
+  <ul>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://swiftaveiro.xyz">Swift Aveiro</a></li>
+    <li><a href="https://theswiftalps.com">The Swift Alps</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Personal Projects</h3>
+  <ul>
+    <li><a href="https://swiftconf.com/">SwiftConf</a></li>
+    <li><a href="https://www.raywenderlich.com">Ray Wenderlich</a></li>
+    <li><a href="https://swiftweekly.github.io">Swift Weekly Brief</a></li>
+    <li><a href="https://appventure.me">Appventure.me</a></li>
+    <li><a href="https://user-images.githubusercontent.com/132234/60996826-b2debc00-a355-11e9-9358-8deeb0c8ee2d.gif">Appventure.me's Static Site Generator Live Reloading</a></li>
+    <li><a href="https://twitter.com/johnsundell/status/1143278989840146432">John's Static Site Generator progress</a></li>
+    <li><a href="https://github.com/SwiftCommunityPodcast/podcast/issues/67">The Swift Community Podcast: SwiftUI First Impressions</a></li>
+  </ul>
+</p>
+<p>
+  <h3>iPadOS Scene support</h3>
+  <ul>
+    <li><a href="https://speakerdeck.com/basthomas/an-introduction-to-ipados-workshop">An Introduction to iPadOS</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Catalyst</h3>
+  <ul>
+    <li><a href="https://appventure.me/guides/catalyst/intro.html">Benedikt's Catalyst Guide</a></li>
+    <li><a href="https://developer.apple.com/documentation/appkit/nstouchbar">Touch Bar Documentation</a></li>
+    <li><a href="https://twitter.com/twannl">Antoine van der Lee</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+  <ul>
+    <li><a href="https://bismuthlabs.io/">Bismuth</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://goshdarnswiftui.com">Gosh Darn SwiftUI</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>207: WWDC: Better Late Than Never</title>
       <itunes:title>WWDC: Better Late Than Never</itunes:title>
