@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 11 Jul 2019 19:08:23 GMT+2</pubDate>
-    <lastBuildDate>Thu, 11 Jul 2019 19:08:23 GMT+2</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2019 20:00:13 GMT+2</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2019 20:00:13 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -25,11 +25,11 @@
 
     <!-- Latest -->
     <item>
-      <title>207: The static catalyst iPad window refactoring project conference</title>
-      <itunes:title>The static catalyst iPad window refactoring project conference</itunes:title>
-      <itunes:episode>207</itunes:episode>
-      <link>https://contravariance.rocks/episodes/207_show_notes.html</link>
-      <guid>https://contravariance.rocks/episodes/207_show_notes.html</guid>
+      <title>208: The Static Catalyst iPad Window Refactoring Project Conference</title>
+      <itunes:title>The Static Catalyst iPad Window Refactoring Project Conference</itunes:title>
+      <itunes:episode>208</itunes:episode>
+      <link>https://contravariance.rocks/episodes/208_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/208_show_notes.html</guid>
       <pubDate>Thu, 11 Jul 2019 20:00:00 GMT+2</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/208_tsciwrpc.mp3" length="32085139"/>
       <itunes:duration>00:31:21</itunes:duration>
