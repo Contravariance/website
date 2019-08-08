@@ -3,7 +3,7 @@
 - date: 08.08.19, 20:00
 - file: 209_vim_hardware.mp3
 - author: Bas Broek / Benedikt Terhechte
-- description: ???
+- description: In which Benedikt explains Vim to Bas, new Apple hardware apparently is(n't) interesting, and interesting projects.
 ---
 <div>
 <p>
@@ -29,47 +29,42 @@
   </ul>
 </p>
 <p>
-  <h3>Swift Island</h3>
+  <h3>Introduction</h3>
 
   <ul>
-    <li><a href="https://swiftisland.nl">Swift Island</a></li>
-    <li><a href="https://swiftaveiro.xyz">Swift Aveiro</a></li>
-    <li><a href="https://theswiftalps.com">The Swift Alps</a></li>
+    <li><a href="https://www.hbo.com/chernobyl">Chernobyl TV show</a></li>
+    <li><a href="https://www.theopen.com">The Open Golf</a></li>
   </ul>
 </p>
 <p>
-  <h3>Personal Projects</h3>
+  <h3>Vim</h3>
   <ul>
-    <li><a href="https://swiftconf.com/">SwiftConf</a></li>
-    <li><a href="https://www.raywenderlich.com">Ray Wenderlich</a></li>
-    <li><a href="https://swiftweekly.github.io">Swift Weekly Brief</a></li>
-    <li><a href="https://appventure.me">Appventure.me</a></li>
-    <li><a href="https://user-images.githubusercontent.com/132234/60996826-b2debc00-a355-11e9-9358-8deeb0c8ee2d.gif">Appventure.me's Static Site Generator Live Reloading</a></li>
-    <li><a href="https://twitter.com/johnsundell/status/1143278989840146432">John's Static Site Generator progress</a></li>
-    <li><a href="https://github.com/SwiftCommunityPodcast/podcast/issues/67">The Swift Community Podcast: SwiftUI First Impressions</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vim_(text_editor)">Vim (Vi Improved)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vi">vi</a></li>
+    <li><a href="https://github.com/XVimProject/XVim2">Vim bindings for Xcode</a></li>
+    <li><a href="https://github.com/apple/sourcekit-lsp">Swift LSP</a></li>
+    <li><a href="https://help.github.com/en/articles/keyboard-shortcuts">GitHub keyboard shortcuts</a></li>
+    <li><a href="https://developer.apple.com/documentation/objectivec/nsobject/1615091-accessibilityperformescape">accessibilityPerformEscape()</a></li>
   </ul>
 </p>
 <p>
-  <h3>iPadOS Scene support</h3>
+  <h3>New Apple Hardware</h3>
   <ul>
-    <li><a href="https://speakerdeck.com/basthomas/an-introduction-to-ipados-workshop">An Introduction to iPadOS</a></li>
-  </ul>
-</p>
-<p>
-  <h3>Catalyst</h3>
-  <ul>
-    <li><a href="https://appventure.me/guides/catalyst/intro.html">Benedikt's Catalyst Guide</a></li>
-    <li><a href="https://developer.apple.com/documentation/appkit/nstouchbar">Touch Bar Documentation</a></li>
-    <li><a href="https://twitter.com/twannl">Antoine van der Lee</a></li>
+    <li><a href="https://www.apple.com/ipados/ipados-preview/">iPadOS</a></li>
+    <li><a href="https://www.deckset.com">Deckset</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Audacity_(audio_editor)">Audacity</a></li>
+    <li><a href="https://www.apple.com/apple-watch-series-4/health/">Apple Watch ECG (electrocardiogram)</a></li>
+    <li><a href=""></a></li>
   </ul>
 </p>
 <p>
   <h3>Project of the week...ish</h3>
   <ul>
-    <li><a href="https://bismuthlabs.io/">Bismuth</a></li>
+    <li><a href="https://github.com/foxlet/macOS-Simple-KVM">macOS Simple KVM (Kernel-based Virtual Machine)</a></li>
   </ul>
   <ul>
-    <li><a href="https://goshdarnswiftui.com">Gosh Darn SwiftUI</a></li>
+    <li><a href="https://github.com/apple/swift-nio/blob/b564a726a99ef96ab0ad946c077279e985a56f15/scripts/check_no_api_breakages.sh">Swift API breakage checker</a></li>
+    <li><a href="https://github.com/apple/swift-source-compat-suite">Swift Source Compatibility Suite</a></li>
   </ul>
 </p>
 </div>
