@@ -1,6 +1,6 @@
-- nr: 209
+- nr: 210
 - title: Implementing SwiftUI on top of UIKit in iOS 12
-- date: 08.08.19, 20:00
+- date: 13.08.19, 20:00
 - file: 210_awfului.mp3
 - author: Bas Broek / Benedikt Terhechte
 - description: We're talking about AwfulUI, a project which aims to re-implement the syntax of SwiftUI on top of UIKit in order to support iOS 12 or lower
@@ -32,39 +32,25 @@
   <h3>Introduction</h3>
 
   <ul>
-    <li><a href="https://www.hbo.com/chernobyl">Chernobyl TV show</a></li>
-    <li><a href="https://www.theopen.com">The Open Golf</a></li>
+    <li><a href="https://www.swiftbysundell.com/podcast/54">John Sundell's Podcast (with us)</a></li>
+    <li><a href="https://twitter.com/johnsundell">John Sundell</a></li>
   </ul>
 </p>
 <p>
-  <h3>Vim</h3>
+  <h3>AwfulUI</h3>
+
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Vim_(text_editor)">Vim (Vi Improved)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Vi">vi</a></li>
-    <li><a href="https://github.com/XVimProject/XVim2">Vim bindings for Xcode</a></li>
-    <li><a href="https://github.com/apple/sourcekit-lsp">Swift LSP</a></li>
-    <li><a href="https://help.github.com/en/articles/keyboard-shortcuts">GitHub keyboard shortcuts</a></li>
-    <li><a href="https://developer.apple.com/documentation/objectivec/nsobject/1615091-accessibilityperformescape">accessibilityPerformEscape()</a></li>
-  </ul>
-</p>
-<p>
-  <h3>New Apple Hardware</h3>
-  <ul>
-    <li><a href="https://www.apple.com/ipados/ipados-preview/">iPadOS</a></li>
-    <li><a href="https://www.deckset.com">Deckset</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Audacity_(audio_editor)">Audacity</a></li>
-    <li><a href="https://www.apple.com/apple-watch-series-4/health/">Apple Watch ECG (electrocardiogram)</a></li>
-    <li><a href=""></a></li>
-  </ul>
-</p>
-<p>
-  <h3>Project of the week...ish</h3>
-  <ul>
-    <li><a href="https://github.com/foxlet/macOS-Simple-KVM">macOS Simple KVM (Kernel-based Virtual Machine)</a></li>
-  </ul>
-  <ul>
-    <li><a href="https://github.com/apple/swift-nio/blob/b564a726a99ef96ab0ad946c077279e985a56f15/scripts/check_no_api_breakages.sh">Swift API breakage checker</a></li>
-    <li><a href="https://github.com/apple/swift-source-compat-suite">Swift Source Compatibility Suite</a></li>
+    <li><a href="https://developer.apple.com/xcode/swiftui/">SwiftUI</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0244-opaque-result-types.md">Opaque Types</a></li>
+    <li><a href="https://developer.apple.com/documentation/swiftui/hstack/3269178-drawinggroup">Render as Metal</a></li>
+    <li><a href="https://developer.apple.com/videos/play/wwdc2019/237/">Building Custom Views with SwiftUI</a></li>
+    <li><a href="https://developer.apple.com/videos/play/wwdc2019/220/">Collection view items using automatic diffing</a></li>
+    <li><a href="https://github.com/rjmccall/swift-evolution/blob/function-builders/proposals/XXXX-function-builders.md">Function Builders</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md">Property Wrappers</a></li>
+    <li><a href="https://scala-lang.org">Scala</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://developer.apple.com/documentation/swiftui/anyview">AnyView</a></li>
+    <li><a href="https://gist.github.com/lattner/429b9070918248274f25b714dcfc7619">Async/Await in Swift</a></li>
   </ul>
 </p>
 </div>
