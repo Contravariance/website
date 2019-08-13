@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Wed, 07 Aug 2019 07:01:23 GMT+2</pubDate>
-    <lastBuildDate>Wed, 07 Aug 2019 07:01:23 GMT+2</lastBuildDate>
+    <pubDate>Tue, 13 Aug 2019 19:23:04 GMT+2</pubDate>
+    <lastBuildDate>Tue, 13 Aug 2019 19:23:04 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,77 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>210: Implementing SwiftUI on top of UIKit in iOS 12</title>
+      <itunes:title>Implementing SwiftUI on top of UIKit in iOS 12</itunes:title>
+      <itunes:episode>210</itunes:episode>
+      <link>https://contravariance.rocks/episodes/210_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/210_show_notes.html</guid>
+      <pubDate>Tue, 13 Aug 2019 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/210_awfului.mp3" length="32082045"/>
+      <itunes:duration>00:32:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>We're talking about AwfulUI, a project which aims to re-implement the syntax of SwiftUI on top of UIKit in order to support iOS 12 or lower</description>
+      <itunes:summary>We're talking about AwfulUI, a project which aims to re-implement the syntax of SwiftUI on top of UIKit in order to support iOS 12 or lower</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Introduction</h3>
+
+  <ul>
+    <li><a href="https://www.swiftbysundell.com/podcast/54">John Sundell's Podcast (with us)</a></li>
+    <li><a href="https://twitter.com/johnsundell">John Sundell</a></li>
+  </ul>
+</p>
+<p>
+  <h3>AwfulUI</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/xcode/swiftui/">SwiftUI</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0244-opaque-result-types.md">Opaque Types</a></li>
+    <li><a href="https://developer.apple.com/documentation/swiftui/hstack/3269178-drawinggroup">Render as Metal</a></li>
+    <li><a href="https://developer.apple.com/videos/play/wwdc2019/237/">Building Custom Views with SwiftUI</a></li>
+    <li><a href="https://developer.apple.com/videos/play/wwdc2019/220/">Collection view items using automatic diffing</a></li>
+    <li><a href="https://github.com/rjmccall/swift-evolution/blob/function-builders/proposals/XXXX-function-builders.md">Function Builders</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md">Property Wrappers</a></li>
+    <li><a href="https://scala-lang.org">Scala</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://developer.apple.com/documentation/swiftui/anyview">AnyView</a></li>
+    <li><a href="https://gist.github.com/lattner/429b9070918248274f25b714dcfc7619">Async/Await in Swift</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>209: Hackintoshes, new Apple Hardware, and an explanation of why VIM is cool</title>
       <itunes:title>Hackintoshes, new Apple Hardware, and an explanation of why VIM is cool</itunes:title>
