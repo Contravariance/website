@@ -1,0 +1,56 @@
+- nr: 211
+- title: Our thoughts on Xcode 11
+- date: 29.08.19, 20:00
+- file: 211_xcode11.mp3
+- author: Bas Broek / Benedikt Terhechte
+- description: We're talking about our initial Xcode 11 thoughts as well as the joy of just using Apple's latest tech in a brand new project.
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Introduction</h3>
+
+  <ul>
+    <li><a href="https://www.swiftbysundell.com/podcast/54">John Sundell's Podcast (with us)</a></li>
+    <li><a href="https://twitter.com/johnsundell">John Sundell</a></li>
+  </ul>
+</p>
+<p>
+  <h3>AwfulUI</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/xcode/swiftui/">SwiftUI</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0244-opaque-result-types.md">Opaque Types</a></li>
+    <li><a href="https://developer.apple.com/documentation/swiftui/hstack/3269178-drawinggroup">Render as Metal</a></li>
+    <li><a href="https://developer.apple.com/videos/play/wwdc2019/237/">Building Custom Views with SwiftUI</a></li>
+    <li><a href="https://developer.apple.com/videos/play/wwdc2019/220/">Collection view items using automatic diffing</a></li>
+    <li><a href="https://github.com/rjmccall/swift-evolution/blob/function-builders/proposals/XXXX-function-builders.md">Function Builders</a></li>
+    <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md">Property Wrappers</a></li>
+    <li><a href="https://scala-lang.org">Scala</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://developer.apple.com/documentation/swiftui/anyview">AnyView</a></li>
+    <li><a href="https://gist.github.com/lattner/429b9070918248274f25b714dcfc7619">Async/Await in Swift</a></li>
+  </ul>
+</p>
+</div>
