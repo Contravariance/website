@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Tue, 13 Aug 2019 19:23:04 GMT+2</pubDate>
-    <lastBuildDate>Tue, 13 Aug 2019 19:23:04 GMT+2</lastBuildDate>
+    <pubDate>Fri, 30 Aug 2019 22:14:14 GMT+2</pubDate>
+    <lastBuildDate>Fri, 30 Aug 2019 22:14:14 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,87 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>211: Our thoughts on Xcode 11</title>
+      <itunes:title>Our thoughts on Xcode 11</itunes:title>
+      <itunes:episode>211</itunes:episode>
+      <link>https://contravariance.rocks/episodes/211_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/211_show_notes.html</guid>
+      <pubDate>Fri, 30 Aug 2019 22:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/211_xcode11.mp3" length="37742218"/>
+      <itunes:duration>00:37:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>We're talking about our initial Xcode 11 thoughts as well as the joy of just using Apple's latest tech in a brand new project.</description>
+      <itunes:summary>We're talking about our initial Xcode 11 thoughts as well as the joy of just using Apple's latest tech in a brand new project.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>SwiftConf</h3>
+
+  <ul>
+    <li><a href="https://swiftconf.com/">SwiftConf</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/an-introduction-to-accessibility-on-ios-better-apps-for-everyone">Accessibility Workshop</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/solving-the-15-puzzle-in-swift-a-look-at-algorithms-and-speed">Puzzle Solving talk</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Working on a new project</h3>
+
+  <ul>
+    <li><a href="https://github.com/broadwaylamb/OpenCombine">OpenCombine</a></li>
+    <li><a href="https://gumroad.com/l/airbuddy">AirBuddy</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Xcode 11</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/documentation/metrickit/improving_your_app_s_performance">MetricKit</a></li>
+    <li><a href="https://twitter.com/twannl/status/1164492181693968386">Improving WeTransfer's Performance</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1164909825601544193">Header Documentation: no "return"</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1164908476822380544">Header Documentation fails to generate</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/vashpan/xcode-dev-cleaner">Xcode-dev-cleaner</a></li>
+    <li><a href="https://cleanmymac.com">CleanMyMac</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>210: Implementing SwiftUI on top of UIKit in iOS 12</title>
       <itunes:title>Implementing SwiftUI on top of UIKit in iOS 12</itunes:title>

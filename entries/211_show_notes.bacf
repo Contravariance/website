@@ -1,0 +1,66 @@
+- nr: 211
+- title: Our thoughts on Xcode 11
+- date: 30.08.19, 22:00
+- file: 211_xcode11.mp3
+- author: Bas Broek / Benedikt Terhechte
+- description: We're talking about our initial Xcode 11 thoughts as well as the joy of just using Apple's latest tech in a brand new project.
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>SwiftConf</h3>
+
+  <ul>
+    <li><a href="https://swiftconf.com/">SwiftConf</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/an-introduction-to-accessibility-on-ios-better-apps-for-everyone">Accessibility Workshop</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/solving-the-15-puzzle-in-swift-a-look-at-algorithms-and-speed">Puzzle Solving talk</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Working on a new project</h3>
+
+  <ul>
+    <li><a href="https://github.com/broadwaylamb/OpenCombine">OpenCombine</a></li>
+    <li><a href="https://gumroad.com/l/airbuddy">AirBuddy</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Xcode 11</h3>
+
+  <ul>
+    <li><a href="https://developer.apple.com/documentation/metrickit/improving_your_app_s_performance">MetricKit</a></li>
+    <li><a href="https://twitter.com/twannl/status/1164492181693968386">Improving WeTransfer's Performance</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1164909825601544193">Header Documentation: no "return"</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1164908476822380544">Header Documentation fails to generate</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Project of the week...ish</h3>
+
+  <ul>
+    <li><a href="https://github.com/vashpan/xcode-dev-cleaner">Xcode-dev-cleaner</a></li>
+    <li><a href="https://cleanmymac.com">CleanMyMac</a></li>
+  </ul>
+</p>
+</div>
