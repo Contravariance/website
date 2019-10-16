@@ -1,9 +1,9 @@
-- nr: 211
+- nr: 212
 - title: SwiftConf, NSSpain, mobiconf, and FrenchKit - With Special Guest Antoine van der Lee
-- date: 15.10.19, 22:00
+- date: 17.10.19, 20:00
 - file: 212_conferences.mp3
 - author: Bas Broek / Benedikt Terhechte / Antoine van der Lee
-- description: We're giving an overview over some of Europes best iOS conferences 
+- description: We're giving an overview over some of Europe's awesome iOS conferences in the last months.
 ---
 <div>
 <p>
@@ -29,38 +29,68 @@
   </ul>
 </p>
 <p>
+  <h3>Introduction</h3>
+
+  <ul>
+  	<li><a href="https://twitter.com/twannl">Antoine van der Lee</a></li>
+    <li><a href="https://www.avanderlee.com">SwiftLee</a></li>
+  </ul>
+</p>
+<p>
   <h3>SwiftConf</h3>
 
   <ul>
-    <li><a href="https://swiftconf.com/">SwiftConf</a></li>
-    <li><a href="https://speakerdeck.com/basthomas/an-introduction-to-accessibility-on-ios-better-apps-for-everyone">Accessibility Workshop</a></li>
-    <li><a href="https://speakerdeck.com/basthomas/solving-the-15-puzzle-in-swift-a-look-at-algorithms-and-speed">Puzzle Solving talk</a></li>
+    <li><a href="https://medium.com/@nfgabor/story-of-a-failed-conference-ios-conf-budapest-postmortem-54c3b0199f7d">iOS Conf Budapest Postmortem</a></li>
+    <li><a href="https://swiftconf.com">SwiftConf</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/solving-the-15-puzzle-in-swift-a-look-at-algorithms-and-speed">Solving the 15 Puzzle in Swift (slides)</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/an-introduction-to-accessibility-on-ios-better-apps-for-everyone">Accessibility workshop (slides)</a></li>
+    <li><a href="https://twitter.com/mennenia">Maxim Cramer</a></li>
+    <li><a href="https://twitter.com/doriadar">Dori Adar</a></li>
+    <li><a href="https://twitter.com/SwiftConf/status/1162011207961849857">Movie Posters Twitter thread</a></li>
+    <li><a href="https://www.7p-group.com">7 Principles</a></li>
+    <li><a href="https://twitter.com/dimsumthinking">Daniel Steinberg</a></li>
+    <li><a href="https://twitter.com/gridNAka">Kateryna Gridina</a></li>
   </ul>
 </p>
 <p>
-  <h3>Working on a new project</h3>
+  <h3>NSSpain</h3>
 
   <ul>
-    <li><a href="https://github.com/broadwaylamb/OpenCombine">OpenCombine</a></li>
-    <li><a href="https://gumroad.com/l/airbuddy">AirBuddy</a></li>
+    <li><a href="https://www.nsspain.com">NSSpain</a></li>
+    <li><a href="https://youngadventuress.com/2011/09/san-mateo-festival.html">San Mateo Wine Festival</a></li>
+    <li><a href="https://twitter.com/hybridcattt">Marina Gornostaeva</a></li>
+    <li><a href="https://vimeo.com/362202970">Detail-oriented UI with Layout Margins</a></li>
+    <li><a href="https://twitter.com/v_pradeilles">Vincent Pradeilles</a></li>
+    <li><a href="https://vimeo.com/362197940">Property Wrappers</a></li>
+    <li><a href="https://twitter.com/elenipapanikolo">Eleni Papanikolopoulou</a></li>
+    <li><a href="https://vimeo.com/362134004">Venturing into the world of RxSwift unit testing</a></li>
+    <li><a href="https://twitter.com/ios_memes">iOS Memes</a></li>
   </ul>
 </p>
 <p>
-  <h3>Xcode 11</h3>
+  <h3>mobiconf</h3>
 
   <ul>
-    <li><a href="https://developer.apple.com/documentation/metrickit/improving_your_app_s_performance">MetricKit</a></li>
-    <li><a href="https://twitter.com/twannl/status/1164492181693968386">Improving WeTransfer's Performance</a></li>
-    <li><a href="https://twitter.com/basthomas/status/1164909825601544193">Header Documentation: no "return"</a></li>
-    <li><a href="https://twitter.com/basthomas/status/1164908476822380544">Header Documentation fails to generate</a></li>
+    <li><a href="https://twitter.com/donnywals">Donny Wals</a></li>
+    <li><a href="https://mobiconf.org">mobiconf</a></li>
   </ul>
 </p>
 <p>
-  <h3>Project of the week...ish</h3>
+  <h3>FrenchKit</h3>
 
   <ul>
-    <li><a href="https://github.com/vashpan/xcode-dev-cleaner">Xcode-dev-cleaner</a></li>
-    <li><a href="https://cleanmymac.com">CleanMyMac</a></li>
+    <li><a href="https://frenchkit.fr">FrenchKit</a></li>
+    <li><a href="https://twitter.com/chriseidhof">Chris Eidhof</a></li>
+    <li><a href="https://twitter.com/KairaDiagne">Kaira Diagne</a></li>
+    <li><a href="https://twitter.com/steipete">Peter Steinberger</a></li>
+    <li><a href="https://twitter.com/aligatr">Olivier Halligon</a></li>
+    <li><a href="https://github.com/AvdLee/CombineWorkshop">Combine Workshop</a></li>
+    <li><a href="https://twitter.com/fpillet">Florent Pillet</a></li>
+    <li><a href="https://github.com/BasThomas/Board">iPadOS workshop</a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
   </ul>
 </p>
 </div>
