@@ -1,9 +1,9 @@
-- nr: 212
-- title: MacBooks, AirPods Pro, GitHub Mobile & SwiftU
-- date: 17.10.19, 20:00
+- nr: 213
+- title: MacBooks, AirPods Pro, GitHub Mobile & SwiftUI
+- date: 21.11.19, 21:00
 - file: 213_macbooks.mp3
 - author: Bas Broek / Benedikt Terhechte
-- description: We're giving an overview over some of Europe's awesome iOS conferences in the last months.
+- description: We're talking about the new 16" MacBook, the new AirPods Pro, GitHub's new Mobile app, SwiftUI learnings and more.
 ---
 <div>
 <p>
@@ -32,65 +32,59 @@
   <h3>Introduction</h3>
 
   <ul>
-  	<li><a href="https://twitter.com/twannl">Antoine van der Lee</a></li>
-    <li><a href="https://www.avanderlee.com">SwiftLee</a></li>
+  	<li><a href="https://theswiftalps.com">The Swift Alps</a></li>
+    <li><a href="https://www.meetup.com/GDGValencia/events/265033507/">Swift and Kotlin: Why Not Both?</a></li>
+    <li><a href="https://www.twitter.com/khanlou">Soroush Khanlou</a></li>
   </ul>
 </p>
 <p>
-  <h3>SwiftConf</h3>
+  <h3>16" MacBook Pro</h3>
 
   <ul>
-    <li><a href="https://medium.com/@nfgabor/story-of-a-failed-conference-ios-conf-budapest-postmortem-54c3b0199f7d">iOS Conf Budapest Postmortem</a></li>
-    <li><a href="https://swiftconf.com">SwiftConf</a></li>
-    <li><a href="https://speakerdeck.com/basthomas/solving-the-15-puzzle-in-swift-a-look-at-algorithms-and-speed">Solving the 15 Puzzle in Swift (slides)</a></li>
-    <li><a href="https://speakerdeck.com/basthomas/an-introduction-to-accessibility-on-ios-better-apps-for-everyone">Accessibility workshop (slides)</a></li>
-    <li><a href="https://twitter.com/mennenia">Maxim Cramer</a></li>
-    <li><a href="https://twitter.com/doriadar">Dori Adar</a></li>
-    <li><a href="https://twitter.com/SwiftConf/status/1162011207961849857">Movie Posters Twitter thread</a></li>
-    <li><a href="https://www.7p-group.com">7 Principles</a></li>
-    <li><a href="https://twitter.com/dimsumthinking">Daniel Steinberg</a></li>
-    <li><a href="https://twitter.com/gridNAka">Kateryna Gridina</a></li>
+  	<li><a href="https://www.apple.com/macbook-pro-16/">16" MacBook Pro</a></li>
+  	<li><a href="https://speakerdeck.com/basthomas/treat-yourself-keeping-an-eye-on-your-dependency-graph">Treat Yourself: Keeping an Eye on Your Dependency Graph</a></li>
+  	<li><a href="https://www.youtube.com/watch?v=KjfxcL1S8Dc">Jonathan Morrison's interview with Phil Schiller</a></li>
   </ul>
 </p>
 <p>
-  <h3>NSSpain</h3>
+  <h3>AirPods Pro</h3>
 
   <ul>
-    <li><a href="https://www.nsspain.com">NSSpain</a></li>
-    <li><a href="https://youngadventuress.com/2011/09/san-mateo-festival.html">San Mateo Wine Festival</a></li>
-    <li><a href="https://twitter.com/hybridcattt">Marina Gornostaeva</a></li>
-    <li><a href="https://vimeo.com/362202970">Detail-oriented UI with Layout Margins</a></li>
-    <li><a href="https://twitter.com/v_pradeilles">Vincent Pradeilles</a></li>
-    <li><a href="https://vimeo.com/362197940">Property Wrappers</a></li>
-    <li><a href="https://twitter.com/elenipapanikolo">Eleni Papanikolopoulou</a></li>
-    <li><a href="https://vimeo.com/362134004">Venturing into the world of RxSwift unit testing</a></li>
-    <li><a href="https://twitter.com/ios_memes">iOS Memes</a></li>
+    <li><a href="https://www.apple.com/airpods-pro/">AirPods Pro</a></li>
+    <li><a href="https://www.apple.com/shop/product/MV6Y2LL/A/powerbeats-pro-totally-wireless-earphones-black">PowerBeats Pro</a></li>
+    <li><a href="https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html">Bose QuietComfort 35</a></li>
   </ul>
 </p>
 <p>
-  <h3>mobiconf</h3>
+  <h3>GitHub Mobile</h3>
 
   <ul>
-    <li><a href="https://twitter.com/donnywals">Donny Wals</a></li>
-    <li><a href="https://mobiconf.org">mobiconf</a></li>
+  	<li><a href="https://github.com/mobile">GitHub Mobile</a></li>
+  	<li><a href="https://twitter.com/_ryannystrom">Ryan Nystrom</a></li>
+  	<li><a href="https://github.com/GitHawkApp/GitHawk">GitHawk</a></li>
+  	<li><a href="https://githubuniverse.com">GitHub Universe</a></li>
+  	<li><a href="https://workingcopyapp.com">Working Copy</a></li>
+  	<li><a href="https://git2go.com">git2go</a></li>
+  	<li><a href="https://github.com/BasThomas/ImageAlertAction">ImageAlertAction</a></li>
   </ul>
 </p>
 <p>
-  <h3>FrenchKit</h3>
+  <h3>Topics of the Episode</h3>
 
   <ul>
-    <li><a href="https://frenchkit.fr">FrenchKit</a></li>
-    <li><a href="https://twitter.com/chriseidhof">Chris Eidhof</a></li>
-    <li><a href="https://twitter.com/KairaDiagne">Kaira Diagne</a></li>
-    <li><a href="https://twitter.com/steipete">Peter Steinberger</a></li>
-    <li><a href="https://twitter.com/aligatr">Olivier Halligon</a></li>
-    <li><a href="https://github.com/AvdLee/CombineWorkshop">Combine Workshop</a></li>
-    <li><a href="https://twitter.com/fpillet">Florent Pillet</a></li>
-    <li><a href="https://github.com/BasThomas/Board">iPadOS workshop</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+  	<li><a href="https://github.com/jVirus/compositional-layouts-kit">Compositional Layouts Kit</a></li>
+  </ul>
+  <ul>
+  	<li><a href="https://twitter.com/hybridcattt">Marina Gornostaeva</a></li>
+  	<li><a href="https://github.com/hybridcattt/LayoutMarginsDemo">Layout Margins Demo</a></li>
+  	<li><a href="https://vimeo.com/362202970">Detail-oriented UI with Layout Margins</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Interesting News</h3>
+
+  <ul>
+  	<li><a href="https://www.meetup.com/CocoaHeads-Hamburg/events/zkldgrybccbdb/">Contravariance Live @ CocoaHeads Hamburg</a></li>
   </ul>
 </p>
 </div>
