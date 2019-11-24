@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 21 Nov 2019 20:52:22 GMT+1</pubDate>
-    <lastBuildDate>Thu, 21 Nov 2019 20:52:22 GMT+1</lastBuildDate>
+    <pubDate>Sun, 24 Nov 2019 21:50:53 GMT+1</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2019 21:50:53 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -25,8 +25,8 @@
 
     <!-- Latest -->
     <item>
-      <title>213: MacBooks, AirPods Pro, GitHub Mobile & SwiftUI</title>
-      <itunes:title>MacBooks, AirPods Pro, GitHub Mobile & SwiftUI</itunes:title>
+      <title>213: MacBooks, AirPods Pro, GitHub Mobile &amp; SwiftUI</title>
+      <itunes:title>MacBooks, AirPods Pro, GitHub Mobile &amp; SwiftUI</itunes:title>
       <itunes:episode>213</itunes:episode>
       <link>https://contravariance.rocks/episodes/213_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/213_show_notes.html</guid>
