@@ -1,9 +1,9 @@
 - nr: 214
-- title: Donny Wals’ Advent of Swift, Disney+ and other things - A special Christmas Episode
-- date: 17.10.19, 20:00
+- title: Donny Wals' Advent of Swift, Disney+ and other things - A special Christmas Episode
+- date: 19.12.19, 20:00
 - file: 214_advent_of_swift.mp3
 - author: Bas Broek / Benedikt Terhechte / Donny Walls
-- description: TBD
+- description: We talk with Donny Wals on his Advent of Swift project, Disney+, working on an SDK and more.
 ---
 <div>
 <p>
@@ -32,61 +32,44 @@
   <h3>Introduction</h3>
 
   <ul>
-  	<li><a href="https://twitter.com/twannl">Antoine van der Lee</a></li>
-    <li><a href="https://www.avanderlee.com">SwiftLee</a></li>
+  	<li><a href="https://twitter.com/donnywals">Donny Wals</a></li>
+    <li><a href="https://www.donnywals.com">Donny's website</a></li>
   </ul>
 </p>
 <p>
-  <h3>SwiftConf</h3>
+  <h3>Donny's blogging</h3>
 
   <ul>
-    <li><a href="https://medium.com/@nfgabor/story-of-a-failed-conference-ios-conf-budapest-postmortem-54c3b0199f7d">iOS Conf Budapest Postmortem</a></li>
-    <li><a href="https://swiftconf.com">SwiftConf</a></li>
-    <li><a href="https://speakerdeck.com/basthomas/solving-the-15-puzzle-in-swift-a-look-at-algorithms-and-speed">Solving the 15 Puzzle in Swift (slides)</a></li>
-    <li><a href="https://speakerdeck.com/basthomas/an-introduction-to-accessibility-on-ios-better-apps-for-everyone">Accessibility workshop (slides)</a></li>
-    <li><a href="https://twitter.com/mennenia">Maxim Cramer</a></li>
-    <li><a href="https://twitter.com/doriadar">Dori Adar</a></li>
-    <li><a href="https://twitter.com/SwiftConf/status/1162011207961849857">Movie Posters Twitter thread</a></li>
-    <li><a href="https://www.7p-group.com">7 Principles</a></li>
-    <li><a href="https://twitter.com/dimsumthinking">Daniel Steinberg</a></li>
-    <li><a href="https://twitter.com/gridNAka">Kateryna Gridina</a></li>
+    <li><a href="https://gumroad.com/l/advent-of-swift-2019">Advent of Swift bundle</a></li>
+    <li><a href="https://www.hackingwithswift.com/awards">Hacking with Swift Community Awards</a></li>
+    <li><a href="https://www.packtpub.com/application-development/mastering-ios-12-programming-third-edition">Mastering iOS 12</a></li>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
   </ul>
 </p>
 <p>
-  <h3>NSSpain</h3>
+  <h3>Disney Streaming Services</h3>
 
   <ul>
-    <li><a href="https://www.nsspain.com">NSSpain</a></li>
-    <li><a href="https://youngadventuress.com/2011/09/san-mateo-festival.html">San Mateo Wine Festival</a></li>
-    <li><a href="https://twitter.com/hybridcattt">Marina Gornostaeva</a></li>
-    <li><a href="https://vimeo.com/362202970">Detail-oriented UI with Layout Margins</a></li>
-    <li><a href="https://twitter.com/v_pradeilles">Vincent Pradeilles</a></li>
-    <li><a href="https://vimeo.com/362197940">Property Wrappers</a></li>
-    <li><a href="https://twitter.com/elenipapanikolo">Eleni Papanikolopoulou</a></li>
-    <li><a href="https://vimeo.com/362134004">Venturing into the world of RxSwift unit testing</a></li>
-    <li><a href="https://twitter.com/ios_memes">iOS Memes</a></li>
+    <li><a href="https://www.disneyplus.com">Disney+</a></li>
+    <li><a href="https://twitter.com/gabriel__lewis/status/1194481931468935168?s=21">Disney+ Authentication</a></li>
+    <li><a href="https://www.youtube.com/watch?v=EdxKLykzMv8">A practical approach to adopting TDD in the workplace</a></li>
   </ul>
 </p>
 <p>
-  <h3>mobiconf</h3>
+  <h3>Objective-C and stuff</h3>
 
   <ul>
-    <li><a href="https://twitter.com/donnywals">Donny Wals</a></li>
-    <li><a href="https://mobiconf.org">mobiconf</a></li>
+    <li><a href="http://goshdarnblocksyntax.com">Block syntax</a></li>
+    <li><a href="https://swift.org/blog/new-diagnostic-arch-overview/">Diagnostics Overview</a></li>
   </ul>
 </p>
 <p>
-  <h3>FrenchKit</h3>
+  <h3>Outro</h3>
 
   <ul>
-    <li><a href="https://frenchkit.fr">FrenchKit</a></li>
-    <li><a href="https://twitter.com/chriseidhof">Chris Eidhof</a></li>
-    <li><a href="https://twitter.com/KairaDiagne">Kaira Diagne</a></li>
-    <li><a href="https://twitter.com/steipete">Peter Steinberger</a></li>
-    <li><a href="https://twitter.com/aligatr">Olivier Halligon</a></li>
-    <li><a href="https://github.com/AvdLee/CombineWorkshop">Combine Workshop</a></li>
-    <li><a href="https://twitter.com/fpillet">Florent Pillet</a></li>
-    <li><a href="https://github.com/BasThomas/Board">iPadOS workshop</a></li>
+    <li><a href="http://goshdarnblocksyntax.com">Block syntax</a></li>
+    <li><a href="https://www.meetup.com/CocoaHeads-Hamburg/events/zkldgrybccbdb/">Contravariance Live Episode</a></li>
+    <li><a href="https://gumroad.com/l/advent-of-swift-2019">Advent of Swift bundle</a></li>
   </ul>
 </p>
 </div>
