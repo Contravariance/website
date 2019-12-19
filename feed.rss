@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 19 Dec 2019 19:26:01 GMT+1</pubDate>
-    <lastBuildDate>Thu, 19 Dec 2019 19:26:01 GMT+1</lastBuildDate>
+    <pubDate>Thu, 19 Dec 2019 19:57:23 GMT+1</pubDate>
+    <lastBuildDate>Thu, 19 Dec 2019 19:57:23 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -67,7 +67,7 @@
   <h3>Introduction</h3>
 
   <ul>
-  	<li><a href="https://twitter.com/donnywals">Donny Wals</a></li>
+    <li><a href="https://twitter.com/donnywals">Donny Wals</a></li>
     <li><a href="https://www.donnywals.com">Donny's website</a></li>
   </ul>
 </p>
