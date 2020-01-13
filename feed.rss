@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Mon, 13 Jan 2020 20:37:41 GMT+1</pubDate>
-    <lastBuildDate>Mon, 13 Jan 2020 20:37:41 GMT+1</lastBuildDate>
+    <pubDate>Mon, 13 Jan 2020 20:41:02 GMT+1</pubDate>
+    <lastBuildDate>Mon, 13 Jan 2020 20:41:02 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -78,6 +78,7 @@
 
   <ul>
     <li><a href="https://droidkaigi.jp/2019/en/">DroidKaigi</a></li>
+    <li><a href="https://www.youtube.com/watch?v=fq1pQ0RpstM&t=20s">Benedikts Rust Talk in Japan</a></li>
     <li><a href="https://twitter.com/steveriggins/status/1215162339256700928">Swift 5.2 diagnostics</a></li>
     <li><a href="https://twitter.com/terhechte/status/1211249990657548289">Benedits custom popover in SwiftUI</a></li>
     <li><a href="https://bugs.swift.org/browse/SR-6197">SR-6197</a></li>
