@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Mon, 13 Jan 2020 20:41:02 GMT+1</pubDate>
-    <lastBuildDate>Mon, 13 Jan 2020 20:41:02 GMT+1</lastBuildDate>
+    <pubDate>Fri, 14 Feb 2020 19:51:20 GMT+1</pubDate>
+    <lastBuildDate>Fri, 14 Feb 2020 19:51:20 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,90 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>302: Ink, Plot, Publish and More - With Special Guest John "Paul Hudson" Sundell</title>
+      <itunes:title>Ink, Plot, Publish and More - With Special Guest John "Paul Hudson" Sundell</itunes:title>
+      <itunes:episode>302</itunes:episode>
+      <link>https://contravariance.rocks/episodes/302_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/302_show_notes.html</guid>
+      <pubDate>Fri, 14 Feb 2020 20:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/302_ink_plot_publish_john_sundell.mp3" length="58222320"/>
+      <itunes:duration>00:48:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte / John Sundell</itunes:author>
+      <description>Where Bas remembers his open source projects and previous talks, Benedikt finally shares more on his secret project... and sets someone up for an interesting challenge, our dear guest, John "Paul Hudson" Sundell.</description>
+      <itunes:summary>Where Bas remembers his open source projects and previous talks, Benedikt finally shares more on his secret project... and sets someone up for an interesting challenge, our dear guest, John "Paul Hudson" Sundell.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Intro</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/johnsundell">John Sundell's Twitter</a></li>
+    <li><a href="https://www.swiftbysundell.com">John Sundell's website</a></li>
+    <li><a href="https://hyperdeck.io">Benedikts secret project: Hyperdeck for iPad and Mac</a></li>
+    <li><a href="https://twitter.com/hybridcattt">Marina Gornostaeva</a></li>
+    <li><a href="https://twitter.com/tobiasdm">Tobias Due Munk</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/swift-5-s-custom-string-interpolation-in-practice">Bas' talk at Copenhagen Cocoa</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Ink, Plot, and Publish</h3>
+
+  <ul>
+    <li><a href="https://github.com/JohnSundell/Ink">Ink</a></li>
+    <li><a href="https://github.com/JohnSundell/Plot">Plot</a></li>
+    <li><a href="https://github.com/JohnSundell/Publish">Publish</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/so-youre-writing-a-framework-dot-dot-dot">Bas' talk on API Design</a></li>
+    <li><a href="http://khanlou.com/2015/01/the-coordinator/">Soroush Khanlou's blog introducing Coordinators</a></li>
+    <li><a href="https://www.swiftbysundell.com/articles/string-parsing-in-swift">John's article on String parsing in Swift</a></li>
+    <li><a href="https://basthomas.github.io/on-code-reviews">Bas' blog post on Code Reviews</a></li>
+    <li><a href="https://golang.org/cmd/gofmt/">gofmt</a></li>
+    <li><a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Outro</h3>
+
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Små_grodorna">Små grodorna</a></li>
+    <li><a href="https://www.youtube.com/watch?v=cqAiPkgTpy4">Små grodorna dance</a></li>
+    <li><a href="https://www.hackingwithswift.com/store">Paul Hudson's books</a></li>
+    <li><a href="https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA">John's YouTube channel</a></li>
+    <li><a href="https://www.swiftforgood.com">Swift for Good</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>301: Live from CocoaHeads Hamburg</title>
       <itunes:title>Live from CocoaHeads Hamburg</itunes:title>
