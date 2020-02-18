@@ -39,13 +39,18 @@ section#articles, section#content-block, section.main-section {
 
 #content-block {
     box-shadow: 14px 14px 0px #000;
-    background-color: #999 !important;
+    background-color: rgb(12, 30, 36) !important;
     padding: 10px;
     padding-top: 30px;
 }
 
 #content-block * {
     font-family: 'Arvo', serif;
+    color: #efefef;
+}
+
+#content-block a {
+  color: yellow !important;
 }
 
 a.menu-button {
