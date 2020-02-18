@@ -1,0 +1,5 @@
+[global]
+port = 9888
+# address = "1.2.3.4"
+token="lalala"
+folder="~/Development/Rust/example"
