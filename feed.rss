@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Fri, 14 Feb 2020 19:51:20 GMT+1</pubDate>
-    <lastBuildDate>Fri, 14 Feb 2020 19:51:20 GMT+1</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2020 19:44:07 GMT+1</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2020 19:44:07 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,117 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>303: Chocolate, time, and Swift scripts. Your move, Elon.</title>
+      <itunes:title>Chocolate, time, and Swift scripts. Your move, Elon.</itunes:title>
+      <itunes:episode>303</itunes:episode>
+      <link>https://contravariance.rocks/episodes/303_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/303_show_notes.html</guid>
+      <pubDate>Thu, 05 Mar 2020 20:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/303_chocolate_time_swiftscripts_elon.mp3" length="47046046"/>
+      <itunes:duration>00:39:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Benedikt asks himself "what door?" watching Westworld, and Bas has a surprise!</description>
+      <itunes:summary>Benedikt asks himself "what door?" watching Westworld, and Bas has a surprise!</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Intro</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/basthomas/status/1234180665039638528">Bas' baking</a></li>
+    <li><a href="https://uk.mondaine.com/products/stop2go-41mm-black-leather-watch-mst-4101b-lb">Mondaine Stop2Go</a></li>
+    <li><a href="https://uk.mondaine.com/products/leatherstrap-brushed-20mm">Mondaine Stop2Go watch strap</a></li>
+    <li><a href="https://contravariance.rocks/episodes/101_show_notes.html">Contravariance episode 101</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Time</h3>
+
+    <li><a href="https://davedelong.com/blog/2020/02/29/introducing-time">Time</a></li>
+    <li><a href="https://twitter.com/davedelong">Dave DeLong</a></li>
+    <li><a href="http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html"></a></li>
+    <li><a href="https://yourcalendricalfallacyis.com"></a></li>
+    <li><a href="https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result">Nonexistent date</a></li>
+    <li><a href="https://davedelong.com/blog/2016/02/29/intercalation/">Your move, Elon</a></li>
+  </ul>
+</p>
+<p>
+  <h3>iPad Pro Rumors</h3>
+
+    <li><a href="https://arstechnica.com/gadgets/2020/03/report-apple-plans-to-introduce-a-trackpad-equipped-keyboard-for-the-ipad-pro/"></a></li>
+    <li><a href="https://support.apple.com/en-md/HT210546">Pointer device accessibility support</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Swift argument parser</h3>
+
+    <li><a href="https://github.com/apple/swift-argument-parser">swift-argument-parser</a></li>
+    <li><a href="https://twitter.com/nnnnnnnn">Nate Cook</a></li>
+    <li><a href="https://swift.org/blog/argument-parser/">Argument Parser announcement blog post</a></li>
+    <li><a href="https://github.com/twostraws/Brisk">Brisk, a Swift scripting library</a></li>
+    <li><a href="https://twitter.com/twostraws">Paul Hudson</a></li>
+  </ul>
+</p>
+<p>
+  <h3>SwiftAveiro</h3>
+
+    <li><a href="https://swiftaveiro.com">SwiftAveiro website</a></li>
+    <li><a href="https://ti.to/swiftaveiro/2020">SwiftAveiro tickets</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Localization</h3>
+
+    <li><a href="https://twitter.com/hybridcattt">Marina Gornostaeva</a></li>
+    <li><a href="https://twitter.com/tobiasdm">Tobias Due Munk</a></li>
+    <li><a href="https://pinc.xyz">Pinc</a></li>
+    <li><a href="https://twitter.com/macguru17">Max Selemann</a></li>
+    <li><a href="https://ulysses.app">Ulysses</a></li>
+    <li><a href="https://poeditor.com">POEditor</a></li>
+    <li><a href="https://xkcd.com/927/">xkcd "Standards"</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Tony's Chocolonely</h3>
+
+    <li><a href="https://tonyschocolonely.com/nl/en">Tony's Chocolonely</a></li>
+    <li><a href="https://tonyschocolonely.com/us/en/chocoshop/product/white-turmeric-chai-coconut-28-1">White turmeric chai coconut</a></li>
+    <li><a href="/episodes/303/chocolate.jpeg">Chocolate image</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>302: Ink, Plot, Publish and More - With Special Guest John "Paul Hudson" Sundell</title>
       <itunes:title>Ink, Plot, Publish and More - With Special Guest John "Paul Hudson" Sundell</itunes:title>
