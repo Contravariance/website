@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 05 Mar 2020 23:03:35 GMT+1</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2020 23:03:35 GMT+1</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2020 20:22:26 GMT+1</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2020 20:22:26 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -25,13 +25,117 @@
 
     <!-- Latest -->
     <item>
-      <title>303: Chocolate, time, and Swift scripts. Your move, Elon.</title>
-      <itunes:title>Chocolate, time, and Swift scripts. Your move, Elon.</itunes:title>
+      <title>304: What is a CNAME Again?</title>
+      <itunes:title>What is a CNAME Again?</itunes:title>
+      <itunes:episode>304</itunes:episode>
+      <link>https://contravariance.rocks/episodes/304_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/304_show_notes.html</guid>
+      <pubDate>Thu, 19 Mar 2020 20:30:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/304_what_is_a_cname_again.mp3" length="55803573"/>
+      <itunes:duration>00:44:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>We talk about open source projects and contributing to them. Where Bas forgets what a CNAME is, and Benedikt has to look it up for him.</description>
+      <itunes:summary>We talk about open source projects and contributing to them. Where Bas forgets what a CNAME is, and Benedikt has to look it up for him.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Intro</h3>
+
+  <ul>
+    <li><a href="https://www.ukitchen.de">Ukitchen Hamburg</a></li>
+    <li><a href="https://anchor.fm/swiftovercoffee">Swift over Coffee Season 2</a></li>
+  </ul>
+</p>
+<p>
+  <h3>X11 on iOS</h3>
+
+  <ul>
+    <li><a href="https://maxleiter.com/X11/">X11 on iOS</a></li>
+    <li><a href="https://github.com/louisdh/openterm">OpenTerm</a></li>
+    <li><a href="https://panic.com/prompt/">Prompt</a></li>
+  </ul>
+</p>
+<p>
+  <h3>CNAME plugin</h3>
+
+  <ul>
+    <li><a href="https://github.com/johnsundell/publish">Publish</a></li>
+    <li><a href="https://github.com/JohnSundell/Ink">Ink</a></li>
+    <li><a href="https://github.com/JohnSundell/Plot">Plot</a></li>
+    <li><a href="https://github.com/SwiftyGuerrero/CNAMEPublishPlugin">CNAME plugin for Publish</a></li>
+  </ul>
+</p>
+<p>
+  <h3>SwiftUIX</h3>
+
+  <ul>
+    <li><a href="https://github.com/SwiftUIX/SwiftUIX">SwiftUIX: An extension to the standard SwiftUI library</a></li>
+    <li><a href="https://github.com/SwiftUIX/SwiftUIX/wiki">SwiftUIX wiki</a></li>
+  </ul>
+</p>
+<p>
+  <h3>xcode-open-on-github</h3>
+
+  <ul>
+    <li><a href="https://github.com/wojteklu/xcode-open-on-github">xcode-open-on-github</a></li>
+  </ul>
+</p>
+<p>
+  <h3>UBKAccessibilityKit</h3>
+
+  <ul>
+    <li><a href="https://github.com/NAB/UBKAccessibilityKit">UBKAccessibilityKit by UBank</a></li>
+  </ul>
+</p>
+<p>
+  <h3>ViewInspector</h3>
+
+  <ul>
+    <li><a href="https://github.com/nalexn/ViewInspector">ViewInspector</a></li>
+    <li><a href="https://www.youtube.com/watch?v=tk0HzScvW2M">Testing and Declarative UI's</a></li>
+    <li><a href="https://twitter.com/nataliya_bg">Nataliya Patsovska</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <title>303: Chocolate, Time, and Swift Scripts. Your Move, Elon.</title>
+      <itunes:title>Chocolate, Time, and Swift Scripts. Your Move, Elon.</itunes:title>
       <itunes:episode>303</itunes:episode>
       <link>https://contravariance.rocks/episodes/303_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/303_show_notes.html</guid>
       <pubDate>Thu, 05 Mar 2020 20:00:00 GMT+1</pubDate>
-      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/303_chocolate_time_swiftscripts_elon.mp3" length="47046046"/>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/303_chocolate_time_swiftscripts_elon.mp3" length="48932134"/>
       <itunes:duration>00:39:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
@@ -76,6 +180,7 @@
 <p>
   <h3>Time</h3>
 
+  <ul>
     <li><a href="https://davedelong.com/blog/2020/02/29/introducing-time">Time</a></li>
     <li><a href="https://twitter.com/davedelong">Dave DeLong</a></li>
     <li><a href="http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html">Falsehoods programmers believe about time and time zones</a></li>
@@ -87,6 +192,7 @@
 <p>
   <h3>iPad Pro Rumors</h3>
 
+  <ul>
     <li><a href="https://arstechnica.com/gadgets/2020/03/report-apple-plans-to-introduce-a-trackpad-equipped-keyboard-for-the-ipad-pro/">iPad Pro with Trackpad rumor</a></li>
     <li><a href="https://support.apple.com/en-md/HT210546">Pointer device accessibility support</a></li>
   </ul>
@@ -94,6 +200,7 @@
 <p>
   <h3>Swift argument parser</h3>
 
+  <ul>
     <li><a href="https://github.com/apple/swift-argument-parser">swift-argument-parser</a></li>
     <li><a href="https://twitter.com/nnnnnnnn">Nate Cook</a></li>
     <li><a href="https://swift.org/blog/argument-parser/">Argument Parser announcement blog post</a></li>
@@ -104,6 +211,7 @@
 <p>
   <h3>SwiftAveiro</h3>
 
+  <ul>
     <li><a href="https://swiftaveiro.com">SwiftAveiro website</a></li>
     <li><a href="https://ti.to/swiftaveiro/2020">SwiftAveiro tickets</a></li>
   </ul>
@@ -111,6 +219,7 @@
 <p>
   <h3>Localization</h3>
 
+  <ul>
     <li><a href="https://twitter.com/hybridcattt">Marina Gornostaeva</a></li>
     <li><a href="https://twitter.com/tobiasdm">Tobias Due Munk</a></li>
     <li><a href="https://pinc.xyz">Pinc</a></li>
@@ -123,6 +232,7 @@
 <p>
   <h3>Tony's Chocolonely</h3>
 
+  <ul>
     <li><a href="https://tonyschocolonely.com/nl/en">Tony's Chocolonely</a></li>
     <li><a href="https://tonyschocolonely.com/us/en/chocoshop/product/white-turmeric-chai-coconut-28-1">White turmeric chai coconut</a></li>
     <li><a href="/episodes/303/chocolate.jpeg">Chocolate image</a></li>
