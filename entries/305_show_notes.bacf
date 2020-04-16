@@ -1,9 +1,9 @@
-- nr: 304
+- nr: 305
 - title: Clearly my home screen is better than yours
-- date: 19.03.2020, 20:30
+- date: 16.04.2020, 19:30
 - file: 305_homescreens.mp3
-- author: Bas Broek / Benedikt Terhechte
-- description: We talk about open source projects and contributing to them. Where Bas forgets what a CNAME is, and Benedikt has to look it up for him.
+- author: Bas Broek / Benedikt Terhechte / Pedro Carrasco
+- description: In which we talk about all things remote, like organizing a meetup, conference, or work. We also take a look at our perfectly normal homescreens. Bene is considering building a silent computer. All this with Pedro Carrasco!
 ---
 <div>
 <p>
@@ -32,58 +32,48 @@
   <h3>Intro</h3>
 
   <ul>
-    <li><a href="https://www.ukitchen.de">Ukitchen Hamburg</a></li>
-    <li><a href="https://anchor.fm/swiftovercoffee">Swift over Coffee Season 2</a></li>
+    <li><a href="https://twitter.com/pedrommcarrasco">Pedro Carrasco</a></li>
+    <li><a href="https://swiftaveiro.com">SwiftAveiro</a></li>
+    <li><a href="https://launchedfm.com/episodes/11-CocoaHub-PedroCarrasco/">CocoaHub on Launched.fm</a></li>
   </ul>
 </p>
 <p>
-  <h3>X11 on iOS</h3>
+  <h3>Remote Working</h3>
 
   <ul>
-    <li><a href="https://maxleiter.com/X11/">X11 on iOS</a></li>
-    <li><a href="https://github.com/louisdh/openterm">OpenTerm</a></li>
-    <li><a href="https://panic.com/prompt/">Prompt</a></li>
+    <li><a href="https://doist.com">Doist</a></li>
+    <li><a href="https://www.eisenhower.me/eisenhower-matrix/">Eisenhower Matrix</a></li>
+    <li><a href="https://todoist.com">Todoist</a></li>
+    <li><a href="https://culturedcode.com/things/three/">Things</a></li>
   </ul>
 </p>
 <p>
-  <h3>CNAME plugin</h3>
+  <h3>Remote Conferences and Meetups</h3>
 
   <ul>
-    <li><a href="https://github.com/johnsundell/publish">Publish</a></li>
-    <li><a href="https://github.com/JohnSundell/Ink">Ink</a></li>
-    <li><a href="https://github.com/JohnSundell/Plot">Plot</a></li>
-    <li><a href="https://github.com/SwiftyGuerrero/CNAMEPublishPlugin">CNAME plugin for Publish</a></li>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://theswiftalps.com">The Swift Alps</a></li>
+    <li><a href="https://uikonf.com">UIKonf</a></li>
   </ul>
 </p>
 <p>
-  <h3>SwiftUIX</h3>
+  <h3>CocoaHub</h3>
 
   <ul>
-    <li><a href="https://github.com/SwiftUIX/SwiftUIX">SwiftUIX: An extension to the standard SwiftUI library</a></li>
-    <li><a href="https://github.com/SwiftUIX/SwiftUIX/wiki">SwiftUIX wiki</a></li>
+    <li><a href="https://cocoahub.app">CocoaHub</a></li>
+    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.content">CocoaHub content</a></li>
+    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.server">CocoaHub server</a></li>
+    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.website">CocoaHub website</a></li>
+    <li><a href="http://githawk.com">GitHawk</a></li>
+    <li><a href="https://twitter.com/_ryannystrom">Ryan Nystrom</a></li>
+    <li><a href="https://github.com/mobile">GitHub Mobile</a></li>
   </ul>
 </p>
 <p>
-  <h3>xcode-open-on-github</h3>
+  <h3>Bene's Present to Bas</h3>
 
   <ul>
-    <li><a href="https://github.com/wojteklu/xcode-open-on-github">xcode-open-on-github</a></li>
-  </ul>
-</p>
-<p>
-  <h3>UBKAccessibilityKit</h3>
-
-  <ul>
-    <li><a href="https://github.com/NAB/UBKAccessibilityKit">UBKAccessibilityKit by UBank</a></li>
-  </ul>
-</p>
-<p>
-  <h3>ViewInspector</h3>
-
-  <ul>
-    <li><a href="https://github.com/nalexn/ViewInspector">ViewInspector</a></li>
-    <li><a href="https://www.youtube.com/watch?v=tk0HzScvW2M">Testing and Declarative UI's</a></li>
-    <li><a href="https://twitter.com/nataliya_bg">Nataliya Patsovska</a></li>
+    <li><a href="https://alttpr.com/en">Zelda A Link to the Past Randomizer</a></li>
   </ul>
 </p>
 </div>
