@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 19 Mar 2020 20:22:26 GMT+1</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2020 20:22:26 GMT+1</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2020 19:26:20 GMT+2</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2020 19:26:20 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,100 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>305: Clearly my home screen is better than yours</title>
+      <itunes:title>Clearly my home screen is better than yours</itunes:title>
+      <itunes:episode>305</itunes:episode>
+      <link>https://contravariance.rocks/episodes/305_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/305_show_notes.html</guid>
+      <pubDate>Thu, 16 Apr 2020 19:30:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/305_homescreens.mp3" length="42320957"/>
+      <itunes:duration>00:49:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte / Pedro Carrasco</itunes:author>
+      <description>In which we talk about all things remote, like organizing a meetup, conference, or work. We also take a look at our perfectly normal homescreens. Bene is considering building a silent computer. All this with Pedro Carrasco!</description>
+      <itunes:summary>In which we talk about all things remote, like organizing a meetup, conference, or work. We also take a look at our perfectly normal homescreens. Bene is considering building a silent computer. All this with Pedro Carrasco!</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Intro</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/pedrommcarrasco">Pedro Carrasco</a></li>
+    <li><a href="https://swiftaveiro.com">SwiftAveiro</a></li>
+    <li><a href="https://launchedfm.com/episodes/11-CocoaHub-PedroCarrasco/">CocoaHub on Launched.fm</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Remote Working</h3>
+
+  <ul>
+    <li><a href="https://doist.com">Doist</a></li>
+    <li><a href="https://www.eisenhower.me/eisenhower-matrix/">Eisenhower Matrix</a></li>
+    <li><a href="https://todoist.com">Todoist</a></li>
+    <li><a href="https://culturedcode.com/things/three/">Things</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Remote Conferences and Meetups</h3>
+
+  <ul>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://theswiftalps.com">The Swift Alps</a></li>
+    <li><a href="https://uikonf.com">UIKonf</a></li>
+  </ul>
+</p>
+<p>
+  <h3>CocoaHub</h3>
+
+  <ul>
+    <li><a href="https://cocoahub.app">CocoaHub</a></li>
+    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.content">CocoaHub content</a></li>
+    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.server">CocoaHub server</a></li>
+    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.website">CocoaHub website</a></li>
+    <li><a href="http://githawk.com">GitHawk</a></li>
+    <li><a href="https://twitter.com/_ryannystrom">Ryan Nystrom</a></li>
+    <li><a href="https://github.com/mobile">GitHub Mobile</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Bene's Present to Bas</h3>
+
+  <ul>
+    <li><a href="https://alttpr.com/en">Zelda A Link to the Past Randomizer</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>304: What is a CNAME Again?</title>
       <itunes:title>What is a CNAME Again?</itunes:title>
