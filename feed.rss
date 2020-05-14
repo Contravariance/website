@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 14 May 2020 17:55:24 GMT+2</pubDate>
-    <lastBuildDate>Thu, 14 May 2020 17:55:24 GMT+2</lastBuildDate>
+    <pubDate>Thu, 14 May 2020 19:25:04 GMT+2</pubDate>
+    <lastBuildDate>Thu, 14 May 2020 19:25:04 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -31,8 +31,8 @@
       <link>https://contravariance.rocks/episodes/306_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/306_show_notes.html</guid>
       <pubDate>Thu, 14 May 2020 20:00:00 GMT+2</pubDate>
-      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/306_starwars_babka_computer_delivery.mp3" length="68627231"/>
-      <itunes:duration>00:47:27</itunes:duration>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/306_starwars_babka_computer_delivery.mp3" length="39318446"/>
+      <itunes:duration>00:47:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
       <description>Where Benedikt is anticipating a new computer, and Bas is anticipating remote conferences. And Star Wars is anticipating Bas... and chocolate chip babka!</description>
