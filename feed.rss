@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 16 Apr 2020 19:26:20 GMT+2</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2020 19:26:20 GMT+2</lastBuildDate>
+    <pubDate>Thu, 14 May 2020 19:25:04 GMT+2</pubDate>
+    <lastBuildDate>Thu, 14 May 2020 19:25:04 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,107 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>306: The Star Wars Babka Computer Delivery</title>
+      <itunes:title>The Star Wars Babka Computer Delivery</itunes:title>
+      <itunes:episode>306</itunes:episode>
+      <link>https://contravariance.rocks/episodes/306_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/306_show_notes.html</guid>
+      <pubDate>Thu, 14 May 2020 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/306_starwars_babka_computer_delivery.mp3" length="39318446"/>
+      <itunes:duration>00:47:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Where Benedikt is anticipating a new computer, and Bas is anticipating remote conferences. And Star Wars is anticipating Bas... and chocolate chip babka!</description>
+      <itunes:summary>Where Benedikt is anticipating a new computer, and Bas is anticipating remote conferences. And Star Wars is anticipating Bas... and chocolate chip babka!</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Intro</h3>
+
+  <ul>
+    <li><a href="https://thewitcher.com/en/witcher3">Witcher 3</a></li>
+    <li><a href="https://developer.apple.com/documentation/foundation/nsstring/3003422-deferredlocalizedintentsstring">deferredLocalizedIntentsString</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Conferences</h3>
+
+  <ul>
+    <li><a href="https://swiftaveiro.com/blog/swift-aveiro-2020-canceled">SwiftAveiro 2020 canceled</a></li>
+    <li><a href="https://theswiftalps.com">The Swift Alps</a></li>
+    <li><a href="https://twitter.com/_Caro_N">Carola Nitz</a></li>
+    <li><a href="https://twitter.com/flufffel">Seán Labastille</a></li>
+    <li><a href="https://twitter.com/lucascuderi">Luca Scuderi</a></li>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://twitter.com/nvh">Niels van Hoorn</a></li>
+    <li><a href="https://twitter.com/sidneydekoning">Sidney de Koning</a></li>
+    <li><a href="https://devworld.com.au">/dev/world</a></li>
+    <li><a href="https://twitter.com/parisba">Paris Buttfield-Addison</a></li>
+    <li><a href="https://twitter.com/TheMartianLife">Mars Geldard</a></li>
+    <li><a href="https://www.tryswift.co">try! Swift</a></li>
+    <li><a href="https://www.natashatherobot.com/hello-try-swift-world/">try! Swift World Announcement Post</a></li>
+    <li><a href="https://twitter.com/dimsumthinking">Daniel Steinberg</a></li>
+    <li><a href="https://twitter.com/hellosunschein">Lea Marolt Sonneschein</a></li>
+    <li><a href="https://github.com/leamars/SwiftAlps2019">Swift Alps 2019 SwiftUI Workshop</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Magic Keyboard</h3>
+
+  <ul>
+    <li><a href="https://www.apple.com/shop/product/MXQT2LL/A/magic-keyboard-for-ipad-pro-11%E2%80%91inch-2nd-generation-us-english">iPad Magic Keyboard</a></li>
+	<li><a href="https://twitter.com/terhechte/status/1252633981272707080">Hyperdeck Icon Poll</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Outro</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/j_zonneveld">Jeroen Zonneveld</a></li>
+    <li><a href="https://twitter.com/twostraws">Paul Hudson</a></li>
+    <li><a href="https://twitter.com/_lanceparker">Lance Parker</a></li>
+    <li><a href="https://twitter.com/_lanceparker/status/1254830856683663361">Chocolate Chip Ice Cream Star Wars Marathon</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Outro-outro</h3>
+
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=izhGLGPmvIU">Nils Frahm Montreux Jazz Festival 2015</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>305: Clearly my home screen is better than yours</title>
       <itunes:title>Clearly my home screen is better than yours</itunes:title>
