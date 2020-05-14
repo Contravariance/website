@@ -1,9 +1,9 @@
 - nr: 306
 - title: The Star Wars Babka Computer Delivery
-- date: 07.05.2020, 19:30
+- date: 14.05.2020, 20:00
 - file: 306_starwars_babka_computer_delivery.mp3
-- author: Bas Broek / Benedikt Terhechte / Pedro Carrasco
-- description: In which we talk about all things remote, like organizing a meetup, conference, or work. We also take a look at our perfectly normal homescreens. Bene is considering building a silent computer. All this with Pedro Carrasco!
+- author: Bas Broek / Benedikt Terhechte
+- description: Where Benedikt is anticipating a new computer, and Bas is anticipating remote conferences. And Star Wars is anticipating Bas... and chocolate chip babka!
 ---
 <div>
 <p>
@@ -32,48 +32,55 @@
   <h3>Intro</h3>
 
   <ul>
-    <li><a href="https://twitter.com/pedrommcarrasco">Pedro Carrasco</a></li>
-    <li><a href="https://swiftaveiro.com">SwiftAveiro</a></li>
-    <li><a href="https://launchedfm.com/episodes/11-CocoaHub-PedroCarrasco/">CocoaHub on Launched.fm</a></li>
+    <li><a href="https://thewitcher.com/en/witcher3">Witcher 3</a></li>
+    <li><a href="https://developer.apple.com/documentation/foundation/nsstring/3003422-deferredlocalizedintentsstring">deferredLocalizedIntentsString</a></li>
   </ul>
 </p>
 <p>
-  <h3>Remote Working</h3>
+  <h3>Conferences</h3>
 
   <ul>
-    <li><a href="https://doist.com">Doist</a></li>
-    <li><a href="https://www.eisenhower.me/eisenhower-matrix/">Eisenhower Matrix</a></li>
-    <li><a href="https://todoist.com">Todoist</a></li>
-    <li><a href="https://culturedcode.com/things/three/">Things</a></li>
-  </ul>
-</p>
-<p>
-  <h3>Remote Conferences and Meetups</h3>
-
-  <ul>
-    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://swiftaveiro.com/blog/swift-aveiro-2020-canceled">SwiftAveiro 2020 canceled</a></li>
     <li><a href="https://theswiftalps.com">The Swift Alps</a></li>
-    <li><a href="https://uikonf.com">UIKonf</a></li>
+    <li><a href="https://twitter.com/_Caro_N">Carola Nitz</a></li>
+    <li><a href="https://twitter.com/flufffel">Seán Labastille</a></li>
+    <li><a href="https://twitter.com/lucascuderi">Luca Scuderi</a></li>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://twitter.com/nvh">Niels van Hoorn</a></li>
+    <li><a href="https://twitter.com/sidneydekoning">Sidney de Koning</a></li>
+    <li><a href="https://devworld.com.au">/dev/world</a></li>
+    <li><a href="https://twitter.com/parisba">Paris Buttfield-Addison</a></li>
+    <li><a href="https://twitter.com/TheMartianLife">Mars Geldard</a></li>
+    <li><a href="https://www.tryswift.co">try! Swift</a></li>
+    <li><a href="https://www.natashatherobot.com/hello-try-swift-world/">try! Swift World Announcement Post</a></li>
+    <li><a href="https://twitter.com/dimsumthinking">Daniel Steinberg</a></li>
+    <li><a href="https://twitter.com/hellosunschein">Lea Marolt Sonneschein</a></li>
+    <li><a href="https://github.com/leamars/SwiftAlps2019">Swift Alps 2019 SwiftUI Workshop</a></li>
   </ul>
 </p>
 <p>
-  <h3>CocoaHub</h3>
+  <h3>Magic Keyboard</h3>
 
   <ul>
-    <li><a href="https://cocoahub.app">CocoaHub</a></li>
-    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.content">CocoaHub content</a></li>
-    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.server">CocoaHub server</a></li>
-    <li><a href="https://github.com/pedrommcarrasco/CocoaHub.website">CocoaHub website</a></li>
-    <li><a href="http://githawk.com">GitHawk</a></li>
-    <li><a href="https://twitter.com/_ryannystrom">Ryan Nystrom</a></li>
-    <li><a href="https://github.com/mobile">GitHub Mobile</a></li>
+    <li><a href="https://www.apple.com/shop/product/MXQT2LL/A/magic-keyboard-for-ipad-pro-11%E2%80%91inch-2nd-generation-us-english">iPad Magic Keyboard</a></li>
+	<li><a href="https://twitter.com/terhechte/status/1252633981272707080">Hyperdeck Icon Poll</a></li>
   </ul>
 </p>
 <p>
-  <h3>Bene's Present to Bas</h3>
+  <h3>Outro</h3>
 
   <ul>
-    <li><a href="https://alttpr.com/en">Zelda A Link to the Past Randomizer</a></li>
+    <li><a href="https://twitter.com/j_zonneveld">Jeroen Zonneveld</a></li>
+    <li><a href="https://twitter.com/twostraws">Paul Hudson</a></li>
+    <li><a href="https://twitter.com/_lanceparker">Lance Parker</a></li>
+    <li><a href="https://twitter.com/_lanceparker/status/1254830856683663361">Chocolate Chip Ice Cream Star Wars Marathon</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Outro-outro</h3>
+
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=izhGLGPmvIU">Nils Frahm Montreux Jazz Festival 2015</a></li>
   </ul>
 </p>
 </div>
