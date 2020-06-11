@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 14 May 2020 19:25:04 GMT+2</pubDate>
-    <lastBuildDate>Thu, 14 May 2020 19:25:04 GMT+2</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2020 20:10:27 GMT+2</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2020 20:10:27 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,81 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>307: Revealing Benedikt's Side Project</title>
+      <itunes:title>Revealing Benedikt's Side Project</itunes:title>
+      <itunes:episode>307</itunes:episode>
+      <link>https://contravariance.rocks/episodes/307_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/307_show_notes.html</guid>
+      <pubDate>Thu, 11 Jun 2020 20:30:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/307_hyperdeck.mp3" length="67771463"/>
+      <itunes:duration>00:46:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Where Benedikt finally reveals the application he's been working on in the last months.</description>
+      <itunes:summary>Where Benedikt finally reveals the application he's been working on in the last months.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Hyperdeck</h3>
+
+  <ul>
+    <li><a href="https://hyperdeck.io">Hypderdeck</a></li>
+    <li><a href="https://macdown.uranusjr.com">MacDown</a></li>
+    <li><a href="https://www.meetup.com/CocoaHeads-Hamburg/events/zkldgrybcjbgb/">Benedikt's presentation at CocoaHeads Hamburg June 2020</a></li>
+  </ul>
+</p>
+<p>
+	<h3>Pacman Rule</h3>
+
+	<ul>
+    <li><a href="https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/">Pacman Rule</a></li>
+    <li><a href="https://www.meetup.com/nsbarcelona/events/256936684/">NSBarcelona December 2018</a></li>
+    <li><a href="https://twitter.com/jowinst">Josefina Bustamante</a></li>
+    <li><a href="https://twitter.com/facumenzella">Facundo Menzella</a></li>
+    <li><a href="https://swiftable.io">BA: Swiftable</a></li>
+    <li><a href="https://swiftaveiro.com">SwiftAveiro</a></li>
+    <li><a href="https://www.swiftconf.to">SwiftConf TO</a></li>
+    <li><a href="https://twitter.com/kylnew">Kyle Newman</a></li>
+  </ul>
+</p>
+<p>
+	<h3>Outro</h3>
+
+    <li><a href="https://twitter.com/jonyiveparody">Jony Ive Parody</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>306: The Star Wars Babka Computer Delivery</title>
       <itunes:title>The Star Wars Babka Computer Delivery</itunes:title>
