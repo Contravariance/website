@@ -8,6 +8,8 @@ But before that, we'll need to grab the audio files from Cast.
 ## Audacity
 - Import the audio tracks in Audacity
 
+**⚠️ Pro Tip: start editing from the end; that way, timestamps stay intact! ⚠️**
+
 ### Noise Reduction
 - For noise reduction, select a silenced part (separately for all tracks),
 and:
