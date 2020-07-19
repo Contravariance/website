@@ -18,6 +18,10 @@ The podcast's website, feed and artwork material can be found in this repository
 ./masse.swift ./config.bacf
 ```
 
+# Editing an episode
+
+See [EDITING.md](/EDITING.md)
+
 # Adding a new episode
 
 This uses [Satokoda](https://github.com/terhechte/Satokoda) to write 
