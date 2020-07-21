@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 11 Jun 2020 20:10:27 GMT+2</pubDate>
-    <lastBuildDate>Thu, 11 Jun 2020 20:10:27 GMT+2</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2020 08:31:05 GMT+2</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2020 08:31:05 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,69 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>308: WWDC 2020</title>
+      <itunes:title>WWDC 2020</itunes:title>
+      <itunes:episode>308</itunes:episode>
+      <link>https://contravariance.rocks/episodes/308_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/308_show_notes.html</guid>
+      <pubDate>Tue, 21 Jul 2020 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/308-wwdc20-home.mp3" length="60567262"/>
+      <itunes:duration>00:41:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Where Bas has moved to Spain and Benedikt has been spending time at his mom's... and discussing WWDC.</description>
+      <itunes:summary>Where Bas has moved to Spain and Benedikt has been spending time at his mom's... and discussing WWDC.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Topics</h3>
+  
+  <ul>
+    <li><a href="https://swiftisland.nl">Swift Island</a></li>
+    <li><a href="https://nsspain.com">NSSpain</a></li>
+    <li><a href="https://9to5mac.com/2020/06/24/how-to-use-iphone-back-tap-controls-ios-14/">Double Tap</a></li>
+    <li><a href="https://www.reddit.com/r/MacOSBeta/comments/hea72p/warning_do_not_install_big_sur_on_the_same_apfs/">Big Sur breaks APFS Container Software Update</a></li>
+  </ul>
+
+  <h3>Outro</h3>
+  <ul>
+    <li><a href="https://twitter.com/catehstn">Cate Huston</a></li>
+    <li><a href="https://twitter.com/richardnees">Richard Nees</a></li>
+    <li><a href="https://twitter.com/bertadevant">Berta Devant</a></li>
+    <li><a href="https://jardin-tropical.com">Tenerife Vacation</a></li>
+  </ul>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>307: Revealing Benedikt's Side Project</title>
       <itunes:title>Revealing Benedikt's Side Project</itunes:title>
