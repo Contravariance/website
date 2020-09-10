@@ -1,9 +1,9 @@
 - nr: 309
 - title: CodeConf
-- date: 21.07.2020, 20:00
+- date: 10.09.2020, 20:00
 - file: 309_pawel.mp3
-- author: Bas Broek / Benedikt Terhechte
-- description: Where Pawel introduces his app CodeConf and we talk about how he managed to work on this side project.
+- author: Bas Broek / Benedikt Terhechte / Paweł Madej
+- description: Where Paweł introduces his app CodeConf and we talk about how he managed to work on this side project.
 ---
 <div>
 <p>
@@ -32,8 +32,8 @@
   <h3>Topics</h3>
   
   <ul>
-    <li><a href="https://twitter.com/codeconf_app?s=21">CodeConf Twitter</a></li>
-    <li><a href="https://twitter.com/pawelmadejck?s=21">Pawel's Twitter</a></li>
+    <li><a href="https://twitter.com/codeconf_app">CodeConf Twitter</a></li>
+    <li><a href="https://twitter.com/pawelmadejck">Paweł's Twitter</a></li>
     <li><a href="https://hackintosh.com">Hackintosh</a></li>
     <li><a href="https://developer.android.com/studio">Android Studio</a></li>
     <li><a href="https://www.php.net">PHP</a></li>
