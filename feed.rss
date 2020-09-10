@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 10 Sep 2020 19:26:52 GMT+2</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2020 19:26:52 GMT+2</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2020 19:26:52 GMT+1</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2020 19:26:52 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -30,7 +30,7 @@
       <itunes:episode>309</itunes:episode>
       <link>https://contravariance.rocks/episodes/309_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/309_show_notes.html</guid>
-      <pubDate>Thu, 10 Sep 2020 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 10 Sep 2020 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/309_pawel.mp3" length="65738251"/>
       <itunes:duration>00:45:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -95,7 +95,7 @@
       <itunes:episode>308</itunes:episode>
       <link>https://contravariance.rocks/episodes/308_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/308_show_notes.html</guid>
-      <pubDate>Tue, 21 Jul 2020 20:00:00 GMT+2</pubDate>
+      <pubDate>Tue, 21 Jul 2020 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/308-wwdc20-home.mp3" length="60567262"/>
       <itunes:duration>00:41:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -158,7 +158,7 @@
       <itunes:episode>307</itunes:episode>
       <link>https://contravariance.rocks/episodes/307_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/307_show_notes.html</guid>
-      <pubDate>Thu, 11 Jun 2020 20:30:00 GMT+2</pubDate>
+      <pubDate>Thu, 11 Jun 2020 20:30:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/307_hyperdeck.mp3" length="67771463"/>
       <itunes:duration>00:46:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -233,7 +233,7 @@
       <itunes:episode>306</itunes:episode>
       <link>https://contravariance.rocks/episodes/306_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/306_show_notes.html</guid>
-      <pubDate>Thu, 14 May 2020 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 14 May 2020 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/306_starwars_babka_computer_delivery.mp3" length="39318446"/>
       <itunes:duration>00:47:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -334,7 +334,7 @@
       <itunes:episode>305</itunes:episode>
       <link>https://contravariance.rocks/episodes/305_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/305_show_notes.html</guid>
-      <pubDate>Thu, 16 Apr 2020 19:30:00 GMT+2</pubDate>
+      <pubDate>Thu, 16 Apr 2020 19:30:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/305_homescreens.mp3" length="42320957"/>
       <itunes:duration>00:49:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -428,7 +428,7 @@
       <itunes:episode>304</itunes:episode>
       <link>https://contravariance.rocks/episodes/304_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/304_show_notes.html</guid>
-      <pubDate>Thu, 19 Mar 2020 20:30:00 GMT+2</pubDate>
+      <pubDate>Thu, 19 Mar 2020 20:30:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/304_what_is_a_cname_again.mp3" length="55803573"/>
       <itunes:duration>00:44:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -532,7 +532,7 @@
       <itunes:episode>303</itunes:episode>
       <link>https://contravariance.rocks/episodes/303_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/303_show_notes.html</guid>
-      <pubDate>Thu, 05 Mar 2020 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 05 Mar 2020 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/303_chocolate_time_swiftscripts_elon.mp3" length="48932134"/>
       <itunes:duration>00:39:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -649,7 +649,7 @@
       <itunes:episode>302</itunes:episode>
       <link>https://contravariance.rocks/episodes/302_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/302_show_notes.html</guid>
-      <pubDate>Fri, 14 Feb 2020 20:00:00 GMT+2</pubDate>
+      <pubDate>Fri, 14 Feb 2020 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/302_ink_plot_publish_john_sundell.mp3" length="58222320"/>
       <itunes:duration>00:48:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -733,7 +733,7 @@
       <itunes:episode>301</itunes:episode>
       <link>https://contravariance.rocks/episodes/301_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/301_show_notes.html</guid>
-      <pubDate>Tue, 14 Jan 2020 20:00:00 GMT+2</pubDate>
+      <pubDate>Tue, 14 Jan 2020 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/301_live_from_cocoaheads_hh.mp3" length="42783876"/>
       <itunes:duration>00:35:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -821,7 +821,7 @@
       <itunes:episode>214</itunes:episode>
       <link>https://contravariance.rocks/episodes/214_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/214_show_notes.html</guid>
-      <pubDate>Thu, 19 Dec 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 19 Dec 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/214_advent_of_swift.mp3" length="41561888"/>
       <itunes:duration>00:42:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -911,7 +911,7 @@
       <itunes:episode>213</itunes:episode>
       <link>https://contravariance.rocks/episodes/213_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/213_show_notes.html</guid>
-      <pubDate>Thu, 21 Nov 2019 21:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 21 Nov 2019 21:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/213_macbooks.mp3" length="43448521"/>
       <itunes:duration>00:36:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1016,7 +1016,7 @@
       <itunes:episode>212</itunes:episode>
       <link>https://contravariance.rocks/episodes/212_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/212_show_notes.html</guid>
-      <pubDate>Thu, 17 Oct 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 17 Oct 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/212_conferences.mp3" length="36015288"/>
       <itunes:duration>00:36:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1123,7 +1123,7 @@
       <itunes:episode>211</itunes:episode>
       <link>https://contravariance.rocks/episodes/211_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/211_show_notes.html</guid>
-      <pubDate>Fri, 30 Aug 2019 22:00:00 GMT+2</pubDate>
+      <pubDate>Fri, 30 Aug 2019 22:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/211_xcode11.mp3" length="37742218"/>
       <itunes:duration>00:37:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1204,7 +1204,7 @@
       <itunes:episode>210</itunes:episode>
       <link>https://contravariance.rocks/episodes/210_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/210_show_notes.html</guid>
-      <pubDate>Tue, 13 Aug 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Tue, 13 Aug 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/210_awfului.mp3" length="32082045"/>
       <itunes:duration>00:32:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1275,7 +1275,7 @@
       <itunes:episode>209</itunes:episode>
       <link>https://contravariance.rocks/episodes/209_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/209_show_notes.html</guid>
-      <pubDate>Thu, 08 Aug 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 08 Aug 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/209_vim_hardware.mp3" length="39594170"/>
       <itunes:duration>00:39:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1360,7 +1360,7 @@
       <itunes:episode>208</itunes:episode>
       <link>https://contravariance.rocks/episodes/208_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/208_show_notes.html</guid>
-      <pubDate>Thu, 11 Jul 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 11 Jul 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/208_tsciwrpc.mp3" length="32085139"/>
       <itunes:duration>00:31:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1450,7 +1450,7 @@
       <itunes:episode>207</itunes:episode>
       <link>https://contravariance.rocks/episodes/207_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/207_show_notes.html</guid>
-      <pubDate>Thu, 20 Jun 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 20 Jun 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/207_wwdc.mp3" length="43019389"/>
       <itunes:duration>00:42:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1532,7 +1532,7 @@
       <itunes:episode>206</itunes:episode>
       <link>https://contravariance.rocks/episodes/206_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/206_show_notes.html</guid>
-      <pubDate>Fri, 24 May 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Fri, 24 May 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/206_not_work.mp3" length="43199309"/>
       <itunes:duration>00:40:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1613,7 +1613,7 @@
       <itunes:episode>205</itunes:episode>
       <link>https://contravariance.rocks/episodes/205_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/205_show_notes.html</guid>
-      <pubDate>Fri, 10 May 2019 07:00:00 GMT+2</pubDate>
+      <pubDate>Fri, 10 May 2019 07:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/205_wwdc.mp3" length="46396187"/>
       <itunes:duration>00:43:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1696,7 +1696,7 @@
       <itunes:episode>204</itunes:episode>
       <link>https://contravariance.rocks/episodes/204_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/204_show_notes.html</guid>
-      <pubDate>Thu, 04 Apr 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 04 Apr 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/204_substrings.mp3" length="32902441"/>
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1782,7 +1782,7 @@
       <itunes:episode>203</itunes:episode>
       <link>https://contravariance.rocks/episodes/203_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/203_show_notes.html</guid>
-      <pubDate>Thu, 21 Mar 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 21 Mar 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/203_documentation.mp3" length="29735361"/>
       <itunes:duration>00:28:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1867,7 +1867,7 @@
       <itunes:episode>202</itunes:episode>
       <link>https://contravariance.rocks/episodes/202_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/202_show_notes.html</guid>
-      <pubDate>Thu, 07 Mar 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 07 Mar 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/202_putting_pieces_in_place.mp3" length="44318529"/>
       <itunes:duration>00:35:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1963,7 +1963,7 @@
       <itunes:episode>201</itunes:episode>
       <link>https://contravariance.rocks/episodes/201_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/201_show_notes.html</guid>
-      <pubDate>Thu, 21 Feb 2019 21:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 21 Feb 2019 21:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/201_application_willContinueUserActivityWithType.mp3" length="24911710"/>
       <itunes:duration>00:25:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2056,7 +2056,7 @@
       <itunes:episode>107</itunes:episode>
       <link>https://contravariance.rocks/episodes/107_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/107_show_notes.html</guid>
-      <pubDate>Thu, 31 Jan 2019 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 31 Jan 2019 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/107_xcode_10.2_and_more.mp3" length="38201238"/>
       <itunes:duration>00:39:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2149,7 +2149,7 @@
       <itunes:episode>106</itunes:episode>
       <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/106_show_notes.html</guid>
-      <pubDate>Thu, 08 Nov 2018 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 08 Nov 2018 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/106_refactoring_across_a_large_code_base.mp3" length="18398314"/>
       <itunes:duration>00:31:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2207,7 +2207,7 @@
       <itunes:episode>105</itunes:episode>
       <link>https://contravariance.rocks/episodes/105_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/105_show_notes.html</guid>
-      <pubDate>Thu, 18 Oct 2018 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 18 Oct 2018 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/105_paul_john_sundell_hudson.mp3" length="13215275"/>
       <itunes:duration>00:26:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2261,7 +2261,7 @@
       <itunes:episode>104</itunes:episode>
       <link>https://contravariance.rocks/episodes/104_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/104_show_notes.html</guid>
-      <pubDate>Thu, 04 Oct 2018 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 04 Oct 2018 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/104_conferences.mp3" length="32053987"/>
       <itunes:duration>00:31:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2315,7 +2315,7 @@
       <itunes:episode>103</itunes:episode>
       <link>https://contravariance.rocks/episodes/103_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/103_show_notes.html</guid>
-      <pubDate>Thu, 06 Sep 2018 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 06 Sep 2018 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/103_a_philosophical_treatise_on_the_definition_of_pro.mp3" length="21562824"/>
       <itunes:duration>00:32:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2369,7 +2369,7 @@
       <itunes:episode>102</itunes:episode>
       <link>https://contravariance.rocks/episodes/102_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/102_show_notes.html</guid>
-      <pubDate>Thu, 23 Aug 2018 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 23 Aug 2018 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/102_the_most_awful_static_site_engine.mp3" length="31404344"/>
       <itunes:duration>00:34:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2442,7 +2442,7 @@
       <itunes:episode>101</itunes:episode>
       <link>https://contravariance.rocks/episodes/101_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/101_show_notes.html</guid>
-      <pubDate>Mon, 13 Aug 2018 17:00:00 GMT+2</pubDate>
+      <pubDate>Mon, 13 Aug 2018 17:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/101_applicationDidFinishLaunching.mp3" length="39850623"/>
       <itunes:duration>00:33:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
