@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Tue, 21 Jul 2020 20:57:06 GMT+2</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2020 20:57:06 GMT+2</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2020 19:26:52 GMT+2</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2020 19:26:52 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,71 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>309: CodeConf</title>
+      <itunes:title>CodeConf</itunes:title>
+      <itunes:episode>309</itunes:episode>
+      <link>https://contravariance.rocks/episodes/309_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/309_show_notes.html</guid>
+      <pubDate>Thu, 10 Sep 2020 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/309_pawel.mp3" length="65738251"/>
+      <itunes:duration>00:45:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte / Paweł Madej</itunes:author>
+      <description>Where Paweł introduces his app CodeConf and we talk about how he managed to work on this side project.</description>
+      <itunes:summary>Where Paweł introduces his app CodeConf and we talk about how he managed to work on this side project.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Topics</h3>
+  
+  <ul>
+    <li><a href="https://twitter.com/codeconf_app">CodeConf Twitter</a></li>
+    <li><a href="https://twitter.com/pawelmadejck">Paweł's Twitter</a></li>
+    <li><a href="https://hackintosh.com">Hackintosh</a></li>
+    <li><a href="https://developer.android.com/studio">Android Studio</a></li>
+    <li><a href="https://www.php.net">PHP</a></li>
+    <li><a href="https://vapor.codes">Vapor</a></li>
+  </ul>
+
+  <h3>Outro</h3>
+  <ul>
+    <li><a href="https://www.rust-lang.org">Rust</a></li>
+    <li><a href="https://docs.github.com/en/developers/webhooks-and-events/about-webhooks">Webhooks</a></li>
+    <li><a href="https://github.com/Contravariance/website/blob/master/github_web_hook.py">Our old buggy Webhook</a></li>
+    <li><a href="https://github.com/Contravariance/website/tree/master/rust_webhook">New Rust Webhook</a></li>
+  </ul>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>308: WWDC 2020</title>
       <itunes:title>WWDC 2020</itunes:title>
@@ -363,7 +428,7 @@
       <itunes:episode>304</itunes:episode>
       <link>https://contravariance.rocks/episodes/304_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/304_show_notes.html</guid>
-      <pubDate>Thu, 19 Mar 2020 20:30:00 GMT+1</pubDate>
+      <pubDate>Thu, 19 Mar 2020 20:30:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/304_what_is_a_cname_again.mp3" length="55803573"/>
       <itunes:duration>00:44:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -467,7 +532,7 @@
       <itunes:episode>303</itunes:episode>
       <link>https://contravariance.rocks/episodes/303_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/303_show_notes.html</guid>
-      <pubDate>Thu, 05 Mar 2020 20:00:00 GMT+1</pubDate>
+      <pubDate>Thu, 05 Mar 2020 20:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/303_chocolate_time_swiftscripts_elon.mp3" length="48932134"/>
       <itunes:duration>00:39:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -584,7 +649,7 @@
       <itunes:episode>302</itunes:episode>
       <link>https://contravariance.rocks/episodes/302_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/302_show_notes.html</guid>
-      <pubDate>Fri, 14 Feb 2020 20:00:00 GMT+1</pubDate>
+      <pubDate>Fri, 14 Feb 2020 20:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/302_ink_plot_publish_john_sundell.mp3" length="58222320"/>
       <itunes:duration>00:48:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -668,7 +733,7 @@
       <itunes:episode>301</itunes:episode>
       <link>https://contravariance.rocks/episodes/301_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/301_show_notes.html</guid>
-      <pubDate>Tue, 14 Jan 2020 20:00:00 GMT+1</pubDate>
+      <pubDate>Tue, 14 Jan 2020 20:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/301_live_from_cocoaheads_hh.mp3" length="42783876"/>
       <itunes:duration>00:35:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -756,7 +821,7 @@
       <itunes:episode>214</itunes:episode>
       <link>https://contravariance.rocks/episodes/214_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/214_show_notes.html</guid>
-      <pubDate>Thu, 19 Dec 2019 20:00:00 GMT+1</pubDate>
+      <pubDate>Thu, 19 Dec 2019 20:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/214_advent_of_swift.mp3" length="41561888"/>
       <itunes:duration>00:42:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -846,7 +911,7 @@
       <itunes:episode>213</itunes:episode>
       <link>https://contravariance.rocks/episodes/213_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/213_show_notes.html</guid>
-      <pubDate>Thu, 21 Nov 2019 21:00:00 GMT+1</pubDate>
+      <pubDate>Thu, 21 Nov 2019 21:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/213_macbooks.mp3" length="43448521"/>
       <itunes:duration>00:36:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1717,7 +1782,7 @@
       <itunes:episode>203</itunes:episode>
       <link>https://contravariance.rocks/episodes/203_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/203_show_notes.html</guid>
-      <pubDate>Thu, 21 Mar 2019 20:00:00 GMT+1</pubDate>
+      <pubDate>Thu, 21 Mar 2019 20:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/203_documentation.mp3" length="29735361"/>
       <itunes:duration>00:28:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1802,7 +1867,7 @@
       <itunes:episode>202</itunes:episode>
       <link>https://contravariance.rocks/episodes/202_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/202_show_notes.html</guid>
-      <pubDate>Thu, 07 Mar 2019 20:00:00 GMT+1</pubDate>
+      <pubDate>Thu, 07 Mar 2019 20:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/202_putting_pieces_in_place.mp3" length="44318529"/>
       <itunes:duration>00:35:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1898,7 +1963,7 @@
       <itunes:episode>201</itunes:episode>
       <link>https://contravariance.rocks/episodes/201_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/201_show_notes.html</guid>
-      <pubDate>Thu, 21 Feb 2019 21:00:00 GMT+1</pubDate>
+      <pubDate>Thu, 21 Feb 2019 21:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/201_application_willContinueUserActivityWithType.mp3" length="24911710"/>
       <itunes:duration>00:25:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1991,7 +2056,7 @@
       <itunes:episode>107</itunes:episode>
       <link>https://contravariance.rocks/episodes/107_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/107_show_notes.html</guid>
-      <pubDate>Thu, 31 Jan 2019 20:00:00 GMT+1</pubDate>
+      <pubDate>Thu, 31 Jan 2019 20:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/107_xcode_10.2_and_more.mp3" length="38201238"/>
       <itunes:duration>00:39:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2084,7 +2149,7 @@
       <itunes:episode>106</itunes:episode>
       <link>https://contravariance.rocks/episodes/106_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/106_show_notes.html</guid>
-      <pubDate>Thu, 08 Nov 2018 20:00:00 GMT+1</pubDate>
+      <pubDate>Thu, 08 Nov 2018 20:00:00 GMT</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/106_refactoring_across_a_large_code_base.mp3" length="18398314"/>
       <itunes:duration>00:31:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
