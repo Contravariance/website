@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 01 Oct 2020 19:04:39 GMT+2</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2020 19:04:39 GMT+2</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2020 19:30:57 GMT+2</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2020 19:30:57 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -31,8 +31,8 @@
       <link>https://contravariance.rocks/episodes/312_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/312_show_notes.html</guid>
       <pubDate>Thu, 01 Oct 2020 20:00:00 GMT+2</pubDate>
-      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/312_windows.mp3" length="#{entry.length}#"/>
-      <itunes:duration>#{entry.duration}#</itunes:duration>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/312_windows.mp3" length="46585531"/>
+      <itunes:duration>00:48:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>Bas Broek / Benedikt Terhechte / Luis Ascorbe</itunes:author>
       <description>Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</description>
