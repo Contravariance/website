@@ -1,0 +1,41 @@
+- nr: 312
+- title: Windows, Apple Event and ARM Macs
+- date: 24.09.2020, 20:00
+- file: 312_windows.mp3
+- author: Bas Broek / Benedikt Terhechte / Luis Ascorbe
+- description: Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>NSSpain</h3>
+  
+  <h3>Topics</h3>
+  <ul>
+    <li><a href="https://swift.org/blog/swift-on-windows/">Swift for Windows</a></li>
+    <li><a href="https://github.com/compnerd/swift-win32">Swift Windows GUI Library</a></li>
+    <li><a href="https://twitter.com/compnerd?lang=en">Saleem Abdulrasool on Twitter</a></li>
+    <li><a href="https://github.com/linebender/druid">GUI's in Rust</a></li>
+  </ul>
+</div>
