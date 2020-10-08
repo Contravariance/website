@@ -2,7 +2,7 @@
 - title: Windows, Apple Event and ARM Macs
 - date: 01.10.2020, 20:00
 - file: 312_windows.mp3
-- author: Bas Broek / Benedikt Terhechte / Luis Ascorbe
+- author: Bas Broek / Benedikt Terhechte
 - description: Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event
 ---
 <div>
@@ -29,8 +29,6 @@
   </ul>
 </p>
 <p>
-  <h3>NSSpain</h3>
-  
   <h3>Topics</h3>
   <ul>
     <li><a href="https://swift.org/blog/swift-on-windows/">Swift for Windows</a></li>
@@ -38,4 +36,5 @@
     <li><a href="https://twitter.com/compnerd?lang=en">Saleem Abdulrasool on Twitter</a></li>
     <li><a href="https://github.com/linebender/druid">GUI's in Rust</a></li>
   </ul>
+</p>
 </div>

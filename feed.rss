@@ -34,7 +34,7 @@
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/312_windows.mp3" length="46585531"/>
       <itunes:duration>00:48:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:author>Bas Broek / Benedikt Terhechte / Luis Ascorbe</itunes:author>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
       <description>Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</description>
       <itunes:summary>Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</itunes:summary>
       <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
@@ -64,8 +64,6 @@
   </ul>
 </p>
 <p>
-  <h3>NSSpain</h3>
-  
   <h3>Topics</h3>
   <ul>
     <li><a href="https://swift.org/blog/swift-on-windows/">Swift for Windows</a></li>
@@ -73,6 +71,7 @@
     <li><a href="https://twitter.com/compnerd?lang=en">Saleem Abdulrasool on Twitter</a></li>
     <li><a href="https://github.com/linebender/druid">GUI's in Rust</a></li>
   </ul>
+</p>
 </div>
 
 
@@ -142,8 +141,10 @@
     <li><a href="https://twitter.com/_supermarin">Marin Usalj</a></li>
     <li><a href="https://twitter.com/kattrali">Delisa Mason</a></li>
   </ul>
-
+</p>
+<p>
   <h3>Sabattical and Job Searching</h3>
+
   <ul>
     <li><a href="https://twitter.com/Lascorbe/status/1306537519496998912">A 19 months old hid the remote</a></li>
     <li><a href="https://twitter.com/johnsundell">John Sundell</a></li>
@@ -152,6 +153,7 @@
     <li><a href="https://iosconf.sg">iOS Confg SG</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Impostor_syndrome">Impostor Syndrome</a></li>
   </ul>
+</p>
 </div>
 
 
@@ -209,7 +211,8 @@
     <li><a href="https://en.wikipedia.org/wiki/SQLite">SQLite</a></li>
     <li><a href="https://www.youtube.com/watch?v=XAEPqUtra6E">100 no's</a></li>
   </ul>
-
+</p>
+<p>
   <h3>In-app purchases</h3>
   <ul>
     <li><a href="https://www.theverge.com/2020/8/19/21373956/apple-fortnite-app-store-fight-legal-tax-antitrust">Fortnite</a></li>
@@ -220,13 +223,15 @@
     <li><a href="https://en.wikipedia.org/wiki/Staingate">Staingate</a></li>
     <li><a href="https://en.wikipedia.org/wiki/SCO–Linux_disputes">SCO-Linux dispute</a></li>
   </ul>
-
+</p>
+<p>
   <h3>Blogging</h3>
   <ul>
     <li><a href="https://xkcd.com/356/">Nerd Sniping</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Overchoice">Overchoice</a></li>
     <li><a href="https://en.wikipedia.org/wiki/The_Paradox_of_Choice">Paradox of Choice </a></li>
   </ul>
+</p>
 </div>
 
 
@@ -284,7 +289,8 @@
     <li><a href="https://www.php.net">PHP</a></li>
     <li><a href="https://vapor.codes">Vapor</a></li>
   </ul>
-
+</p>
+<p>
   <h3>Outro</h3>
   <ul>
     <li><a href="https://www.rust-lang.org">Rust</a></li>
@@ -292,6 +298,7 @@
     <li><a href="https://github.com/Contravariance/website/blob/master/github_web_hook.py">Our old buggy Webhook</a></li>
     <li><a href="https://github.com/Contravariance/website/tree/master/rust_webhook">New Rust Webhook</a></li>
   </ul>
+</p>
 </div>
 
 
@@ -347,7 +354,8 @@
     <li><a href="https://9to5mac.com/2020/06/24/how-to-use-iphone-back-tap-controls-ios-14/">Double Tap</a></li>
     <li><a href="https://www.reddit.com/r/MacOSBeta/comments/hea72p/warning_do_not_install_big_sur_on_the_same_apfs/">Big Sur breaks APFS Container Software Update</a></li>
   </ul>
-
+</p>
+<p>
   <h3>Outro</h3>
   <ul>
     <li><a href="https://twitter.com/catehstn">Cate Huston</a></li>
@@ -355,6 +363,7 @@
     <li><a href="https://twitter.com/bertadevant">Berta Devant</a></li>
     <li><a href="https://jardin-tropical.com">Tenerife Vacation</a></li>
   </ul>
+</p>
 </div>
 
 
