@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 01 Oct 2020 19:30:57 GMT+2</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2020 19:30:57 GMT+2</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2020 15:45:13 GMT+2</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2020 15:45:13 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,67 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>313: Bas leaves XING</title>
+      <itunes:title>Bas leaves XING</itunes:title>
+      <itunes:episode>313</itunes:episode>
+      <link>https://contravariance.rocks/episodes/313_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/313_show_notes.html</guid>
+      <pubDate>Thu, 08 Oct 2020 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/313_bas_leaves_xing.mp3" length="47441683"/>
+      <itunes:duration>00:32:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</description>
+      <itunes:summary>Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Topics</h3>
+  <ul>
+    <li><a href="https://www.tryswift.co/world/">try! Swift World</a></li>
+    <li><a href="https://developer.apple.com/documentation/uikit/uidocument">UIDocument</a></li>
+    <li><a href="https://twitter.com/steipete">Peter Steinberger</a></li>
+    <li><a href="https://pspdfkit.com">PSPDFKit</a></li>
+    <li><a href="https://twitter.com/steipete/status/1309389856066482177">iOS 14 API's not available on Big Sur</a></li>
+    <li><a href="https://twitter.com/steipete/status/1308317305634467840">Catalyst runtime crashes</a></li>
+    <li><a href="https://frenchkit.fr">FrenchKit</a></li>
+    <li><a href="https://www.meetup.com/swiftparis/">Swift Paris</a></li>
+    <li><a href="https://hyperdeck.io">Hyperdeck</a></li>
+    <li><a href="https://www.apple.com/apple-events/">Apple Event</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>312: Windows, Apple Event and ARM Macs</title>
       <itunes:title>Windows, Apple Event and ARM Macs</itunes:title>
