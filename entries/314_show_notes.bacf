@@ -1,0 +1,44 @@
+- nr: 314
+- title: iPhone 12 & Apple Silicon
+- date: 22.10.2020, 20:00
+- file: 314_iphone_12_event_arm.mp3
+- author: Bas Broek / Benedikt Terhechte
+- description: Where we talk about Apple's October event, and the announced iPhone 12 and HomePod mini, as well as Apple Silicon.
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Topics</h3>
+  <ul>
+    <li><a href="https://twitter.com/tryswiftworld/status/1318891124795207682">try! Swift World workshop Bas</a></li>
+    <li><a href="https://twitter.com/tryswiftworld/status/1319260647411077126">try! Swift World workshop Benedikt</a></li>
+    <li><a href="https://www.apple.com/iphone-12-pro/">iPhone 12 Pro</a></li>
+    <li><a href="https://www.apple.com/homepod-mini/">HomePod mini</a></li>
+    <li><a href="https://www.apple.com/macos/big-sur-preview/">macOS Big Sur</a></li>
+    <li><a href="https://twitter.com/terhechte/status/1312377003883012097">Apple Silicon for Rust and Catalyst</a></li>
+    <li><a href="https://twitter.com/steipete">Peter Steinberger</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1316752779524870144">AuthenticationServices callback issue on Mac</a></li>
+  </ul>
+</p>
+</div>

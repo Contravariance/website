@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 08 Oct 2020 15:45:13 GMT+2</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2020 15:45:13 GMT+2</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2020 16:14:25 GMT+2</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2020 16:14:25 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,65 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>314: iPhone 12 & Apple Silicon</title>
+      <itunes:title>iPhone 12 & Apple Silicon</itunes:title>
+      <itunes:episode>314</itunes:episode>
+      <link>https://contravariance.rocks/episodes/314_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/314_show_notes.html</guid>
+      <pubDate>Thu, 22 Oct 2020 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/314_iphone_12_event_arm.mp3" length="52934314"/>
+      <itunes:duration>00:36:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>Where we talk about Apple's October event, and the announced iPhone 12 and HomePod mini, as well as Apple Silicon.</description>
+      <itunes:summary>Where we talk about Apple's October event, and the announced iPhone 12 and HomePod mini, as well as Apple Silicon.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Topics</h3>
+  <ul>
+    <li><a href="https://twitter.com/tryswiftworld/status/1318891124795207682">try! Swift World workshop Bas</a></li>
+    <li><a href="https://twitter.com/tryswiftworld/status/1319260647411077126">try! Swift World workshop Benedikt</a></li>
+    <li><a href="https://www.apple.com/iphone-12-pro/">iPhone 12 Pro</a></li>
+    <li><a href="https://www.apple.com/homepod-mini/">HomePod mini</a></li>
+    <li><a href="https://www.apple.com/macos/big-sur-preview/">macOS Big Sur</a></li>
+    <li><a href="https://twitter.com/terhechte/status/1312377003883012097">Apple Silicon for Rust and Catalyst</a></li>
+    <li><a href="https://twitter.com/steipete">Peter Steinberger</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1316752779524870144">AuthenticationServices callback issue on Mac</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>313: Bas leaves XING</title>
       <itunes:title>Bas leaves XING</itunes:title>
