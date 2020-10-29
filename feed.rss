@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 22 Oct 2020 16:14:25 GMT+2</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2020 16:14:25 GMT+2</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2020 12:48:45 GMT+2</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2020 12:48:45 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -24,6 +24,77 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>315: A Special Episode — Looking Forward</title>
+      <itunes:title>A Special Episode — Looking Forward</itunes:title>
+      <itunes:episode>315</itunes:episode>
+      <link>https://contravariance.rocks/episodes/315_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/315_show_notes.html</guid>
+      <pubDate>Thu, 29 Oct 2020 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/315_looking_forward.mp3" length="52435289"/>
+      <itunes:duration>00:36:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
+      <description>In which Bas announces leaving the podcast (for now), and Bene upgrades his setup. We also take a look back at all the episodes we've recorded in the last three years.</description>
+      <itunes:summary>In which Bas announces leaving the podcast (for now), and Bene upgrades his setup. We also take a look back at all the episodes we've recorded in the last three years.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Upgraded Setup</h3>
+  <ul>
+    <li><a href="https://www.elgato.com/en/gaming/cam-link-4k">Elgato Cam Link</a></li>
+    <li><a href="https://www.elgato.com/en/ring-light">Elgato Ring Light</a></li>
+    <li><a href="https://satechi.net/products/eco-leather-deskmate?variant=20500238565464">Satechi Deskmate</a></li>
+    <li><a href="https://twitter.com/catehstn/status/1319742159025770497">Looking forward I</a></li>
+    <li><a href="https://twitter.com/catehstn/status/1319743307115880448">Looking forward II</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Episode Discussion</h3>
+  <ul>
+    <li><a href="https://contravariance.rocks/episodes/101_show_notes.html">The first episode</a></li>
+    <li><a href="https://contravariance.rocks/episodes/306_show_notes.html">Benedikt's computer</a></li>
+    <li><a href="https://contravariance.rocks/episodes/301_show_notes.html">Live from CocoaHeads</a></li>
+    <li><a href="https://twitter.com/_contravariance/status/1215407512733855745">Contravariance Hoodie</a></li>
+    <li><a href="https://contravariance.rocks/episodes/302_show_notes.html">Singing with (John) Sundell</a></li>
+    <li><a href="https://contravariance.rocks/episodes/212_show_notes.html">Conferences with Antoine van der Lee</a></li>
+    <li><a href="https://twitter.com/zoha131/status/1319359319721164800">Bas' latest try! Swift World workshop</a></li>
+    <li><a href="https://contravariance.rocks/episodes/307_show_notes.html">Revealing Hyperdeck</a></li>
+    <li><a href="https://contravariance.rocks/episodes/210_show_notes.html">AwfulUI</a></li>
+    <li><a href="https://contravariance.rocks/episodes/102_show_notes.html">masse</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>314: iPhone 12 & Apple Silicon</title>
       <itunes:title>iPhone 12 & Apple Silicon</itunes:title>
