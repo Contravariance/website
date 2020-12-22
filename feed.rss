@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 29 Oct 2020 12:48:45 GMT+2</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2020 12:48:45 GMT+2</lastBuildDate>
+    <pubDate>Tue, 22 Dec 2020 14:24:52 GMT+1</pubDate>
+    <lastBuildDate>Tue, 22 Dec 2020 14:24:52 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
@@ -25,12 +25,58 @@
 
     <!-- Latest -->
     <item>
+      <title>316: A Jolly SwiftUI Christmas Special</title>
+      <itunes:title>A Jolly SwiftUI Christmas Special</itunes:title>
+      <itunes:episode>316</itunes:episode>
+      <link>https://contravariance.rocks/episodes/316_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/316_show_notes.html</guid>
+      <pubDate>Tue, 22 Dec 2020 20:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/316_jolly_swiftui_christmas_special.mp3" length="113247284"/>
+      <itunes:duration>01:22:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Benedikt Terhechte / Berta Devant / Donny Wals / Sebastian Reimann</itunes:author>
+      <description>In this episode, we initially discuss SwitUI and Apple documentation, but then dive off into a random discussion about pets, time travel, fireworks, and much more</description>
+      <itunes:summary>In this episode, we initially discuss SwitUI and Apple documentation, but then dive off into a random discussion about pets, time travel, fireworks, and much more</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt</a> <a href="https://twitter.com/terhechte">[Twitter]</a></li>
+    <li><a href="https://www.donnywals.com">Donny</a> <a href="">[Twitter]</a></li>
+    <li><a href="https://twitter.com/bertadevant">Donny</a></li>
+    <li><a href="https://twitter.com/seb_rei">Donny</a>Sebastian</li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
       <title>315: A Special Episode &mdash; Looking Forward</title>
       <itunes:title>A Special Episode &mdash; Looking Forward</itunes:title>
       <itunes:episode>315</itunes:episode>
       <link>https://contravariance.rocks/episodes/315_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/315_show_notes.html</guid>
-      <pubDate>Thu, 29 Oct 2020 20:00:00 GMT+2</pubDate>
+      <pubDate>Thu, 29 Oct 2020 20:00:00 GMT+1</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/315_looking_forward.mp3" length="52435289"/>
       <itunes:duration>00:36:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
