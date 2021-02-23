@@ -760,10 +760,11 @@ struct Site {
                 guests.append(guestEntry)
             }
         }
-        let sortedGuests: [[String: String]] = guests.sorted(by: { (a, b) in 
-            guard let first = a["name"], let second = b["name"]  else { return false }
-            return first < second
+        let sortedGuests: [[String: String]] = guests.sorted(by: { (a, b) in
+          guard let first = a["name"], let second = b["name"]  else { return false }
+          return first.trimmingCharacters(in: .whitespaces).lowercased() < second.trimmingCharacters(in: .whitespaces).lowercased()
         })
+
         self.context["guests"] = sortedGuests
     }
     

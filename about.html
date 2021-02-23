@@ -19,9 +19,11 @@
     <meta name="keywords" content="apple, swift, mac, iphone, ipad, macos, mojave, rust" />
     <title>Contravariance. A Swift Podcast</title>
     <link href="/styles.css" rel="stylesheet">
+    <link href="/player/shikwasa.min.css" rel="stylesheet">
 </head>
 
 <body>
+    <script src="/player/shikwasa.min.js"></script>
     <section class="section">
         <div class="container">
             <div class="columns is-8">
@@ -85,13 +87,11 @@
                 <div id="guests" class="column is-one-quarter">
                     <h2>Guests</h2>
                     <ul>
-                <li><a href="/episodes/316_show_notes.html"> Donny Wals</a></li>
-
-                <li><a href="/episodes/316_show_notes.html"> Sebastian Reimann</a></li>
-
                 <li><a href="/episodes/212_show_notes.html">Antoine van der Lee</a></li>
 
                 <li><a href="/episodes/316_show_notes.html">Berta Devant</a></li>
+
+                <li><a href="/episodes/316_show_notes.html"> Donny Wals</a></li>
 
                 <li><a href="/episodes/302_show_notes.html">John Sundell</a></li>
 
@@ -99,9 +99,11 @@
 
                 <li><a href="/episodes/105_show_notes.html">Paul Hudson</a></li>
 
-                <li><a href="/episodes/309_show_notes.html">Paweł Madej</a></li>
+                <li><a href="/episodes/309_show_notes.html">Pawel Madej</a></li>
 
                 <li><a href="/episodes/305_show_notes.html">Pedro Carrasco</a></li>
+
+                <li><a href="/episodes/316_show_notes.html"> Sebastian Reimann</a></li>
 
                     </ul>
 
@@ -118,6 +120,18 @@
             else
                 e.style.display = 'block';
         }
+function play(id, url, title) {
+  const player = new Shikwasa({
+  container: () => document.getElementById(id),
+   audio: {
+     title: title,
+     artist: 'Contravariance',
+     cover: '/logo_small.jpg',
+     src: url,
+   },
+  });
+  player.play();
+}
     </script>
       <footer class="footer">
           <div class="has-text-centered">
@@ -129,6 +143,9 @@
               </p>
           </div>
       </footer>
+<style>
+.shk { width: 460px !important; }
+</style>
 </body>
 
 </html>

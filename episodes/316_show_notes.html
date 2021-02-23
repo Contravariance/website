@@ -19,9 +19,11 @@
     <meta name="keywords" content="apple, swift, mac, iphone, ipad, macos, mojave, rust" />
     <title>Contravariance. A Swift Podcast</title>
     <link href="/styles.css" rel="stylesheet">
+    <link href="/player/shikwasa.min.css" rel="stylesheet">
 </head>
 
 <body>
+    <script src="/player/shikwasa.min.js"></script>
     <section class="section">
         <div class="container">
             <div class="columns is-8">
@@ -54,8 +56,9 @@
                             <h5>with: Berta Devant, Donny Wals, Sebastian Reimann</h5>
                             <p>In this episode, we initially discuss SwitUI and Apple documentation, but then dive off into a random discussion about pets, time travel, fireworks, and much more</p>
                             <p class="control">
-                            <a class="listen" href="316_jolly_swiftui_christmas_special.mp3">Listen</a>,
+                            <a class="listen" href="Javascript:play('player316', '/episodes/316_jolly_swiftui_christmas_special.mp3', 'A Jolly SwiftUI Christmas Special');">Listen</a>,
                             <a class="download" href="316_jolly_swiftui_christmas_special.mp3">Download</a>
+                            <div id="player316"></div>
                         </div>
                         <div class="content notes is-small">
                     <div>
@@ -94,6 +97,18 @@
             else
                 e.style.display = 'block';
         }
+function play(id, url, title) {
+  const player = new Shikwasa({
+  container: () => document.getElementById(id),
+   audio: {
+     title: title,
+     artist: 'Contravariance',
+     cover: '/logo_small.jpg',
+     src: url,
+   },
+  });
+  player.play();
+}
     </script>
       <footer class="footer">
           <div class="has-text-centered">
@@ -105,6 +120,9 @@
               </p>
           </div>
       </footer>
+<style>
+.shk { width: 460px !important; }
+</style>
 </body>
 
 </html>

@@ -19,9 +19,11 @@
     <meta name="keywords" content="apple, swift, mac, iphone, ipad, macos, mojave, rust" />
     <title>Contravariance. A Swift Podcast</title>
     <link href="/styles.css" rel="stylesheet">
+    <link href="/player/shikwasa.min.css" rel="stylesheet">
 </head>
 
 <body>
+    <script src="/player/shikwasa.min.js"></script>
     <section class="section">
         <div class="container">
             <div class="columns is-8">
@@ -54,8 +56,9 @@
                             <h5>with: #{guests}#</h5>
                             <p>We talk with Donny Wals on his Advent of Swift project, Disney+, working on an SDK and more.</p>
                             <p class="control">
-                            <a class="listen" href="214_advent_of_swift.mp3">Listen</a>,
+                            <a class="listen" href="Javascript:play('player214', '/episodes/214_advent_of_swift.mp3', 'Donny Wals' Advent of Swift, Disney+ and other things - A special Christmas Episode');">Listen</a>,
                             <a class="download" href="214_advent_of_swift.mp3">Download</a>
+                            <div id="player214"></div>
                         </div>
                         <div class="content notes is-small">
                     <div>
@@ -138,6 +141,18 @@
             else
                 e.style.display = 'block';
         }
+function play(id, url, title) {
+  const player = new Shikwasa({
+  container: () => document.getElementById(id),
+   audio: {
+     title: title,
+     artist: 'Contravariance',
+     cover: '/logo_small.jpg',
+     src: url,
+   },
+  });
+  player.play();
+}
     </script>
       <footer class="footer">
           <div class="has-text-centered">
@@ -149,6 +164,9 @@
               </p>
           </div>
       </footer>
+<style>
+.shk { width: 460px !important; }
+</style>
 </body>
 
 </html>
