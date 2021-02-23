@@ -29,7 +29,12 @@
             <div class="columns is-8">
                 <div class="column is-one-quarter">
 
-                    <a href="/"><img src="/logo.svg" /></a>
+                    <a href="/">
+                        <picture>
+                            <source srcset="/logo_dark.svg" media="(prefers-color-scheme: dark)">
+                            <img src="/logo.svg">
+                        </picture>
+                    </a>
 
                     <ul id="links">
                         <li><a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes</a></li>

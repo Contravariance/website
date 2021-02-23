@@ -199,3 +199,77 @@ html, body {
 a:hover {
   color: #FF3860 !important;
 }
+
+@media (prefers-color-scheme: dark) {
+    * {
+        color: #fff;
+    }
+    strong {
+        color: #fff;
+    }
+    html, body {
+        background-color: #1D1E1F !important;
+    }
+    #nav li {
+        border: 2pt solid white;
+        color: #EFEFEF;
+    }
+
+    #nav li.sel {
+        background-color: #EFEFEF;
+        color: black;
+    }
+
+    #nav li a {
+        color: #EFEFEF;
+    }
+
+    #nav li.sel a {
+        color: black;
+    }
+
+    .episode h5 {
+        color: #888;
+    }
+
+    .episode p.control .show {
+        color: #ddd;
+    }
+
+    .episode .more-button {
+        border: 2pt solid white;
+        color: #EFEFEF;
+    }
+
+    .episode a {
+        color: #eee;
+    }
+
+    #links li a {
+        color: #efefef;
+    }
+
+    #guests ul a {
+        color: #fff;
+    }
+
+    .notes {
+        background-color: #3A3D3F;
+    }
+
+    .footer {
+        background-color: #1D1E1F !important;
+        color: white !important;
+    }
+
+    .content * {
+        color: #efefef !important;
+    }
+
+    .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+        color: #efefef;
+    }
+    .content a {
+        text-decoration: underline !important;
+    }
+}
