@@ -12,8 +12,9 @@
                             <h5>with: #{guests}#</h5>
                             <p>#{description}#</p>
                             <p class="control">
-                            <a class="listen" href="#{file}#">Listen</a>,
+                            <a class="listen" href="Javascript:play('player#{nr}#', '/episodes/#{file}#', '#{title}#');">Listen</a>,
                             <a class="download" href="#{file}#">Download</a>
+                            <div id="player#{nr}#"></div>
                         </div>
                         <div class="content notes is-small">
                     #{notes}#

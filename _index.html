@@ -20,9 +20,11 @@
     <meta name="keywords" content="#{podcastKeywords}#" />
     <title>#{podcastTitle}#</title>
     <link href="/styles.css" rel="stylesheet">
+    <link href="/player/shikwasa.min.css" rel="stylesheet">
 </head>
 
 <body>
+    <script src="/player/shikwasa.min.js"></script>
     <section class="section">
         <div class="container">
             <div class="columns is-8">
@@ -66,10 +68,11 @@
                             <div class="details" id="a#{entry.nr}#">
                                 <p>#{entry.description}#</p>
                                 <p class="control">
-                                    <a class="listen" href="/episodes/#{entry.file}#">Listen</a>,
+                                    <a class="listen" href="Javascript:play('player#{entry.nr}#', '/episodes/#{entry.file}#', '#{entry.title}#');">Listen</a>,
                                     <a class="download" href="/episodes/#{entry.file}#">Download</a>,
                                     or see <a class="show" href="/episodes/#{entry.nr}#_show_notes.html">Show Notes</a>
                                 </p>
+                                <div id="player#{entry.nr}#"></div>
                             </div>
                         </div>
 {{ENDLOOP}}
@@ -101,6 +104,18 @@
             else
                 e.style.display = 'block';
         }
+function play(id, url, title) {
+  const player = new Shikwasa({
+  container: () => document.getElementById(id),
+   audio: {
+     title: title,
+     artist: 'Contravariance',
+     cover: '/logo_small.jpg',
+     src: url,
+   },
+  });
+  player.play();
+}
     </script>
       <footer class="footer">
           <div class="has-text-centered">
@@ -112,6 +127,9 @@
               </p>
           </div>
       </footer>
+<style>
+.shk { width: 460px !important; }
+</style>
 </body>
 
 </html>
