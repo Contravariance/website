@@ -3,20 +3,20 @@
   <channel>
     <title>Contravariance. A Swift Podcast</title>
     <link>https://contravariance.rocks</link>
-    <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</description>
+    <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Tue, 22 Dec 2020 14:24:52 GMT+1</pubDate>
-    <lastBuildDate>Tue, 22 Dec 2020 14:24:52 GMT+1</lastBuildDate>
+    <pubDate>Tue, 23 Feb 2021 08:20:30 GMT+1</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2021 08:20:30 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
-    <itunes:author>Bas Broek / Benedikt Terhechte</itunes:author>
-    <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.</itunes:summary>
+    <itunes:author>Benedikt Terhechte</itunes:author>
+    <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</itunes:summary>
     <itunes:keywords>apple, swift, mac, iphone, ipad, macos, mojave, rust</itunes:keywords>
     <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
-      <itunes:name>Bas Broek</itunes:name>
-      <itunes:email>bas@contravariance.rocks</itunes:email>
+      <itunes:name>Benedikt Terhechte</itunes:name>
+      <itunes:email>terhechte+contravariance@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology">
       <itunes:category text="Tech News" />
@@ -31,7 +31,7 @@
       <link>https://contravariance.rocks/episodes/316_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/316_show_notes.html</guid>
       <pubDate>Tue, 22 Dec 2020 20:00:00 GMT+1</pubDate>
-      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/316_jolly_swiftui_christmas_special.mp3" length="113247284"/>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/316_jolly_swiftui_christmas_special.mp3" length="78904484"/>
       <itunes:duration>01:22:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>Benedikt Terhechte / Berta Devant / Donny Wals / Sebastian Reimann</itunes:author>
@@ -71,8 +71,8 @@
     </item>
 
     <item>
-      <title>315: A Special Episode - Looking Forward</title>
-      <itunes:title>A Special Episode - Looking Forward</itunes:title>
+      <title>315: A Special Episode Looking Forward</title>
+      <itunes:title>A Special Episode Looking Forward</itunes:title>
       <itunes:episode>315</itunes:episode>
       <link>https://contravariance.rocks/episodes/315_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/315_show_notes.html</guid>

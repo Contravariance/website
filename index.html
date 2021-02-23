@@ -1,1046 +1,735 @@
 <!DOCTYPE html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage" >
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"
+    xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage">
 
-    <head>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="canonical" href="https://contravariance.rocks"/>
-        <meta property="og:site_name" content="Contravariance. A Swift Podcast"/>
-        <meta property="og:title" content="Episodes"/>
-        <meta property="og:url" content="https://contravariance.rocks"/>
-        <meta property="og:type" content="website"/>
-        <meta itemprop="name" content="Episodes"/>
-        <meta itemprop="url" content="https://contravariance.rocks"/>
-        <meta name="twitter:title" content="Episodes"/>
-        <meta name="twitter:url" content="https://contravariance.rocks"/>
-        <meta name="twitter:card" content="summary"/>
-        <meta name="description" content="A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek." />
-        <meta name="keywords" content="apple, swift, mac, iphone, ipad, macos, mojave, rust" />
-        <title>Contravariance. A Swift Podcast</title>
-        <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:900|Arvo" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css" />
-        <link href="/styles/theme.css" rel="stylesheet">
-    </head>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://contravariance.rocks" />
+    <meta property="og:site_name" content="Contravariance. A Swift Podcast" />
+    <meta property="og:title" content="Episodes" />
+    <meta property="og:url" content="https://contravariance.rocks" />
+    <meta property="og:type" content="website" />
+    <meta itemprop="name" content="Episodes" />
+    <meta itemprop="url" content="https://contravariance.rocks" />
+    <meta name="twitter:title" content="Episodes" />
+    <meta name="twitter:url" content="https://contravariance.rocks" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="description" content="A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte." />
+    <meta name="keywords" content="apple, swift, mac, iphone, ipad, macos, mojave, rust" />
+    <title>Contravariance. A Swift Podcast</title>
+    <link href="/styles.css" rel="stylesheet">
+</head>
 
-    <body>
+<body>
+    <section class="section">
+        <div class="container">
+            <div class="columns is-8">
+                <div class="column is-one-quarter">
 
-        <div class="container root">
-            <div class="section mobile-header is-hidden-desktop">
-                <a href="/about.html" class="button menu-button menu-button-1">ABOUT</a>
-                <!-- <a href="/shownotes.html" class="button menu-button menu-button-2">SHOWNOTES</a> -->
-                <a href="/feed.rss" class="button menu-button menu-button-3">FEED</a>
-                <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323" class="button menu-button menu-button-4">iTUNES</a>
-                <a href="https://overcast.fm/itunes1423771323/contravariance-a-swift-podcast" class="button menu-button menu-button-5">OVERCAST</a>
-                <a href="https://pca.st/QjR1" class="button menu-button menu-button-6">POCKET CASTS</a>
-                <a href="https://twitter.com/_contravariance" class="button menu-button menu-button-7">TWITTER</a>
+                    <a href="/"><img src="/logo.svg" /></a>
+
+                    <ul id="links">
+                        <li><a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes</a></li>
+                        <li><a href="https://overcast.fm/itunes1423771323/contravariance-a-swift-podcast">Overcast</a></li>
+                        <li><a href="https://pca.st/QjR1">Pocket Casts</a></li>
+                        <li><a href="https://twitter.com/_contravariance">Twitter</a></li>
+                        <li><a href="/feed.rss">Feed</a></li>
+                    </ul>
+
+                </div>
+                <div class="column">
+
+                    <ul id="nav">
+                        <li class="sel"><a href="/index.html">Episodes</a></li>
+                        <li><a href="/about.html">About</a></li>
+                    </ul>
+
+                    <h3 class="episode-title">Latest Episode</h3>
+
+                    <div class="episode-list">
+
+                        <div class="episode">
+                          <h4><a href="/episodes/316_show_notes.html"><strong>316</strong>, 22.12.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/316_show_notes.html">A Jolly SwiftUI Christmas Special</a></h2>
+                            <h5>with Berta Devant, Donny Wals, Sebastian Reimann</h5>
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a316');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a316">
+                                <p>In this episode, we initially discuss SwitUI and Apple documentation, but then dive off into a random discussion about pets, time travel, fireworks, and much more</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/316_jolly_swiftui_christmas_special.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/316_jolly_swiftui_christmas_special.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/316_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/315_show_notes.html"><strong>315</strong>, 29.10.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/315_show_notes.html">A Special Episode Looking Forward</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a315');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a315">
+                                <p>In which Bas announces leaving the podcast (for now), and Bene upgrades his setup. We also take a look back at all the episodes we've recorded in the last three years.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/315_looking_forward.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/315_looking_forward.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/315_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/314_show_notes.html"><strong>314</strong>, 22.10.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/314_show_notes.html">iPhone 12 &amp; Apple Silicon</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a314');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a314">
+                                <p>Where we talk about Apple's October event, and the announced iPhone 12 and HomePod mini, as well as Apple Silicon.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/314_iphone_12_event_arm.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/314_iphone_12_event_arm.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/314_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/313_show_notes.html"><strong>313</strong>, 08.10.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/313_show_notes.html">Bas leaves XING</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a313');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a313">
+                                <p>Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/313_bas_leaves_xing.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/313_bas_leaves_xing.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/313_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/312_show_notes.html"><strong>312</strong>, 01.10.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/312_show_notes.html">Windows, Apple Event and ARM Macs</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a312');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a312">
+                                <p>Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/312_windows.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/312_windows.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/312_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/311_show_notes.html"><strong>311</strong>, 24.09.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/311_show_notes.html">The History of NSSpain</a></h2>
+                            <h5>with Luis Ascorbe</h5>
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a311');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a311">
+                                <p>Where we talk about the history of NSSpain, looking for new jobs, and Bas makes an announcement.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/311_luis.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/311_luis.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/311_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/310_show_notes.html"><strong>310</strong>, 17.09.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/310_show_notes.html">iOS is Hard</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a310');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a310">
+                                <p>Where we talk about iOS development being not so easy, blogging, and in-app purchases.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/310_ios-is-hard.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/310_ios-is-hard.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/310_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/309_show_notes.html"><strong>309</strong>, 10.09.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/309_show_notes.html">CodeConf</a></h2>
+                            <h5>with Paweł Madej</h5>
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a309');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a309">
+                                <p>Where Paweł introduces his app CodeConf and we talk about how he managed to work on this side project.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/309_pawel.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/309_pawel.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/309_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/308_show_notes.html"><strong>308</strong>, 21.07.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/308_show_notes.html">WWDC 2020</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a308');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a308">
+                                <p>Where Bas has moved to Spain and Benedikt has been spending time at his mom's... and discussing WWDC.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/308-wwdc20-home.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/308-wwdc20-home.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/308_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/307_show_notes.html"><strong>307</strong>, 11.06.2020, 20:30</a></h4>
+                          <h2><a href="/episodes/307_show_notes.html">Revealing Benedikt's Side Project</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a307');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a307">
+                                <p>Where Benedikt finally reveals the application he's been working on in the last months.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/307_hyperdeck.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/307_hyperdeck.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/307_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/306_show_notes.html"><strong>306</strong>, 14.05.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/306_show_notes.html">The Star Wars Babka Computer Delivery</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a306');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a306">
+                                <p>Where Benedikt is anticipating a new computer, and Bas is anticipating remote conferences. And Star Wars is anticipating Bas... and chocolate chip babka!</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/306_starwars_babka_computer_delivery.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/306_starwars_babka_computer_delivery.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/306_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/305_show_notes.html"><strong>305</strong>, 16.04.2020, 19:30</a></h4>
+                          <h2><a href="/episodes/305_show_notes.html">Clearly my home screen is better than yours</a></h2>
+                            <h5>with Pedro Carrasco</h5>
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a305');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a305">
+                                <p>In which we talk about all things remote, like organizing a meetup, conference, or work. We also take a look at our perfectly normal homescreens. Bene is considering building a silent computer. All this with Pedro Carrasco!</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/305_homescreens.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/305_homescreens.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/305_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/304_show_notes.html"><strong>304</strong>, 19.03.2020, 20:30</a></h4>
+                          <h2><a href="/episodes/304_show_notes.html">What is a CNAME Again?</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a304');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a304">
+                                <p>We talk about open source projects and contributing to them. Where Bas forgets what a CNAME is, and Benedikt has to look it up for him.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/304_what_is_a_cname_again.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/304_what_is_a_cname_again.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/304_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/303_show_notes.html"><strong>303</strong>, 05.03.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/303_show_notes.html">Chocolate, Time, and Swift Scripts. Your Move, Elon.</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a303');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a303">
+                                <p>Benedikt asks himself "what door?" watching Westworld, and Bas has a surprise!</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/303_chocolate_time_swiftscripts_elon.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/303_chocolate_time_swiftscripts_elon.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/303_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/302_show_notes.html"><strong>302</strong>, 14.02.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/302_show_notes.html">Ink, Plot, Publish and More - With Special Guest John "Paul Hudson" Sundell</a></h2>
+                            <h5>with John Sundell</h5>
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a302');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a302">
+                                <p>Where Bas remembers his open source projects and previous talks, Benedikt finally shares more on his secret project... and sets someone up for an interesting challenge, our dear guest, John "Paul Hudson" Sundell.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/302_ink_plot_publish_john_sundell.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/302_ink_plot_publish_john_sundell.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/302_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/301_show_notes.html"><strong>301</strong>, 14.01.2020, 20:00</a></h4>
+                          <h2><a href="/episodes/301_show_notes.html">Live from CocoaHeads Hamburg</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a301');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a301">
+                                <p>Where Bas still has no reason to buy new hardware, and Benedikt learned more about unicode than he wanted to. And both have an exciting year coming up. Live from CocoaHeads Hamburg on January 9, 2020.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/301_live_from_cocoaheads_hh.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/301_live_from_cocoaheads_hh.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/301_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/214_show_notes.html"><strong>214</strong>, 19.12.19, 20:00</a></h4>
+                          <h2><a href="/episodes/214_show_notes.html">Donny Wals' Advent of Swift, Disney+ and other things - A special Christmas Episode</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a214');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a214">
+                                <p>We talk with Donny Wals on his Advent of Swift project, Disney+, working on an SDK and more.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/214_advent_of_swift.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/214_advent_of_swift.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/214_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/213_show_notes.html"><strong>213</strong>, 21.11.19, 21:00</a></h4>
+                          <h2><a href="/episodes/213_show_notes.html">MacBooks, AirPods Pro, GitHub Mobile &amp; SwiftUI</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a213');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a213">
+                                <p>We're talking about the new 16" MacBook, the new AirPods Pro, GitHub's new Mobile app, SwiftUI learnings and more.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/213_macbooks.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/213_macbooks.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/213_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/212_show_notes.html"><strong>212</strong>, 17.10.19, 20:00</a></h4>
+                          <h2><a href="/episodes/212_show_notes.html">SwiftConf, NSSpain, mobiconf, and FrenchKit - With Special Guest Antoine van der Lee</a></h2>
+                            <h5>with Antoine van der Lee</h5>
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a212');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a212">
+                                <p>We're giving an overview over some of Europe's awesome iOS conferences in the last months.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/212_conferences.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/212_conferences.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/212_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/211_show_notes.html"><strong>211</strong>, 30.08.19, 22:00</a></h4>
+                          <h2><a href="/episodes/211_show_notes.html">Our thoughts on Xcode 11</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a211');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a211">
+                                <p>We're talking about our initial Xcode 11 thoughts as well as the joy of just using Apple's latest tech in a brand new project.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/211_xcode11.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/211_xcode11.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/211_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/210_show_notes.html"><strong>210</strong>, 13.08.19, 20:00</a></h4>
+                          <h2><a href="/episodes/210_show_notes.html">Implementing SwiftUI on top of UIKit in iOS 12</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a210');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a210">
+                                <p>We're talking about AwfulUI, a project which aims to re-implement the syntax of SwiftUI on top of UIKit in order to support iOS 12 or lower</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/210_awfului.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/210_awfului.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/210_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/209_show_notes.html"><strong>209</strong>, 08.08.19, 20:00</a></h4>
+                          <h2><a href="/episodes/209_show_notes.html">Hackintoshes, new Apple Hardware, and an explanation of why VIM is cool</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a209');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a209">
+                                <p>In which Benedikt explains Vim to Bas, new Apple hardware apparently is(n't) interesting, and interesting projects.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/209_vim_hardware.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/209_vim_hardware.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/209_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/208_show_notes.html"><strong>208</strong>, 11.07.19, 20:00</a></h4>
+                          <h2><a href="/episodes/208_show_notes.html">The Static Catalyst iPad Window Refactoring Project Conference</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a208');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a208">
+                                <p>We talk about the Swift Island and Swift Aveiro conferences, static site generators and puzzles in our personal projects, iPadOS windowing support, Catalyst woes, refactoring tools and Swift UI guides</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/208_tsciwrpc.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/208_tsciwrpc.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/208_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/207_show_notes.html"><strong>207</strong>, 20.06.19, 20:00</a></h4>
+                          <h2><a href="/episodes/207_show_notes.html">WWDC: Better Late Than Never</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a207');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a207">
+                                <p>We start talking about WWDC announcements, notably SwiftUI and iPadOS</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/207_wwdc.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/207_wwdc.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/207_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/206_show_notes.html"><strong>206</strong>, 24.05.19, 20:00</a></h4>
+                          <h2><a href="/episodes/206_show_notes.html">Not Work</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a206');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a206">
+                                <p>We talk about our interests outside of work, like watchmaking, electronic music, coffee and chocolate.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/206_not_work.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/206_not_work.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/206_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/205_show_notes.html"><strong>205</strong>, 10.05.19, 07:00</a></h4>
+                          <h2><a href="/episodes/205_show_notes.html">WWDC Tips and Rumors</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a205');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a205">
+                                <p>Benedikt and Bas talk about the upcoming WWDC, how to make the most out of the conference, and what to expect. Also, career changes!</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/205_wwdc.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/205_wwdc.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/205_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/204_show_notes.html"><strong>204</strong>, 04.04.19, 20:00</a></h4>
+                          <h2><a href="/episodes/204_show_notes.html">let substring = string[string.index(string.startIndex, offsetBy: 5) ..&lt; string.index(string.startIndex, offsetBy: 15)]</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a204');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a204">
+                                <p>try! Swift Tokyo, Swift 5, Strings in Swift, Apple Subscriptions, and picks of the week</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/204_substrings.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/204_substrings.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/204_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/203_show_notes.html"><strong>203</strong>, 21.03.19, 20:00</a></h4>
+                          <h2><a href="/episodes/203_show_notes.html">Technical Writing</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a203');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a203">
+                                <p>On technical writing and editing, finding unused code, and more.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/203_documentation.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/203_documentation.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/203_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/202_show_notes.html"><strong>202</strong>, 07.03.19, 20:00</a></h4>
+                          <h2><a href="/episodes/202_show_notes.html">Putting Pieces in Place</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a202');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a202">
+                                <p>Solving puzzles, algorithms, macros, and Swift 5.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/202_putting_pieces_in_place.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/202_putting_pieces_in_place.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/202_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/201_show_notes.html"><strong>201</strong>, 21.02.19, 21:00</a></h4>
+                          <h2><a href="/episodes/201_show_notes.html">application(_:willContinueUserActivityWithType:)</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a201');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a201">
+                                <p>Talking about more conferences (because of course), iPad, and cool projects we've seen on the web.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/201_application_willContinueUserActivityWithType.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/201_application_willContinueUserActivityWithType.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/201_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/107_show_notes.html"><strong>107</strong>, 31.01.19, 20:00</a></h4>
+                          <h2><a href="/episodes/107_show_notes.html">Xcode 10.2 beta 1 and the Swift Community Podcast</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a107');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a107">
+                                <p>Starting fresh into the new year with a discussion on Xcode 10.2 beta 1, the Swift Community Podcast, and more</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/107_xcode_10.2_and_more.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/107_xcode_10.2_and_more.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/107_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/106_show_notes.html"><strong>106</strong>, 08.11.18, 20:00</a></h4>
+                          <h2><a href="/episodes/106_show_notes.html">Refactoring Across a Large Code Base</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a106');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a106">
+                                <p>A discussion on how we recently refactored our networking stack at XING, from planning to implementation. And emoji.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/106_refactoring_across_a_large_code_base.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/106_refactoring_across_a_large_code_base.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/106_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/105_show_notes.html"><strong>105</strong>, 18.10.18, 20:00</a></h4>
+                          <h2><a href="/episodes/105_show_notes.html">Paul "John Sundell" Hudson</a></h2>
+                            <h5>with Paul Hudson</h5>
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a105');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a105">
+                                <p>An interview with Paul Hudson about his career, talking about journalism, books, Venn diagrams, conference speaking and diversity.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/105_paul_john_sundell_hudson.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/105_paul_john_sundell_hudson.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/105_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/104_show_notes.html"><strong>104</strong>, 04.10.18, 20:00</a></h4>
+                          <h2><a href="/episodes/104_show_notes.html">Conferences</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a104');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a104">
+                                <p>A general discussion around iOS conferences: Why you should go there, what you should do there, and what to do if you want to give a talk. Also a short report on two conferences we just attended: NSSpain and Try Swift.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/104_conferences.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/104_conferences.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/104_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/103_show_notes.html"><strong>103</strong>, 06.09.18, 20:00</a></h4>
+                          <h2><a href="/episodes/103_show_notes.html">A Philosophical Treatise on the Definition of Pro</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a103');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a103">
+                                <p>Bas and Benedikt discuss what a "Pro" device represents at Apple, what a Mac Mini Pro could be, and why the Touchbar should not be in a Pro device.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/103_a_philosophical_treatise_on_the_definition_of_pro.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/103_a_philosophical_treatise_on_the_definition_of_pro.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/103_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/102_show_notes.html"><strong>102</strong>, 23.08.18, 20:00</a></h4>
+                          <h2><a href="/episodes/102_show_notes.html">The Most Awful Static Site Engine</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a102');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a102">
+                                <p>Where Bas and Benedikt discuss iPad, our awful static site engine, Swift scripting, Strings in Swift and Zelda.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/102_the_most_awful_static_site_engine.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/102_the_most_awful_static_site_engine.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/102_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="episode">
+                          <h4><a href="/episodes/101_show_notes.html"><strong>101</strong>, 13.08.18, 17:00</a></h4>
+                          <h2><a href="/episodes/101_show_notes.html">applicationDidFinishLaunching:</a></h2>
+
+                            <div class="mobile-toggle">
+                              <a href="Javascript:toggle_visibility('a101');">Toggle Show Notes</a>
+                            </div>
+                            <div class="details" id="a101">
+                                <p>Where Bas and Benedikt discuss MacBook Keyboards, Swift's eighth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.</p>
+                                <p class="control">
+                                    <a class="listen" href="/episodes/101_applicationDidFinishLaunching.mp3">Listen</a>,
+                                    <a class="download" href="/episodes/101_applicationDidFinishLaunching.mp3">Download</a>,
+                                    or see <a class="show" href="/episodes/101_show_notes.html">Show Notes</a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    </div>
+                <div id="guests" class="column is-one-quarter">
+                    <h2>Guests</h2>
+                    <ul>
+                <li><a href="/episodes/316_show_notes.html"> Donny Wals</a></li>
+
+                <li><a href="/episodes/316_show_notes.html"> Sebastian Reimann</a></li>
+
+                <li><a href="/episodes/212_show_notes.html">Antoine van der Lee</a></li>
+
+                <li><a href="/episodes/316_show_notes.html">Berta Devant</a></li>
+
+                <li><a href="/episodes/302_show_notes.html">John Sundell</a></li>
+
+                <li><a href="/episodes/311_show_notes.html">Luis Ascorbe</a></li>
+
+                <li><a href="/episodes/105_show_notes.html">Paul Hudson</a></li>
+
+                <li><a href="/episodes/309_show_notes.html">Paweł Madej</a></li>
+
+                <li><a href="/episodes/305_show_notes.html">Pedro Carrasco</a></li>
+
+                    </ul>
+
+
+                </div>
             </div>
-            <section class="section header">
-                <div class="columns">
-                    <div class="column is-one-fifths">
-                        <ol class="head-menu is-hidden-touch">
-                            <li><a href="/about.html" class="button menu-button menu-button-1">ABOUT</a></li>
-                            <!-- <li><a href="" class="button menu-button menu-button-2">SHOWNOTES</a></li> -->
-                            <li><a href="/feed.rss" class="button menu-button menu-button-3">FEED</a></li>
-                        </ol>
-                    </div>
-                    <div class="column main-logo">
-                        <a href="/"><img class="main-logo" src="/images/main_logo.png" srcset="/images/main_logo.png 1x, /images/main_logo@2x.png 2x" alt="CONTRAVARIANCE Podcast. A logo with two heads talking." /></a>
-                    </div>
-                    <div class="column is-one-fifths">
-                        <ol class="head-menu text-right is-pulled-right is-hidden-touch">
-                            <li><a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323" class="button menu-button menu-button-4">iTUNES</a></li>
-                            <li><a href="https://overcast.fm/itunes1423771323/contravariance-a-swift-podcast" class="button menu-button menu-button-5">OVERCAST</a></li>
-                            <li><a href="https://pca.st/QjR1" class="button menu-button menu-button-6">POCKET CASTS</a></li>
-                            <li><a href="https://twitter.com/_contravariance" class="button menu-button menu-button-7">TWITTER</a></li>
-                        </ol>
-                    </div>
-                </div>
-                <div class="columns" id="authors">
-                    <div class="column is-half is-offset-one-quarter text-center">
-                        <p class="authors is-size-4">
-                            a Podcast by
-                            <a href="https://twitter.com/basthomas">Bas Broek</a>
-                            <br/>and
-                            <a href="https://twitter.com/terhechte">Benedikt Terhechte</a>
-                        </p>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    316
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/316_show_notes.html">A Jolly SwiftUI Christmas Special</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">In this episode, we initially discuss SwitUI and Apple documentation, but then dive off into a random discussion about pets, time travel, fireworks, and much more</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/316_show_notes.html" class="button is-danger is-outlined is-small">22.12.2020, 20:00</a>
-                                <a href="/episodes/316_jolly_swiftui_christmas_special.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/316_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/316_jolly_swiftui_christmas_special.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    315
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/315_show_notes.html">A Special Episode &mdash; Looking Forward</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">In which Bas announces leaving the podcast (for now), and Bene upgrades his setup. We also take a look back at all the episodes we've recorded in the last three years.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/315_show_notes.html" class="button is-danger is-outlined is-small">29.10.2020, 20:00</a>
-                                <a href="/episodes/315_looking_forward.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/315_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/315_looking_forward.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    314
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/314_show_notes.html">iPhone 12 &amp; Apple Silicon</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where we talk about Apple's October event, and the announced iPhone 12 and HomePod mini, as well as Apple Silicon.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/314_show_notes.html" class="button is-danger is-outlined is-small">22.10.2020, 20:00</a>
-                                <a href="/episodes/314_iphone_12_event_arm.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/314_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/314_iphone_12_event_arm.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    313
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/313_show_notes.html">Bas leaves XING</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/313_show_notes.html" class="button is-danger is-outlined is-small">08.10.2020, 20:00</a>
-                                <a href="/episodes/313_bas_leaves_xing.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/313_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/313_bas_leaves_xing.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    312
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/312_show_notes.html">Windows, Apple Event and ARM Macs</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where we talk about Swift for Windows, GUI development, ARM Macs, side projects and the recent Apple Event</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/312_show_notes.html" class="button is-danger is-outlined is-small">01.10.2020, 20:00</a>
-                                <a href="/episodes/312_windows.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/312_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/312_windows.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    311
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/311_show_notes.html">The History of NSSpain</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where we talk about the history of NSSpain, looking for new jobs, and Bas makes an announcement.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/311_show_notes.html" class="button is-danger is-outlined is-small">24.09.2020, 20:00</a>
-                                <a href="/episodes/311_luis.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/311_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/311_luis.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    310
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/310_show_notes.html">iOS is Hard</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where we talk about iOS development being not so easy, blogging, and in-app purchases.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/310_show_notes.html" class="button is-danger is-outlined is-small">17.09.2020, 20:00</a>
-                                <a href="/episodes/310_ios-is-hard.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/310_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/310_ios-is-hard.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    309
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/309_show_notes.html">CodeConf</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Paweł introduces his app CodeConf and we talk about how he managed to work on this side project.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/309_show_notes.html" class="button is-danger is-outlined is-small">10.09.2020, 20:00</a>
-                                <a href="/episodes/309_pawel.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/309_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/309_pawel.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    308
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/308_show_notes.html">WWDC 2020</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Bas has moved to Spain and Benedikt has been spending time at his mom's... and discussing WWDC.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/308_show_notes.html" class="button is-danger is-outlined is-small">21.07.2020, 20:00</a>
-                                <a href="/episodes/308-wwdc20-home.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/308_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/308-wwdc20-home.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    307
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/307_show_notes.html">Revealing Benedikt's Side Project</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Benedikt finally reveals the application he's been working on in the last months.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/307_show_notes.html" class="button is-danger is-outlined is-small">11.06.2020, 20:30</a>
-                                <a href="/episodes/307_hyperdeck.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/307_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/307_hyperdeck.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    306
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/306_show_notes.html">The Star Wars Babka Computer Delivery</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Benedikt is anticipating a new computer, and Bas is anticipating remote conferences. And Star Wars is anticipating Bas... and chocolate chip babka!</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/306_show_notes.html" class="button is-danger is-outlined is-small">14.05.2020, 20:00</a>
-                                <a href="/episodes/306_starwars_babka_computer_delivery.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/306_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/306_starwars_babka_computer_delivery.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    305
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/305_show_notes.html">Clearly my home screen is better than yours</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">In which we talk about all things remote, like organizing a meetup, conference, or work. We also take a look at our perfectly normal homescreens. Bene is considering building a silent computer. All this with Pedro Carrasco!</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/305_show_notes.html" class="button is-danger is-outlined is-small">16.04.2020, 19:30</a>
-                                <a href="/episodes/305_homescreens.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/305_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/305_homescreens.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    304
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/304_show_notes.html">What is a CNAME Again?</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We talk about open source projects and contributing to them. Where Bas forgets what a CNAME is, and Benedikt has to look it up for him.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/304_show_notes.html" class="button is-danger is-outlined is-small">19.03.2020, 20:30</a>
-                                <a href="/episodes/304_what_is_a_cname_again.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/304_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/304_what_is_a_cname_again.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    303
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/303_show_notes.html">Chocolate, Time, and Swift Scripts. Your Move, Elon.</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Benedikt asks himself "what door?" watching Westworld, and Bas has a surprise!</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/303_show_notes.html" class="button is-danger is-outlined is-small">05.03.2020, 20:00</a>
-                                <a href="/episodes/303_chocolate_time_swiftscripts_elon.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/303_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/303_chocolate_time_swiftscripts_elon.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    302
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/302_show_notes.html">Ink, Plot, Publish and More - With Special Guest John "Paul Hudson" Sundell</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Bas remembers his open source projects and previous talks, Benedikt finally shares more on his secret project... and sets someone up for an interesting challenge, our dear guest, John "Paul Hudson" Sundell.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/302_show_notes.html" class="button is-danger is-outlined is-small">14.02.2020, 20:00</a>
-                                <a href="/episodes/302_ink_plot_publish_john_sundell.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/302_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/302_ink_plot_publish_john_sundell.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    301
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/301_show_notes.html">Live from CocoaHeads Hamburg</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Bas still has no reason to buy new hardware, and Benedikt learned more about unicode than he wanted to. And both have an exciting year coming up. Live from CocoaHeads Hamburg on January 9, 2020.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/301_show_notes.html" class="button is-danger is-outlined is-small">14.01.2020, 20:00</a>
-                                <a href="/episodes/301_live_from_cocoaheads_hh.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/301_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/301_live_from_cocoaheads_hh.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    214
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/214_show_notes.html">Donny Wals' Advent of Swift, Disney+ and other things - A special Christmas Episode</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We talk with Donny Wals on his Advent of Swift project, Disney+, working on an SDK and more.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/214_show_notes.html" class="button is-danger is-outlined is-small">19.12.19, 20:00</a>
-                                <a href="/episodes/214_advent_of_swift.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/214_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/214_advent_of_swift.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    213
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/213_show_notes.html">MacBooks, AirPods Pro, GitHub Mobile &amp; SwiftUI</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We're talking about the new 16" MacBook, the new AirPods Pro, GitHub's new Mobile app, SwiftUI learnings and more.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/213_show_notes.html" class="button is-danger is-outlined is-small">21.11.19, 21:00</a>
-                                <a href="/episodes/213_macbooks.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/213_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/213_macbooks.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    212
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/212_show_notes.html">SwiftConf, NSSpain, mobiconf, and FrenchKit - With Special Guest Antoine van der Lee</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We're giving an overview over some of Europe's awesome iOS conferences in the last months.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/212_show_notes.html" class="button is-danger is-outlined is-small">17.10.19, 20:00</a>
-                                <a href="/episodes/212_conferences.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/212_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/212_conferences.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    211
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/211_show_notes.html">Our thoughts on Xcode 11</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We're talking about our initial Xcode 11 thoughts as well as the joy of just using Apple's latest tech in a brand new project.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/211_show_notes.html" class="button is-danger is-outlined is-small">30.08.19, 22:00</a>
-                                <a href="/episodes/211_xcode11.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/211_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/211_xcode11.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    210
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/210_show_notes.html">Implementing SwiftUI on top of UIKit in iOS 12</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We're talking about AwfulUI, a project which aims to re-implement the syntax of SwiftUI on top of UIKit in order to support iOS 12 or lower</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/210_show_notes.html" class="button is-danger is-outlined is-small">13.08.19, 20:00</a>
-                                <a href="/episodes/210_awfului.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/210_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/210_awfului.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    209
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/209_show_notes.html">Hackintoshes, new Apple Hardware, and an explanation of why VIM is cool</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">In which Benedikt explains Vim to Bas, new Apple hardware apparently is(n't) interesting, and interesting projects.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/209_show_notes.html" class="button is-danger is-outlined is-small">08.08.19, 20:00</a>
-                                <a href="/episodes/209_vim_hardware.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/209_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/209_vim_hardware.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    208
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/208_show_notes.html">The Static Catalyst iPad Window Refactoring Project Conference</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We talk about the Swift Island and Swift Aveiro conferences, static site generators and puzzles in our personal projects, iPadOS windowing support, Catalyst woes, refactoring tools and Swift UI guides</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/208_show_notes.html" class="button is-danger is-outlined is-small">11.07.19, 20:00</a>
-                                <a href="/episodes/208_tsciwrpc.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/208_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/208_tsciwrpc.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    207
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/207_show_notes.html">WWDC: Better Late Than Never</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We start talking about WWDC announcements, notably SwiftUI and iPadOS</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/207_show_notes.html" class="button is-danger is-outlined is-small">20.06.19, 20:00</a>
-                                <a href="/episodes/207_wwdc.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/207_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/207_wwdc.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    206
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/206_show_notes.html">Not Work</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">We talk about our interests outside of work, like watchmaking, electronic music, coffee and chocolate.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/206_show_notes.html" class="button is-danger is-outlined is-small">24.05.19, 20:00</a>
-                                <a href="/episodes/206_not_work.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/206_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/206_not_work.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    205
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/205_show_notes.html">WWDC Tips and Rumors</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Benedikt and Bas talk about the upcoming WWDC, how to make the most out of the conference, and what to expect. Also, career changes!</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/205_show_notes.html" class="button is-danger is-outlined is-small">10.05.19, 07:00</a>
-                                <a href="/episodes/205_wwdc.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/205_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/205_wwdc.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    204
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/204_show_notes.html">let substring = string[string.index(string.startIndex, offsetBy: 5) ..&lt; string.index(string.startIndex, offsetBy: 15)]</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">try! Swift Tokyo, Swift 5, Strings in Swift, Apple Subscriptions, and picks of the week</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/204_show_notes.html" class="button is-danger is-outlined is-small">04.04.19, 20:00</a>
-                                <a href="/episodes/204_substrings.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/204_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/204_substrings.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    203
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/203_show_notes.html">Technical Writing</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">On technical writing and editing, finding unused code, and more.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/203_show_notes.html" class="button is-danger is-outlined is-small">21.03.19, 20:00</a>
-                                <a href="/episodes/203_documentation.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/203_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/203_documentation.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    202
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/202_show_notes.html">Putting Pieces in Place</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Solving puzzles, algorithms, macros, and Swift 5.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/202_show_notes.html" class="button is-danger is-outlined is-small">07.03.19, 20:00</a>
-                                <a href="/episodes/202_putting_pieces_in_place.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/202_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/202_putting_pieces_in_place.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    201
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/201_show_notes.html">application(_:willContinueUserActivityWithType:)</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Talking about more conferences (because of course), iPad, and cool projects we've seen on the web.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/201_show_notes.html" class="button is-danger is-outlined is-small">21.02.19, 21:00</a>
-                                <a href="/episodes/201_application_willContinueUserActivityWithType.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/201_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/201_application_willContinueUserActivityWithType.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    107
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/107_show_notes.html">Xcode 10.2 beta 1 and the Swift Community Podcast</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Starting fresh into the new year with a discussion on Xcode 10.2 beta 1, the Swift Community Podcast, and more</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/107_show_notes.html" class="button is-danger is-outlined is-small">31.01.19, 20:00</a>
-                                <a href="/episodes/107_xcode_10.2_and_more.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/107_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/107_xcode_10.2_and_more.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    106
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/106_show_notes.html">Refactoring Across a Large Code Base</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">A discussion on how we recently refactored our networking stack at XING, from planning to implementation. And emoji.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/106_show_notes.html" class="button is-danger is-outlined is-small">08.11.18, 20:00</a>
-                                <a href="/episodes/106_refactoring_across_a_large_code_base.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/106_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/106_refactoring_across_a_large_code_base.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    105
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/105_show_notes.html">Paul "John Sundell" Hudson</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">An interview with Paul Hudson about his career, talking about journalism, books, Venn diagrams, conference speaking and diversity.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/105_show_notes.html" class="button is-danger is-outlined is-small">18.10.18, 20:00</a>
-                                <a href="/episodes/105_paul_john_sundell_hudson.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/105_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/105_paul_john_sundell_hudson.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    104
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/104_show_notes.html">Conferences</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">A general discussion around iOS conferences: Why you should go there, what you should do there, and what to do if you want to give a talk. Also a short report on two conferences we just attended: NSSpain and Try Swift.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/104_show_notes.html" class="button is-danger is-outlined is-small">04.10.18, 20:00</a>
-                                <a href="/episodes/104_conferences.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/104_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/104_conferences.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    103
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/103_show_notes.html">A Philosophical Treatise on the Definition of Pro</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Bas and Benedikt discuss what a "Pro" device represents at Apple, what a Mac Mini Pro could be, and why the Touchbar should not be in a Pro device.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/103_show_notes.html" class="button is-danger is-outlined is-small">06.09.18, 20:00</a>
-                                <a href="/episodes/103_a_philosophical_treatise_on_the_definition_of_pro.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/103_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/103_a_philosophical_treatise_on_the_definition_of_pro.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    102
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/102_show_notes.html">The Most Awful Static Site Engine</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Bas and Benedikt discuss iPad, our awful static site engine, Swift scripting, Strings in Swift and Zelda.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/102_show_notes.html" class="button is-danger is-outlined is-small">23.08.18, 20:00</a>
-                                <a href="/episodes/102_the_most_awful_static_site_engine.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/102_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/102_the_most_awful_static_site_engine.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="main-section content" id="articles">
-                <div class="columns">
-                    <div class="column is-three-fifths is-offset-one-fifth">
-                        <div class="columns article is-multiline">
-                            <div class="column is-1">
-                                <h1 class="has-text-warning">
-                                    101
-                                </h1>
-                            </div>
-                            <div class="column is-9">
-                                <h1 class="has-text-white has-mobile-padding is-size-3-desktop is-size-4-tablet is-size-5-mobile"><a href="/episodes/101_show_notes.html">applicationDidFinishLaunching:</a></h1>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <p class="has-text-info episode-info has-mobile-padding is-size-5 is-size-6-mobile">Where Bas and Benedikt discuss MacBook Keyboards, Swift's eighth birthday, Swift conferences, Mac Development, and Peanut-Butter Pizza.</p>
-                            </div>
-                            <div class="column is-9 is-offset-1">
-                                <a href="/episodes/101_show_notes.html" class="button is-danger is-outlined is-small">13.08.18, 17:00</a>
-                                <a href="/episodes/101_applicationDidFinishLaunching.mp3" class="button is-danger is-outlined is-small">GET</a>
-                                <a href="/episodes/101_show_notes.html" class="button is-info is-outlined is-small">Shownotes</a>
-                                <a href="/episodes/101_applicationDidFinishLaunching.mp3" class="button is-primary is-outlined is-small">Listen</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-
-            <footer class="footer">
-                <div class="has-text-centered">
-                    <p>
-                        Contravariance. by Bas Broek and Benedikt Terhechte.<br/>
-                        A podcast about Apple, Swift and other programming topics.
-                    </p>
-                </div>
-            </footer>
         </div>
+    </section>
 
-
-    </body>
+    <script type="text/javascript">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+      <footer class="footer">
+          <div class="has-text-centered">
+              <p>
+              Contravariance by <a href="https://twitter.com/terhechte">Benedikt Terhechte</a>
+              </p>
+              <p>
+              <small>Previously, by <a href="https://twitter.com/basthomas">Bas Broek</a> and Benedikt Terhechte</small>
+              </p>
+          </div>
+      </footer>
+</body>
 
 </html>
+
