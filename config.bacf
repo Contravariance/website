@@ -6,7 +6,7 @@
 - entriesTemplate: _entry.html
 - podcastAuthor: Benedikt Terhechte
 - podcastLink: https://contravariance.rocks
-- podcastDescription: A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte and Bas Broek.
+- podcastDescription: A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.
 - podcastKeywords: apple, swift, mac, iphone, ipad, macos, mojave, rust
 - iTunesOwner: Benedikt Terhechte
 - iTunesEmail: terhechte+contravariance@gmail.com

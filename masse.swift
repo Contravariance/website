@@ -53,7 +53,7 @@ enum Keys {
 
     }
     enum PodcastEntry: String, CaseIterable {
-        case nr, title, date, file, duration, length, author, description, notes
+        case nr, title, date, file, duration, length, author, description, notes, guests
     }
 }
 
@@ -170,11 +170,17 @@ struct TemplateVariablesParser {
             guard let (name, start, end) = nameBetweenIdentifiers(line: internalLine, begin: variableStart, end: variableEnd) else {
                 break
             }
-            guard let variable = variables[name] else {
+            let variable = variables[name]
+
+            /// if the variable name is `guests` and the content is empty, return an empty line. hack
+            if variable == nil && name == "entry.guests" {
+                return ""
+            }
+            guard let actualVariable = variables[name] else {
                 log("Unknown variable \(name)")
                 break
             }
-            internalLine.replaceSubrange(start..<end, with: variable)
+            internalLine.replaceSubrange(start..<end, with: actualVariable)
         }
         return internalLine
     }
@@ -741,13 +747,25 @@ struct Site {
     
     /// Goes through all the posts
     private mutating func parseEntries() throws {
+        var guests = [[String: String]]()
         for file in try FileManager.default.contentsOfDirectory(atPath: configuration.podcastEntriesFolder) {
             let url = URL(fileURLWithPath: "\(configuration.podcastEntriesFolder)/\(file)")
             guard url.pathExtension == "bacf" else { continue }
             let parsed = try ConfigEntryParser(url: url, keys: Keys.PodcastEntry.allCases.map { $0.rawValue }, overflowKey: Keys.PodcastEntry.notes.rawValue)
             let entry = PodcastEntry(meta: parsed.retrieve(), filename: file, folder: configuration.mp3FilesFolder)
             entries.append(entry)
+
+            for guest in entry.guests {
+                let guestEntry = ["name": guest, "episode": (entry.meta["nr"] ?? "Anon")]
+                guests.append(guestEntry)
+            }
         }
+        let sortedGuests: [[String: String]] = guests.sorted(by: { (a, b) in
+          guard let first = a["name"], let second = b["name"]  else { return false }
+          return first.trimmingCharacters(in: .whitespaces).lowercased() < second.trimmingCharacters(in: .whitespaces).lowercased()
+        })
+
+        self.context["guests"] = sortedGuests
     }
     
     /// Goes through all .html files beginning with a _ and collect their sections.
@@ -825,6 +843,7 @@ struct PodcastEntry {
     
     var meta: [String: String]
     let date: Date
+    var guests: [String] = []
     let filename: String
     
     init(meta: [String: String], filename: String, folder: String) {
@@ -845,6 +864,8 @@ struct PodcastEntry {
             print("Could not read mp3 file `\(url)`")
             return
         }
+        self.guests = self.meta[Keys.PodcastEntry.guests.rawValue]?.split(separator: ",").map(String.init) ?? []
+
         self.meta[Keys.PodcastEntry.length.rawValue] = "\(data.count)"
         let stream = InputStream(data: data)
         do {
