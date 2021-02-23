@@ -1,0 +1,201 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200;300;800&display=swap');
+
+* {
+    font-family: 'JetBrains Mono', monospace;
+    color: #1D1E1F;
+}
+
+html, body {
+    background-color: #EFEFEF !important;
+}
+
+
+#nav {
+    display: flex;
+    justify-content: space-around;
+    font-size:12pt;
+    list-style: none;
+}
+
+#nav li {
+    border: 2pt solid black;
+    border-radius: 3pt;
+    color: #1D1E1F;
+    flex-grow: 1;
+    flex-basis: 0;
+    text-align: center;
+    padding: 2pt;
+    margin: 2pt;
+}
+
+#nav li.sel {
+    background-color: #1D1E1F;
+    color: white;
+}
+
+#nav li a {
+    color: #1D1E1F;
+}
+
+#nav li.sel a {
+    color: white;
+}
+
+.episode-title {
+    margin-top: 40pt;
+    font-weight: bold;
+}
+
+.episode {
+    margin-top: 10pt;
+    margin-bottom: 30pt;
+}
+
+.episode h4 {
+    font-size: 9pt;
+}
+
+.episode h2 {
+    font-weight: 800;
+    margin-top: 7pt;
+    margin-bottom: 3pt;
+}
+
+.episode h5 {
+    font-size: 9pt;
+    color: #333;
+    margin-bottom: 7pt;
+}
+
+.episode p {
+    font-size: 11pt;
+    line-height: 25pt;
+}
+
+.episode p.control {
+    margin-top: 8pt;
+}
+
+.episode p.control a {
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+.episode p.control .listen {
+    color: #FF3860;
+}
+
+.episode p.control .download {
+    color: #209CEE;
+}
+
+.episode p.control .show {
+    color: #111;
+}
+
+.episode .details {
+    display: none;
+}
+
+.episode .more-button {
+    border: 2pt solid black;
+    border-radius: 3pt;
+    color: #1D1E1F;
+    text-align: center;
+    width: 30pt;
+    height: 20pt;
+}
+
+.episode a {
+    color: #111;
+    text-decoration: underline;
+}
+
+#links {
+    margin-top: 30pt;
+}
+
+#links li a {
+    font-size: 9pt;
+    color: #1D1E1F;
+    text-decoration: underline;
+}
+
+#guests {
+    margin-top: 90pt;
+}
+
+#guests h2 {
+    font-weight: 800;
+    margin-top: 10pt;
+}
+
+#guests ul a {
+    font-size: 9pt;
+    color: #1D1E1F;
+    text-decoration: underline;
+}
+
+.notes {
+    background-color: #e0e0e5;
+    border-radius: 4pt;
+    padding: 8pt;
+}
+
+.mobile-toggle {
+    font-weight: 800;
+    font-size: 11pt;
+    display: none;
+}
+
+.episode .details {
+    display: none;
+}
+.mobile-toggle {
+    display: block;
+}
+
+.episode-list {
+    margin-top: 30pt;
+}
+
+.episode-list .episode:nth-child(1) h2 {
+  font-size: 19pt;
+}
+
+.episode-list .episode:nth-child(1) .details {
+    display: block;
+}
+
+.episode-list .episode:nth-child(1) .mobile-toggle {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    #links {
+        display: flex;
+        justify-content: space-around;
+        font-size:12pt;
+        list-style: none;
+    }
+}
+
+.footer {
+  background-color: #EFEFEF !important;
+}
+
+.episode h2 a, .episode h4 a {
+  text-decoration: none !important;
+}
+
+.episode .mobile-toggle {
+  margin-left: 20pt;
+}
+.episode .mobile-toggle a {
+  color: #FF3860 !important;
+}
+
+a:hover {
+  color: #FF3860 !important;
+}

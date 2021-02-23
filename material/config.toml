@@ -4,10 +4,10 @@
 image_path = "./logo_big.jpg"
 
 # The year of podcast production
-year = 2019
+year = 2021
 
 # The album for the podcast
-album = "ContraVariance Podcast with Bas Broek and Benedikt Terhechte"
+album = "Contravariance Podcast with Benedikt Terhechte and Guests"
 
 # The artist for the podcast
-artist = "ContraVariance Podcast with Bas Broek and Benedikt Terhechte"
+artist = "Contravariance Podcast with Benedikt Terhechte and Guests"

@@ -1,14 +1,22 @@
 {{SECTION name="head"}}
-<section class="main-section">
-    <div class="columns">
-        <div class="column is-three-fifths is-offset-one-fifth">
-            <div class="content" id="content-block">
-                <a href="/episodes/#{file}#" class="button is-large is-fullwidth is-link">Listen to the Episode</a>
+                    <ul id="nav">
+                        <li><a href="/index.html">Back to Episodes</a></li>
+                        <li><a href="/about.html">About</a></li>
+                    </ul>
+{{SECTION name="listhead"}}
 
-                #{notes}#
-
-            </div>
-        </div>
-    </div>
-</section>
+                    <div id="shownotes">
+                        <div class="episode">
+                          <h4><strong>#{nr}#</strong>, #{date}#</h4>
+                          <h2>#{title}#</h2>
+                            <h5>with: #{guests}#</h5>
+                            <p>#{description}#</p>
+                            <p class="control">
+                            <a class="listen" href="#{file}#">Listen</a>,
+                            <a class="download" href="#{file}#">Download</a>
+                        </div>
+                        <div class="content notes is-small">
+                    #{notes}#
+                        </div>
+                    </div>
 {{SECTION name="footer"}}
