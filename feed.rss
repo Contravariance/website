@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 25 Feb 2021 19:32:30 GMT+1</pubDate>
-    <lastBuildDate>Thu, 25 Feb 2021 19:32:30 GMT+1</lastBuildDate>
+    <pubDate>Thu, 25 Feb 2021 19:43:56 GMT+1</pubDate>
+    <lastBuildDate>Thu, 25 Feb 2021 19:43:56 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</itunes:summary>
@@ -43,7 +43,7 @@
                  <div>
 <h3>Contents</h3>
 <p>
-Our two guests in this episode are <a href="https://twitter.com/tammofreese">Tammo Freese</a>, Engineering Manager at <a href="https://twitter.com/MobimeoMobility">Mobimeo</a> and <a href="https://twitter.com/catehstn">Cate Huston</a>, Engineering Director at <a href="https://duckduckgo.com">DuckDuckGo</a>.
+Our two guests in this episode are <a href="https://twitter.com/catehstn">Cate Huston</a>, Engineering Director at <a href="https://duckduckgo.com">DuckDuckGo</a> and <a href="https://twitter.com/tammofreese">Tammo Freese</a>, Engineering Manager at <a href="https://twitter.com/MobimeoMobility">Mobimeo</a>.
 </p>
 <p>
 This time, we discuss the progression from engineering to leadership. Have you considered becoming a team lead and going into management? Do you wonder if this is the right step? Will you still be coding or performing engineering work? This episode tries to shed light on some of these issues.
@@ -126,8 +126,8 @@ Apart from that, we also discuss management best practices, how to communicate t
 
   <ul>
     <li><a href="https://appventure.me">Benedikt</a> <a href="https://twitter.com/terhechte">[Twitter]</a></li>
-    <li><a href="https://www.donnywals.com">Donny</a> <a href="">[Twitter]</a></li>
-    <li><a href="https://twitter.com/bertadevant">Donny</a></li>
+    <li><a href="https://www.donnywals.com">Donny</a> <a href="https://twitter.com/donnywals">[Twitter]</a></li>
+    <li><a href="https://twitter.com/bertadevant">Berta Devant</a></li>
     <li><a href="https://twitter.com/seb_rei">Sebastian</a></li>
   </ul>
 </p>
