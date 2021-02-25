@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Tue, 23 Feb 2021 14:01:53 GMT+1</pubDate>
-    <lastBuildDate>Tue, 23 Feb 2021 14:01:53 GMT+1</lastBuildDate>
+    <pubDate>Thu, 25 Feb 2021 16:49:09 GMT+1</pubDate>
+    <lastBuildDate>Thu, 25 Feb 2021 16:49:09 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</itunes:summary>
@@ -24,6 +24,68 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>401: Hello Management, Goodbye Coding</title>
+      <itunes:title>Hello Management, Goodbye Coding</itunes:title>
+      <itunes:episode>401</itunes:episode>
+      <link>https://contravariance.rocks/episodes/401_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/401_show_notes.html</guid>
+      <pubDate>Thu, 25 Feb 2021 20:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/401_hello_management.mp3" length="45310627"/>
+      <itunes:duration>00:46:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Benedikt Terhechte</itunes:author>
+      <description>In this episode we discuss the pros and cons of switching to a management position. What is it like, can you still code, and how should you go about it. We discuss this topic with Cate Hudson and Tammo Freese. Also: Great recommendations and racoons in the show notes!</description>
+      <itunes:summary>In this episode we discuss the pros and cons of switching to a management position. What is it like, can you still code, and how should you go about it. We discuss this topic with Cate Hudson and Tammo Freese. Also: Great recommendations and racoons in the show notes!</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://twitter.com/tammofreese">Tammo Freese</a></li>
+    <li><a href="https://twitter.com/catehstn">Cate Hudson</a></li>
+  </ul>
+
+  <h3>Management Book Recommendations</h3>
+  <ul>
+    <li>A couple of books: Resilient Management</li>
+    <li>The Effective Manager</li>
+    <li>Become an Effective Software Engineering Manager.</li>
+    <li>First Break All the Rules</li>
+    <li>The Manager's Path</li>
+    <li>Strength-Based Leadership</li>
+  </ul>
+
+  <h3>Racoons</h3>
+  <ul>
+    <li><a href="https://www.instagram.com/p/CBSXH6anVRC/">Specimen 1</a></li>
+    <li><a href="https://www.instagram.com/p/CLr0Itxnm0q/?igshid=qly93dbekc1r">Specimen 2</a></li>
+    <li><a href="https://www.instagram.com/p/CEmJfk1HxDL/">Specimen 3</a></li>
+    <li><a href="https://www.instagram.com/p/CDYHz0PhkO4/">Specimen 4</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>316: A Jolly SwiftUI Christmas Special</title>
       <itunes:title>A Jolly SwiftUI Christmas Special</itunes:title>

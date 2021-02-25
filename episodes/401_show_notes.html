@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"
+    xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://contravariance.rocks" />
+    <meta property="og:site_name" content="Contravariance. A Swift Podcast" />
+    <meta property="og:title" content="Episodes" />
+    <meta property="og:url" content="https://contravariance.rocks" />
+    <meta property="og:type" content="website" />
+    <meta itemprop="name" content="Episodes" />
+    <meta itemprop="url" content="https://contravariance.rocks" />
+    <meta name="twitter:title" content="Episodes" />
+    <meta name="twitter:url" content="https://contravariance.rocks" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="description" content="A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte." />
+    <meta name="keywords" content="apple, swift, mac, iphone, ipad, macos, mojave, rust" />
+    <title>Contravariance. A Swift Podcast</title>
+    <link href="/styles.css" rel="stylesheet">
+    <link href="/player/shikwasa.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <script src="/player/shikwasa.min.js"></script>
+    <section class="section">
+        <div class="container">
+            <div class="columns is-8">
+                <div class="column is-one-quarter">
+
+                    <a href="/">
+                        <picture>
+                            <source srcset="/logo_dark.svg" media="(prefers-color-scheme: dark)">
+                            <img src="/logo.svg">
+                        </picture>
+                    </a>
+
+                    <ul id="links">
+                        <li><a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes</a></li>
+                        <li><a href="https://overcast.fm/itunes1423771323/contravariance-a-swift-podcast">Overcast</a></li>
+                        <li><a href="https://pca.st/QjR1">Pocket Casts</a></li>
+                        <li><a href="https://twitter.com/_contravariance">Twitter</a></li>
+                        <li><a href="/feed.rss">Feed</a></li>
+                    </ul>
+
+                </div>
+                <div class="column">
+                    <ul id="nav">
+                        <li><a href="/index.html">Back to Episodes</a></li>
+                        <li><a href="/about.html">About</a></li>
+                    </ul>
+                    <h3 class="episode-title">Latest Episode</h3>
+
+                    <div class="episode-list">
+
+                    <div id="shownotes">
+                        <div class="episode">
+                          <h4><strong>401</strong>, 25.02.2021, 20:00</h4>
+                          <h2>Hello Management, Goodbye Coding</h2>
+                            <h5>with: Cate Hudson, Tammo Freese</h5>
+                            <p>In this episode we discuss the pros and cons of switching to a management position. What is it like, can you still code, and how should you go about it. We discuss this topic with Cate Hudson and Tammo Freese. Also: Great recommendations and racoons in the show notes!</p>
+                            <p class="control">
+                            <a class="listen" href="Javascript:play('player401', '/episodes/401_hello_management.mp3', 'Hello Management, Goodbye Coding');">Listen</a>,
+                            <a class="download" href="401_hello_management.mp3">Download</a>
+                            <div id="player401"></div>
+                        </div>
+                        <div class="content notes is-small">
+                    <div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://twitter.com/tammofreese">Tammo Freese</a></li>
+    <li><a href="https://twitter.com/catehstn">Cate Hudson</a></li>
+  </ul>
+
+  <h3>Management Book Recommendations</h3>
+  <ul>
+    <li>A couple of books: Resilient Management</li>
+    <li>The Effective Manager</li>
+    <li>Become an Effective Software Engineering Manager.</li>
+    <li>First Break All the Rules</li>
+    <li>The Manager's Path</li>
+    <li>Strength-Based Leadership</li>
+  </ul>
+
+  <h3>Racoons</h3>
+  <ul>
+    <li><a href="https://www.instagram.com/p/CBSXH6anVRC/">Specimen 1</a></li>
+    <li><a href="https://www.instagram.com/p/CLr0Itxnm0q/?igshid=qly93dbekc1r">Specimen 2</a></li>
+    <li><a href="https://www.instagram.com/p/CEmJfk1HxDL/">Specimen 3</a></li>
+    <li><a href="https://www.instagram.com/p/CDYHz0PhkO4/">Specimen 4</a></li>
+  </ul>
+</p>
+</div>
+
+
+                        </div>
+                    </div>
+    <script type="text/javascript">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+function play(id, url, title) {
+  const player = new Shikwasa({
+  container: () => document.getElementById(id),
+   audio: {
+     title: title,
+     artist: 'Contravariance',
+     cover: '/logo_small.jpg',
+     src: url,
+   },
+  });
+  player.play();
+}
+    </script>
+      <footer class="footer">
+          <div class="has-text-centered">
+              <p>
+              Contravariance by <a href="https://twitter.com/terhechte">Benedikt Terhechte</a>
+              </p>
+              <p>
+              <small>Previously, by <a href="https://twitter.com/basthomas">Bas Broek</a> and Benedikt Terhechte</small>
+              </p>
+          </div>
+      </footer>
+<style>
+.shk { width: 460px !important; }
+</style>
+</body>
+
+</html>
