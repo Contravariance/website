@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Thu, 25 Feb 2021 20:12:17 GMT+1</pubDate>
-    <lastBuildDate>Thu, 25 Feb 2021 20:12:17 GMT+1</lastBuildDate>
+    <pubDate>Tue, 18 May 2021 21:33:06 GMT+2</pubDate>
+    <lastBuildDate>Tue, 18 May 2021 21:33:06 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</itunes:summary>
@@ -24,6 +24,45 @@
     <copyright>Copyright 2018-2019 Contravariance</copyright>
 
     <!-- Latest -->
+    <item>
+      <title>401: Platform Teams</title>
+      <itunes:title>Platform Teams</itunes:title>
+      <itunes:episode>401</itunes:episode>
+      <link>https://contravariance.rocks/episodes/401_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/401_show_notes.html</guid>
+      <pubDate>Tue, 18 May 2021 20:00:00 GMT+2</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/402_platform_teams.mp3" length="33850150"/>
+      <itunes:duration>00:34:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Benedikt Terhechte</itunes:author>
+      <description>In this episode we discuss platform teams. What are they, when do you need them, how do they work. With Special Guest Patrick Balestra from Spotify.</description>
+      <itunes:summary>In this episode we discuss platform teams. What are they, when do you need them, how do they work. With Special Guest Patrick Balestra from Spotify.</itunes:summary>
+      <itunes:image href="https://contravariance.rocks/material/logo_big.jpg" />
+      <content:encoded>
+        <![CDATA[
+                 <div>
+<h3>Contents</h3>
+<p>
+In this episode we discuss platform teams. What are they, when do you need them, how do they work. With Special Guest <a href="https://twitter.com/balestrapatrick?s=21">Patrick Balestra</a> from Spotify.
+</p>
+<h3>Links</h3>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Platform Teams</h3>
+  <ul>
+    <li><a href="https://mobilenativefoundation.org">Mobile Native Foundation</a></li>
+  </ul>
+</p>
+</div>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
     <item>
       <title>401: Hello Management, Goodbye Coding</title>
       <itunes:title>Hello Management, Goodbye Coding</itunes:title>
