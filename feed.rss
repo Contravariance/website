@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Tue, 18 May 2021 21:33:06 GMT+2</pubDate>
-    <lastBuildDate>Tue, 18 May 2021 21:33:06 GMT+2</lastBuildDate>
+    <pubDate>Thu, 20 May 2021 19:59:18 GMT+2</pubDate>
+    <lastBuildDate>Thu, 20 May 2021 19:59:18 GMT+2</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</itunes:summary>
@@ -25,11 +25,11 @@
 
     <!-- Latest -->
     <item>
-      <title>401: Platform Teams</title>
+      <title>402: Platform Teams</title>
       <itunes:title>Platform Teams</itunes:title>
-      <itunes:episode>401</itunes:episode>
-      <link>https://contravariance.rocks/episodes/401_show_notes.html</link>
-      <guid>https://contravariance.rocks/episodes/401_show_notes.html</guid>
+      <itunes:episode>402</itunes:episode>
+      <link>https://contravariance.rocks/episodes/402_show_notes.html</link>
+      <guid>https://contravariance.rocks/episodes/402_show_notes.html</guid>
       <pubDate>Tue, 18 May 2021 20:00:00 GMT+2</pubDate>
       <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/402_platform_teams.mp3" length="33850150"/>
       <itunes:duration>00:34:56</itunes:duration>
