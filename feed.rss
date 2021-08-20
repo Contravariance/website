@@ -6,8 +6,8 @@
     <description>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en</language>
-    <pubDate>Fri, 20 Aug 2021 19:20:56 GMT+1</pubDate>
-    <lastBuildDate>Fri, 20 Aug 2021 19:20:56 GMT+1</lastBuildDate>
+    <pubDate>Fri, 20 Aug 2021 19:22:47 GMT+1</pubDate>
+    <lastBuildDate>Fri, 20 Aug 2021 19:22:47 GMT+1</lastBuildDate>
     <itunes:new-feed-url>https://contravariance.rocks/feed.rss</itunes:new-feed-url>
     <itunes:author>Benedikt Terhechte</itunes:author>
     <itunes:summary>A podcast about Apple, Swift and other programming topics. By Benedikt Terhechte.</itunes:summary>
@@ -30,8 +30,8 @@
       <itunes:episode>403</itunes:episode>
       <link>https://contravariance.rocks/episodes/403_show_notes.html</link>
       <guid>https://contravariance.rocks/episodes/403_show_notes.html</guid>
-      <pubDate>Thu, 19 Aug 2021 20:00:00 GMT+1</pubDate>
-      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/403_surprise_guest.mp3" length="31781246"/>
+      <pubDate>Thu, 19 Aug 2021 21:00:00 GMT+1</pubDate>
+      <enclosure type="audio/mpeg" url="https://contravariance.rocks/episodes/403_surprise_guest.mp3" length="31781322"/>
       <itunes:duration>00:32:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>Benedikt Terhechte</itunes:author>
