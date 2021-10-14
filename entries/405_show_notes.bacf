@@ -1,0 +1,49 @@
+- nr: 405
+- title: Because 404 Not Found
+- date: 14.10.2021, 21:00
+- file: 405_because_404_not_found.mp3
+- author: Bas Broek / Benedikt Terhechte
+- description: In which we talk about build systems, dependency graphs, conferences (who would've guessed), and XCTest.
+
+---
+<div>
+<p>
+  Please let us know your take-away of this episode by sharing it with us <a href="https://twitter.com/_contravariance">@_contravariance</a>.
+</p>
+<p>
+  An <a href="https://itunes.apple.com/us/podcast/contravariance-a-swift-podcast/id1423771323">iTunes review</a> is also greatly appreciated!
+</p>
+<p>
+  <h3>Contact information</h3>
+
+  <ul>
+    <li><a href="https://contravariance.rocks">Contravariance's website</a></li>
+    <li><a href="https://github.com/Contravariance/website">GitHub repository</a></li>
+    <li><a href="https://twitter.com/_contravariance">Contravariance's Twitter</a></li>
+    <li><a href="https://twitter.com/terhechte">Benedikt's Twitter</a></li>
+    <li><a href="https://twitter.com/basthomas">Bas' Twitter</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="https://appventure.me">Benedikt's blog</a></li>
+    <li><a href="https://basthomas.github.io">Bas' blog</a></li>
+  </ul>
+</p>
+<p>
+  <h3>Show Notes</h3>
+
+  <ul>
+    <li><a href="https://twitter.com/churowa">Francis</a></li>
+    <li><a href="https://developer.apple.com/xcode-cloud/">Xcode Cloud</a></li>
+    <li><a href="https://twitter.com/__chefski__">Séan</a></li>
+    <li><a href="https://twitter.com/basthomas/status/1445797400581480449">Test Again Without Building</a></li>
+    <li><a href="https://speakerdeck.com/basthomas/treat-yourself-keeping-an-eye-on-your-dependency-graph">Dependency Graph Presentation</a></li>
+    <li><a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-11_4-release-notes">Xcode 11.4 Release Notes</a></li>
+    <li><a href="https://www.basbroek.nl/xctassert-asterisk">XCTest Blog Post</a></li>
+    <li><a href="https://swiftleeds.co.uk">SwiftLeeds</a></li>
+    <li><a href="https://swiftaveiro.com">SwiftAveiro</a></li>
+    <li><a href="https://www.tryswift.co">try! Swift</a></li>
+    <li><a href="https://twitter.com/davedelong">Dave DeLong</a></li>
+  </ul>
+</p>
+</div>
